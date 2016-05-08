@@ -8,15 +8,15 @@
 ---
 
 **Panel #1:** Visual description of the panel
-* Character1: content of his/her speechbubble
-* Character2: content of his/her speechbubble
+> Character1: content of his/her speechbubble
+> Character2: content of his/her speechbubble
 
 ---
 
 **Panel #2:** Visual description of the panel
-* Character1: content of his/her speechbubble
+> Character1: content of his/her speechbubble
   
 ---
 
 **Panel #3:** Visual description of the panel
-* Character1: content of his/her speechbubble
+> Character1: content of his/her speechbubble
