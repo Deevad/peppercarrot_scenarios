@@ -34,7 +34,9 @@ You can start a scene like this:
 
 And add a panel like this:
 
-```**Panel 1:** Visual description of the panel
+```
+
+**Panel 1:** Visual description of the panel
 
 **Character1:** content of his/her speechbubble
 
