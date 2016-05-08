@@ -64,7 +64,7 @@ _Pepper: Of course! The graffles! They were taking good care of the pond because
 ## Scene 3
 
 **Panel 22:** Shot of Pepper in her witch robes. She is in the forest talking with the  leader of the Graffles. The graffles look miserable because they are living now in a zone of the forest with no water and they are water gnomes. There is a text box on the top of the frame.  
-_Narrator: Short after…  
+_Narrator: Short after…_  
 _Pepper: I am so sorry I kicked you out of my pond. Please, come back! I am sure we can share it together. You will be happy living in the water again and my pond will be clean._
 
 **Panel 23:** Shot of the pond. It looks wonderful again, all clean, with the lily pads. The graffle town has been reconstructed and the graffles are living happily there. Pepepr and Carrot are swimming in the pond, together with some graffles.  
