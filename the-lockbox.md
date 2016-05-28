@@ -40,7 +40,7 @@ _Thyme: This treaty binds the schools together in peace. We must not delay any f
 
 **Panel 9:** Pepper and Carrot continue looking around. The creatures become less welcoming and more ominous. If you think of some of the fish in the Marianas trench you're not far off.
 
-**Panel 10: Close-up of Carrot as he points at a faint glow in the distance. Pepper's face is a mixture of surprise, wonder, and trepedation.
+**Panel 10:** Close-up of Carrot as he points at a faint glow in the distance. Pepper's face is a mixture of surprise, wonder, and trepedation.
 
 ## Scene 3
 
@@ -48,7 +48,7 @@ _Thyme: This treaty binds the schools together in peace. We must not delay any f
 
 **Panel 12:** Pepper and Carrot arrive at the gate. A set of mean eyes peers at them through a slit. Mysterious symbols emanate from the grate.
 
-_Guard: [insert runic symbols for Aquah: "State your business"]
+_Guard: [insert runic symbols for Aquah: "State your business!"]
 
 _Pepper: I...uh... I am Pepper and this is Carrot and we're here to ...
 
