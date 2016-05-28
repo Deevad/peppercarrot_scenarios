@@ -7,34 +7,34 @@ The Lockbox
 ## Scene 1
 
 **Panel 1:** Outside Pepper's house. 
-_Cayenne: We have an errand for you, Pepper
+_Cayenne:_ We have an errand for you, Pepper
 
 **Panel 2:** Inside Pepper's house. Side view of Pepper, Cayenne, Thyme and Cumin. Cayenne is seated talking to Pepper over the table. Cumin and Thyme stand beside Cayenne. They are looking somewhat serious. Cumin's eyes are closed as if in thought.
 
-_Cayenne: As part of the agreement that ended the war we must visit each of the lock boxes that house various parts of the treaty and renew them every six years.
+_Cayenne:_ As part of the agreement that ended the war we must visit each of the lock boxes that house various parts of the treaty and renew them every six years.
 
 **Panel 3:** Lock on to Pepper's somewhat confused face, doing mental arithmetic.
 
-_Pepper: Wasn't that renewed two years ago?
-_Cayenne: It was, all but our treaty with Aquah.
+_Pepper:_ Wasn't that renewed two years ago?
+_Cayenne:_ It was, all but our treaty with Aquah.
 
 **Panel 4:** Lock onto Cayenne's trademark serious face.
 
-_Cayenne: Aquah is the hardest to sign because they are in constant flow.
+_Cayenne:_ Aquah is the hardest to sign because they are in constant flow.
 
 **Panel 5:** Flashback to Cumin outside of Aquah looking blue, about to gasp her last breath
 
-_Cayenne: Poor Cumin almost drowned trying to sign the treaty the last time.
+_Cayenne:_ Poor Cumin almost drowned trying to sign the treaty the last time.
 
 **Panel 6:** Pull back to the godmothers, Cmuin still deep in thought, Cayenne bows her head. Thyme holds her hand as if making a serious point.
 
-_Thyme: Last time we did not have an heir and Aquah reluctantly let Cumin sign on behalf of Chaosah. Now that we have located Aquah we must send you as our representative.
+_Thyme:_ Last time we did not have an heir and Aquah reluctantly let Cumin sign on behalf of Chaosah. Now that we have located Aquah we must send you as our representative.
 
 ## Scene 2
 
 **Panel 7:** Pepper and Carrot embark over to the water as though they are to embark on a long and dangerous underwater journey. Thyme's face is offset in the frame, as though these were the last words she said to Pepper before wishing them well.
 
-_Thyme: This treaty binds the schools together in peace. We must not delay any further.
+_Thyme:_ This treaty binds the schools together in peace. We must not delay any further.
 
 **Panel 8:** Pepper and Carrot are in a bubble of some form as they begin their journey beneath Hereva's watery depths. They look around the mysteries of Hereva's underwater kingdom. Many fish and other creatures look at them; some dismissively, some encouragingly, and others in a more predatory manner.
 
@@ -50,7 +50,7 @@ _Thyme: This treaty binds the schools together in peace. We must not delay any f
 
 _Guard: [insert runic symbols for Aquah: "State your business!"]
 
-_Pepper: I...uh... I am Pepper and this is Carrot and we're here to ...
+_Pepper:_ I...uh... I am Pepper and this is Carrot and we're here to ...
 
 _Guard: [insert runic symbolx for Aquah: "OPEN!"]
 
@@ -64,7 +64,7 @@ _Guard: [insert runic symbolx for Aquah: "OPEN!"]
 
 **Panel 16:** The room is tall and purposeful, as though it was built especially for housing foreigners to come sign the treaty and nothing more. The walls are somewhat cracked and the room looks musty. Stale air permeates the room. At the center is a glowing box with the runes of Ah emblazoned on it. Pepper walks towards it.
 
-**Panel 17:** Pepper stands before the box. The camera is locked on her face as she places her hand on the box. A Chaosah summoning circle emanates from her hand as she mutters the spell under her breath. She is terrified, but moves in a way buyed by duty and honor. If she fails who knows what fate will befall Hereva.
+**Panel 17:** Pepper stands before the box. The camera is locked on her face as she places her hand on the box. A Chaosah summoning circle emanates from her hand as she mutters the spell under her breath. She is terrified, but moves in a way buoyed by duty and honor. If she fails who knows what fate will befall Hereva.
 
 **Panel 18:** The book opens. Her face glows with the magic of Ah. Her face is surprised that it worked, and curious with what she will read.
 
@@ -74,8 +74,8 @@ _Guard: [insert runic symbolx for Aquah: "OPEN!"]
 
 **Panel 20:** Back at Pepper's house around the table. Cumin and Thyme look relieved. Cayenne's face is turned down in her trademark contemplation. Pepper is annoyed.
 
-_Pepper: "Chaosah: Stay Out!"? That's all the treaty said!
+_Pepper:_ "Chaosah: Stay Out!"? That's all the treaty said!
 
-_Thyme: Anything to maintain the peace.
+_Thyme:_ Anything to maintain the peace.
 
 ## FIN
