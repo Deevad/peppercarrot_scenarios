@@ -18,7 +18,7 @@ _Pepper_: "... because I found him in a bushel of carrots"
 
 ## Scene 2
 
-**Panel 4:** Ispmorphic view of the orphanage of Squirrel's End. Several children are outside playing a game of tag. Over on a bench sits Pepper. She sits alone, looking down
+**Panel 4:** Ispmorphic view of the Hippiah school in Squirrel's End. Several children are outside playing a game of tag. Over on a bench sits Pepper. She sits alone, looking down
 
 **Panel 5:** Close-up of Pepper's face. She looks melancholy, as though she wants to play with the other children but nobody will give her the chance.
 
@@ -62,7 +62,7 @@ _Child 1_: (Carrot like speech bubble for AAAAAAAHHHHH!)
 
 **Panel 17:** Carrot tumbles into a bushel of carrots. Several of them scatter all over the place but he manages to not make a huge mess in the ruckus. Cat-like Ninja reflexes in play.
 
-**Panel 18:** Pepper pulls the hat up from her eyes. Her persecutors are long gone. The staff from the orphanage finally realize something is up and head outside. Pepper looks around.
+**Panel 18:** Pepper pulls the hat up from her eyes. Her persecutors are long gone. The staff from the school finally realize something is up and head outside. Pepper looks around.
 
 _Adult 1:_ (Carrot-like speech bubble for exclamation)
 
@@ -72,7 +72,7 @@ _Adult 2:_ (Carrot-like speech bubble for exclamation)
 
 _Pepper:_ (Carrot-like speech bubble for I found an adorable kitten friend!)
 
-**Panel 20:** Shot of Pepper walking back to the orphanage carrying Carrot slumped over her shoulder. He gives an exhausted and contented smile. 
+**Panel 20:** Shot of Pepper walking back to the school carrying Carrot slumped over her shoulder. He gives an exhausted and contented smile. 
 
 _Carrot_: (Carrot-like speech bubble for "I chose you")
 
