@@ -5,9 +5,9 @@ The Summoning
 * **License:** [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 
 **TODO:** 
-[ ] Better dialog, my english skill is bad.
-[ ] Correct english description of panels. Same reason than above.
-[ ] Shrink panel number to around 25. Right now the episode is too big for a single month production.
+[ ] Better dialog, my english skill is bad.  
+[ ] Correct english description of panels. Same reason than above.  
+[ ] Shrink panel number to around 25. Right now the episode is too big for a single month production.  
 
 
 **Panel 1.** Pepper is at home studying a large book, Carrot sleeps while other witches of Chaosah does their usual task at home in background (Cayenne read news) Cumin cook, Thyme plays with cards. But the shot happens at a moment where they all loose focus in their task ; attracted by the source of a scream  
@@ -86,7 +86,7 @@ _Pepper, minimalist and calm "take that"_
 
 **Panel 30.** Another shot now showing the design: Very Impressive dark human-like-dragon design, very classy, fancy, he is also a good poser. The ideal type of high-ranked creature of any RPG book. His 'Lord' status can be seen in many attribute he has, medals, epolet, weapons, a cape... But coming from another world. A dark world probably where war is the daily routine. Still eyes closed , neck bent, as unactivated or sleeping, or freshly summoned.
 
-**Panel 31.** Another shot, the lord wake up screaming up the sky, his anger has no limit!
+**Panel 31.** Another shot, the lord wake up screaming up the sky, his anger has no limit!  
 _Lord: "WGrrrooooOOOO!!!"_
 
 **Panel 32.** Shot on the Lord head, starting to scream down with open eyes and materialising with his anger a fireball in front of his mouth.  
