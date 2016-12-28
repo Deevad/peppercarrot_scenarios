@@ -38,20 +38,20 @@ _Pepper: Attends... (Wait...)_
 ![page 02, fr](img/ep21p02_storyboard-fr.jpg)  
 
 Shot from front, Cayenne is on her armchair in leather, in the living room, continuing to read newspaper, as usual. Pepper can be seen from her position in the background.  
-> _Pepper: Toujours certaines de ne pas vouloir venir avec moi?(Still certain not to want to come with me?)_  
-> _Cayenne: Certaines, on fait de la sorcellerie à Chaosah, pas du spectacle! (Sure, we do sorcery in Chaosah, not the show!)_  
-> _Newspaper title: Le Komonan ( The Komonian )_  
-> _Newspaper subtitle: Inauguration de la nouvelle Arène (Inauguration of the new Arena)_  
+_Pepper: Toujours certaines de ne pas vouloir venir avec moi?(Still certain not to want to come with me?)_  
+_Cayenne: Certaines, on fait de la sorcellerie à Chaosah, pas du spectacle! (Sure, we do sorcery in Chaosah, not the show!)_  
+_Newspaper title: Le Komonan ( The Komonian )_  
+_Newspaper subtitle: Inauguration de la nouvelle Arène (Inauguration of the new Arena)_  
 
 (A) Pepper smiles. She sorts of like and get used to the words of Cayenne. It's familiar to her heart. Cayenne don't clearly prohibe her to go, so she feels warmly encouraged.  
 
 (B) Pepper run in the stairway, close up on her face happy.  
-> _Pepper: Merci de me laisser participer! ( Thank you for letting me participate)_  
-> _Pepper: Je gagnerai! promis! ( I'll win! I promise!)_  
-> _Pepper: A ce soir! ( See you on evening)_  
+_Pepper: Merci de me laisser participer! ( Thank you for letting me participate)_  
+_Pepper: Je gagnerai! promis! ( I'll win! I promise!)_  
+_Pepper: A ce soir! ( See you on evening)_  
 
 (C) The door slams in a soundFX 'Vlan' while Cayenne has a little time of thinking or being ditracted.  
-> _Cayenne: ..._  
+_Cayenne: ..._  
 
 Pepper flying on her broomstick in the sky, having fun and getting motivated with Carrot. View on a landscape of cloud, Komona city and the arena flies far away.  
 
