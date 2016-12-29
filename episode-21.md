@@ -14,7 +14,7 @@ Ep 22 and 23 might be "between fire and water". Spirulina has to be presented my
 
 ## P01
 
-![page 01, fr](img/ep21p01_storyboard-fr.jpg)  
+![page 01, fr](img/fr_Pepper-and-Carrot_by-David-Revoy_E21P01.jpg)  
 
 Camera is near to the floor, side view on Pepper, looking at herself in the mirror: her clothes are perfect, broomstick in her hand is ready. She even managed to decorate herself a bit better. A ribbon here, a little bag there. She adjusts her shirt colar, looking seriously at the mirror (psyche) in the corner of her bedroom. Carrot is making a little sign with his thumb on the frame of the open door. It's time. Light source come from the door.  
 
@@ -35,7 +35,7 @@ _Pepper: Attends... (Wait...)_
 
 ## P02
 
-![page 02, fr](img/ep21p02_storyboard-fr.jpg)  
+![page 02, fr](img/fr_Pepper-and-Carrot_by-David-Revoy_E21P02.jpg)  
 
 Shot from front, Cayenne is on her armchair in leather, in the living room, continuing to read newspaper, as usual. Pepper can be seen from her position in the background.  
 _Pepper: Toujours certaines de ne pas vouloir venir avec moi?(Still certain not to want to come with me?)_  
@@ -57,60 +57,59 @@ Pepper flying on her broomstick in the sky, having fun and getting motivated wit
 
 ## P03
 
-![page 03, fr](img/ep21p03_storyboard-fr.jpg)  
+![page 03, fr](img/fr_Pepper-and-Carrot_by-David-Revoy_E21P03.jpg)  
 
-The camera flies over the arena, we see the inner of the arena and all details.  
+The camera flies over the arena 
 _Mayor(off):Je déclare en tant que Maire de Komona, le second grand concours de magie ouvert! (I declare as Mayor of Komona, the second great open magic contest!)_  
 
+We see the inner of the arena and all details, and Mayor talking at center, and on the big crystal sphere.
 _Mayor(off):Vous avez été nombreux à vouloir cette nouvelle édition! (You have been many to want this new edition!)_  
 _Mayor(off):Merci d'avoir fait le déplacement depuis les quatres coins d'Hereva (Thank you for making the trip from the four corners of Hereva)_  
 _Mayor(off):Mais sans plus attendre, commençeons la présentation des sorcières présente! (But without further ado, let's begin the presentation of the witches present!)_  
 
 ## P04
 
-Panel presentation of Aquah with Spirulina.  
+> Note: page in refactoring: Presentation of the challenger will happen at the same time as a chasing action of Pepper and Carrot in the Arena. It will be more dynamic and fun. 
+
+(outdated) Panel presentation of Aquah with Spirulina.  
 _Mayor(off): Premièrement, c'est notre fierté technique de pouvoir accueillir à Komona pour la première fois une sorcière d'Aquah, la mysterieuse Spirulina! (First, it is our technical pride to be able to welcome to Komona for the first time a witch of Aquah, the mysterious Spirulina!)_  
 
-Panel presentation of Hippiah with Camomille.  
+(outdated) Panel presentation of Hippiah with Camomille.  
 _Mayor(off): Nous sommes également ravi de recevoir Camomille, sorcière d'Hippiah pour cette compétition (We are also delighted to welcome Camomille, a Hippiah witch for this competition)_  
 
-Panel presentation of Ah with Shichimi.  
-_Mayor(off): Notre troisième participante nous vient du pays des lunes couchantes, la sorcière de Ah, Shichimi! (Our third participant come to us from the lands of the setting moons the witch of Ah, Shichimi!) _  
+(outdated) Panel presentation of Ah with Shichimi.  
+_Mayor(off): Notre troisième participante nous vient du pays des lunes couchantes, la sorcière de Ah, Shichimi! (Our third participant come to us from the lands of the setting moons the witch of Ah, Shichimi!)_  
 
 ## P05
 
-Panel presentation of Zombiah with Coriander.  
+> Note: page in refactoring. See note on P04.
+
+(outdated) Panel presentation of Zombiah with Coriander.  
 _Mayor(off): Venue du grand pays de l'Union des Technologistes, c'est un honneur d'acceuillir la ravissante et ingénieuse sorcière de Zombiah, Coriander! (All the way from the great Technologist union, it's an honor welcome the ravishing and ingenious witch of Zombiah Coriander!)_  
 
-Panel presentation of Magmah with Saffron, looking at the sky, she don't like this long presentation.  
-_Mayor(off): ...sans oublier notre fille du pays, la sorcière de Magmah notre belle ville de Komona , Saffron! (...not to forget our local girl, Komona's very own witch of Magmah, Saffron!_  
-
-View on Pepper, blushing a bit in a cute shy "hello pause", with Carrot next to her while being introduced to the crowd by the mayor.  
-_mayor(off): Et la dernière école: Chaosah! (And the last school, Chaosah!)_  
-_mayor(off): Pepper est 'la' grande gagnante de notre dernier concours, et c'est pourquoi, nous avons décidez de lui offrir une place de choix! (Pepper is the 'big winner' of our last contest, and that's why we've decided to give her a place of choice!)_
 
 ## P06
 
-Zoom on Pepper destabilised/blusing under emotion  
-_Pepper: Quoi? quelquechose de special? pour moi? (What? Something special? for me?)_  
+![page 06, fr](img/fr_Pepper-and-Carrot_by-David-Revoy_E21P06.jpg)  
 
-Point of view from the back of the Jury in the audience, they look at the global part where you can see the Mayor and Pepper. The mayor shows this place boring with administrative poeple, Pepper has big eyes ; she can't believe it.  
-_Mayor: Elle fera partie de notre jurie! (She'll be part of our Jury!)_  
-_Crowd: clap!clap!clap!_  
+> Note: page in refactoring. See note on P04.
 
-Pepper introspection shot... Her day is ruined like if the sky fall on her shoulder. She realize she'll never be able to compete and all her dream collapse. Little tears at this moment start to appears under her eyes. Background disapears too as a stylisitic effect.  
-_Pepper(think): Mon rêve, la victoire... c'est fini... ( my dream, victory, it's over...)_  
-
-Reaction of Saffron, Shichimi and Coriander; they are a bit sad for Pepper.  
+(temp) Pepper is in the water tank chasing Carrot, while him try to eat Durian ( the fish pet of Spirulina ). Spirulina is surprised by the action.  
+_Pepper: Carrot! NON!!_  
 
 ## P07  
 
-Pepper is guided by a staff member and walks and discover with surprise the booth of jury, side view. All of them with label of their names. They are certainly some high investor or politics from Komona. They eat three-star cuisine. A seat with Pepper's name labeled on the table is free.  
-_restaurant-like waiter: Souhaitez-vous une collation? Un rafraichissement? (Would you like a snack? A beverage?)_  
+![page 07, fr](img/fr_Pepper-and-Carrot_by-David-Revoy_E21P07.jpg)  
 
-Shot on Pepper's face: she suddenly in the transition between being puzzled and surprised as on the previous panel and happy.  
+Shot of Pepper with Carrot in one hand outside of the tank. She probably was already in process to engage with Carrot, while the "speaker" with voice of the mayor starts to talk about her:
+_Mayor(off): Et la dernière participante... Pepper! Dernière héritière de la très contesté magie de Chaosah! (And the last participant ... Pepper! Last heiress of the much disputed Chaosah magic!)_
+_Mayor(off): C'est la grande gagnante de notre dernier concours, et c'est pourquoi, nous avons décidé de lui offrir une place de choix car elle fera... (It is the big winner of our last competition, and that is why we decided to offer her a place of choice because she will make ...)_  
+_Pepper: Quoi?! (What?!)_  
 
-Frontal view from the luxuous jury booth, sunny and half shadow, under a decorated awning. Pepper and Carrot are in the center eating three-star cuisine in the manner of non-educated poeple (without manner). Pepper has foot on the table and explain something to the judge on her right in almost a condescending way, Carrot eat directly on the plate while looking at another 'judge' here trying to guess "what's the problem?". The two judges on the left and right side of Pepper&Carrot are shocked by their attitude and are looking at them with big surprised eyes, almost fear. In background, a restaurant-like waiter is waiting for orders. Certainly a staff member from the arena, he is a bit anxious but patiently wait, eye almost closed.  
-_Pepper: ...et c'est exactement pour que mes amies puissent gagner, car ont le sait bien, je suis la plus forte, que **j'ai proposé** de faire partie du jurie! (and that's exactly because I wanted my friend to have the possibility to also win , because we all know, I'm the best; that I proposed to be part of the jury)_  
+Large shot on the Mayor pointing with his hand a part of the arena where a group of boring poeple are sitting: the jury. Pepper fall while listening to this:  
+_Mayor: ...partie de notre Jury! (... part of our Jury! )_  
 
-**To be continued**
+Last shot is a point of view from the Jury booth. Pepper is all wet, Carrot too, and it contrast a lot with all the very classy decoration and pricy accessories. Juries are Lord and Queens, Pepper is visibily ashame while Carrot focus his attention to try to make new friend (and get a cookie) . The judge already around are annoyed by the situation.  
+_Pepper: Au point ou j'en suis... Qu'est-ce qu'il pourrait bien m'arriver d'autre? (To the point where I am ... What else could happen to me?)_  
+
+**A suivre (To be continued)**
