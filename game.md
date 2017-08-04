@@ -17,3 +17,9 @@ Pepper: This doesn't make any sense at all.
 
 @valvin
 
+Carrot is still thinking why he is not sleeping but tries to take interest in Pepper's worries. He is approaching the table but as he is not well awaked he falls because of Pepper's broom stick. 
+
+---
+
+@nartance
+
