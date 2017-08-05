@@ -23,3 +23,9 @@ Carrot is still thinking why he is not sleeping but tries to take interest in Pe
 
 @nartance
 
+Carrot got up, confused by his fall, while Pepper started to grumble.  
+Pepper: I have searched in each book of this home, but nothing! No one talks about it! I will go mad!
+
+---
+
+@Jookia
