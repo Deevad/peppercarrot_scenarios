@@ -29,3 +29,26 @@ Pepper: I have searched in each book of this home, but nothing! No one talks abo
 ---
 
 @Jookia
+
+Carrot jumps up on to the table peers at the books. Most are history related to
+the magic schools. She looks up and notices him, sighing.
+
+"Remember the impossible triangle, Carrot? Six magic schools connected?"
+She points to a cut out triangle she drew, mirroring an image in an open book.
+Carrot peers at it, almost angry at it for puzzling Pepper.
+
+"It makes no sense! Chaosah is the root of all magic, but here it's just another corner."
+Carrot compares the triangle to the impossible triangle in the book.
+
+"Even so, if it were the root wouldn't Ah and Zombiah connect?"
+Carrot is unsuccessfully folding the cut out triangle to make it look like the image.
+
+"So maybe it means something else? But why don't the corners connect? It's almost as if they-"
+Carrot only manages to fold it in to a 3D triangle (tetrahedron) before giving up.
+
+The tetrahedron catches Pepper's eye, so she picks it up examines it.
+"don't want to connect."
+
+---
+
+@Zveryok
