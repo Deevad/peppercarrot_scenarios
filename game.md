@@ -58,3 +58,9 @@ Carrot sits on the table and looks at Pepper with interest, at she examination o
 ---
 
 @cmaloney
+
+As Pepper is about to close the book Carrot notices a reflective glint off of the paper. His eyes grow wide and he begins to waggle as if about to pounce on the book.
+
+--
+
+@deevad
