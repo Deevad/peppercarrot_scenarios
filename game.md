@@ -52,3 +52,9 @@ The tetrahedron catches Pepper's eye, so she picks it up examines it.
 ---
 
 @Zveryok
+
+Carrot sits on the table and looks at Pepper with interest, at she examination of that triangle.
+
+---
+
+@cmaloney
