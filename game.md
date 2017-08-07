@@ -66,3 +66,9 @@ As Pepper is about to close the book Carrot notices a reflective glint off of th
 ---
 
 @deevad
+
+Wide shot on the lab of Pepper: Carrot is now chasing a magical mouse made of red light. Carrot's facial expression display serious instinct about hunting this small creature and he even shows his claws. We can guess the magical mouse escaped the book and now jump on stacks of books in the labs (we can see a zigzag path of red light from her position to the book.). The book violently re-opened to let the mouse escapes. Pepper on the shot is surprised by the shock of the cover of the book hitting the desk, she was supposed to almost close the book on the previous shot. All the thin tubes in glass containing future potions and experiment on the labs shakes, other books too.
+
+---
+
+@qtwyeuritoiy (aka imsesaok)
