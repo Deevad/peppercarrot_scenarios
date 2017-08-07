@@ -37,6 +37,8 @@ the magic schools. She looks up and notices him, sighing.
 She points to a cut out triangle she drew, mirroring an image in an open book.
 Carrot peers at it, almost angry at it for puzzling Pepper.
 
+![The impossible triangle](https://camo.githubusercontent.com/83c58f72d5c6e9ac6a0e1165dc149c496a3a5e8d/68747470733a2f2f7777772e706570706572636172726f742e636f6d2f305f736f75726365732f30746865722f617274776f726b732f6c6f772d7265732f323031352d30362d30385f6d616769632d73797374656d2d6f662d6865726576615f62792d44617669642d5265766f792e6a7067)
+
 *Pepper*: It makes no sense! Chaosah is the root of all magic, but here it's just another corner.  
 Carrot compares the triangle to the impossible triangle in the book.
 
