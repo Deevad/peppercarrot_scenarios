@@ -73,8 +73,9 @@ Wide shot on the lab of Pepper: Carrot is now chasing a magical mouse made of re
 
 @qtwyeuritoiy (aka imsesaok)
 
-Close shot following Carrot:As Carrot continues to chase the small red dot, he accidently pushes the blue and red flasks with his legs to fall. Pepper catches them quickly by hand before it fell to the ground.
-"Carrot, stop what you're..." Pepper's agitated voice stated to trail away as she saw someone beside an open door.
+Close shot following Carrot: As Carrot continues to chase the small red dot, he accidentally pushes the blue and red flasks with his legs to fall. Pepper catches them quickly by hand before it fell to the ground.  
+*Pepper*: Carrot, stop what you're...  
+Pepper's agitated voice stated to trail away as she saw someone beside an open door.
 
 ---
 
