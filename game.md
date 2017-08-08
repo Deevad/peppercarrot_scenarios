@@ -100,3 +100,13 @@ We can see books and flasks are still shaking.
 ---
 
 @midgard
+
+Carrot senses something's amiss. He looks from the flasks in Pepper's hand to Thyme, then back to Pepper. The mouse quickly jumps away. Thyme regains her posture after being startled, but not in time to prevent the mouse from escaping through the open door.
+
+*Thyme*: *Porta Claudenda Rubra Obsignoque Portam Rubram!*
+
+The book snaps shut and stops glowing, but Pepper realizes the mouse is still outside.
+
+---
+
+@raspbeguy
