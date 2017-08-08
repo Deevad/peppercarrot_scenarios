@@ -90,3 +90,13 @@ Thyme notices the red mouse. Her eyes widen.
 ---
 
 @valvin
+
+Wide-shot on the room. 
+Thyme at the door is looking anxious to what happened. She looks at the red mouse. Pepper looks confused the flask in her hand. Carrot is ready to jump on the mouse.
+We can see books and flasks are still shaking. 
+
+*Thyme* (thoughts): "How is that possible!? The Red Door has been reopened! It might open only if ..."
+
+---
+
+@midgard
