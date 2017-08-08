@@ -107,6 +107,8 @@ Carrot senses something's amiss. He looks from the flasks in Pepper's hand to Th
 
 The book snaps shut and stops glowing, but Pepper realizes the mouse is still outside.
 
+![The red mouse](https://www.peppercarrot.com/extras/forum/2017-08-08_scenario-game_mouse.jpg)
+
 ---
 
 @raspbeguy
