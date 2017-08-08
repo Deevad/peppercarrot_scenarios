@@ -80,3 +80,13 @@ Pepper's agitated voice stated to trail away as she saw someone beside an open d
 ---
 
 @cmaloney
+
+Thyme emerges through the door. 
+
+*Thyme*: What's with all this racket? 
+
+Thyme notices the red mouse. Her eyes widen.
+
+---
+
+@valvin
