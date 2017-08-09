@@ -112,3 +112,13 @@ The book snaps shut and stops glowing, but Pepper realizes the mouse is still ou
 ---
 
 @raspbeguy
+
+Carott realises that the mouse he was ready to eat just a few seconds ago seems to be more important that he thought.
+
+*Pepper*: "We cannot let this mouse be in contact with people of our word. It could be..."
+
+Pepper suddently seems like she understand something very important. She looks in direction of the books she was studying.
+
+---
+
+@Zveryok
