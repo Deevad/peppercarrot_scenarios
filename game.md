@@ -113,7 +113,7 @@ The book snaps shut and stops glowing, but Pepper realizes the mouse is still ou
 
 @raspbeguy
 
-Cartot realises that the mouse he was ready to eat just a few seconds ago seems to be more important that he thought.
+Carrot realises that the mouse he was ready to eat just a few seconds ago seems to be more important that he thought.
 
 *Pepper*: "We cannot let this mouse be in contact with people of our world. It could be..."
 
