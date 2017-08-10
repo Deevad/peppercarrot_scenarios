@@ -123,7 +123,7 @@ Pepper suddenly seems like she understands something very important. She looks i
 
 @Zveryok
 
-While Pepper looking at books, Carrot is trying to find a mouse, but mouse is well stealthy enought to not be noticed by cat.
+While Pepper is looking in the direction of the books, Carrot is trying to find the mouse, but the mouse is hidden well enough that he can't find her.
 
 ---
 
