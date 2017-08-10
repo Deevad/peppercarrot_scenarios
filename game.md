@@ -122,3 +122,9 @@ Pepper suddenly seems like she understands something very important. She looks i
 ---
 
 @Zveryok
+
+While Pepper looking at books, Carrot is trying to find a mouse, but mouse is well stealthy enought to not be noticed by cat.
+
+---
+
+@qtwyeuritoiy (aka imsesaok)
