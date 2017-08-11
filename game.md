@@ -128,3 +128,9 @@ While Pepper is looking in the direction of the books, Carrot is trying to find 
 ---
 
 @qtwyeuritoiy (aka imsesaok)
+
+Pepper's POV: Pepper felt something tingling on her left foot and she freaked out.
+
+---
+
+@CalimeroTeknik
