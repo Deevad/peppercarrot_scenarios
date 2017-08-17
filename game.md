@@ -133,4 +133,15 @@ Pepper's POV: Pepper felt something tingling on her left foot and she freaked ou
 
 ---
 
-@CalimeroTeknik
+@calimeroteknik
+
+Pepper looks down just in time to see the magic mouse fall on the floor from the jolt, and reform to become the impossible triangle. It looks correctly, impossibly assembled.  
+Mesmerized by what she has spent hours trying to figure out, Pepper leans towards the glittering hypergonic figure to pick it up…
+
+*Thyme interrupts her*: Pepper, no!! Don't touch it!
+
+Regaining her senses, Pepper stops her hand mere centimeters from the catastrophe.
+
+---
+
+@cmaloney
