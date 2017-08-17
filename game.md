@@ -145,3 +145,7 @@ Regaining her senses, Pepper stops her hand mere centimeters from the catastroph
 ---
 
 @cmaloney
+
+The mouse, seizing on the opportunity, jumps onto Pepper's finger and scurries up her sleeve. Pepper is surprised by this, but even more surprised by how ticklish its little feet are. Carrot sees the sudden movement and positions himself to intercept. Thyme notices the confusion and also tries to intercept the mouse.
+
+@Jookia
