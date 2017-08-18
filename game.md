@@ -159,3 +159,24 @@ Pepper chases the mouse outside, but doesn't catch it.
 ---
 
 @Zveryok or @imsesaok or @cmaloney - Battle it out or something
+@cmaloney
+
+Carrot runs off chasing the mouse at top speed. His cat-like agility is almost even with the mouse.
+
+Pepper is exhausted. She stands with her hands on her knees. She is out of breath. Thyme floats over where Pepper is panting. 
+
+Thyme: You didn't listen to me! You don't know what you're dealing with here.
+
+Pepper looks up at Thyme with surprise and disgust. 
+
+Pepper: What was that thing? 
+
+Thyme: It's a mouse that Qualicity invented. It seems to have a way of camouflaging itself as the thing you desire most when it's cornered. When you reach out to touch it it uses that desire against you to escape. 
+
+Thyme: I lost track when I was studying it to see how it worked. 
+
+Pepper: What did it turn into when you were studying it? 
+
+---
+
+@CalimeroTeknik
