@@ -148,4 +148,14 @@ Regaining her senses, Pepper stops her hand mere centimeters from the catastroph
 
 The mouse, seizing on the opportunity, jumps onto Pepper's finger and scurries up her sleeve. Pepper is surprised by this, but even more surprised by how ticklish its little feet are. Carrot sees the sudden movement and positions himself to intercept. Thyme notices the confusion and also tries to intercept the mouse.
 
+---
+
 @Jookia
+
+The mouse jumps out of Pepper's shirt and off her neck.
+Carrot and Thyme jump at the mouse but knock in to each other.
+Pepper chases the mouse outside, but doesn't catch it.
+
+---
+
+@Zveryok or @imsesaok or @cmaloney - Battle it out or something
