@@ -173,6 +173,8 @@ Pepper: What was that thing?
 
 Thyme: It's a mouse that Qualicity invented. It seems to have a way of camouflaging itself as the thing you desire most when it's cornered. When you reach out to touch it it uses that desire against you to escape. 
 
+Pepper: The Impossible Triangle. I wanted to understand it. 
+
 Thyme: I lost track when I was studying it to see how it worked. 
 
 Pepper: What did it turn into when you were studying it? 
