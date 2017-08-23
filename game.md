@@ -183,7 +183,7 @@ Pepper: What did it turn into when you were studying it?
 
 @calimeroteknik
 
-Thyme looks away in an attempt to dissumulate her embarrassment, but quickly recovers.  
+Thyme looks away in an attempt to dissimulate her embarrassment, but quickly recovers.  
 Pepper could have sworn that if her face weren't that of a zombie, it would be as red as a tomato.
 
 Thyme: Ahem. This is no time to be telling stories of the past. We have more pressing matters to tend to.
