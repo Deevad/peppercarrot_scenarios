@@ -181,4 +181,23 @@ Pepper: What did it turn into when you were studying it?
 
 ---
 
-@CalimeroTeknik
+@calimeroteknik
+
+Thyme looks away in an attempt to dissumulate her embarrassment, but quickly recovers.  
+Pepper could have sworn that if her face weren't that of a zombie, it would be as red as a tomato.
+
+Thyme: Ahem. This is no time to be telling stories of the past. We have more pressing matters to tend to.
+
+Thyme sighs.  
+Thyme: I was hoping to have returned to the Chaos before this farce would resurface… There's no helping it now. We have to call a meeting of the schools.
+
+Pepper: What are you talking about?
+
+Thyme: That book you were engrossing yourself in. It was written when I was young…  
+The Qualicity academy, the Magmah college and the school of Hippiah wanter to gather all the knowledge about Hereva's magic. They came bombarding us with questions, too… The impossible triangle was first introduced in that book, and to celebrate, they came up with the stupid idea of embedding a token from each school in it.
+
+Remembering the events, Thyme sighs again.
+
+---
+
+@valvin
