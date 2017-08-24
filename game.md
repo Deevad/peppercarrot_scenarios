@@ -194,7 +194,7 @@ Thyme: I was hoping to have returned to the Chaos before this farce would resurf
 Pepper: What are you talking about?
 
 Thyme: That book you were engrossing yourself in. It was written when I was young…  
-The Qualicity academy, the Magmah college and the school of Hippiah wanter to gather all the knowledge about Hereva's magic. They came bombarding us with questions, too… The impossible triangle was first introduced in that book, and to celebrate, they came up with the stupid idea of embedding a token from each school in it.
+The Qualicity academy, the Magmah college and the school of Hippiah wanted to gather all the knowledge about Hereva's magic. They came bombarding us with questions, too… The impossible triangle was first introduced in that book, and to celebrate, they came up with the stupid idea of embedding a token from each school in it.
 
 Remembering the events, Thyme sighs again.
 
