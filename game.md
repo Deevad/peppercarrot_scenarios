@@ -201,3 +201,20 @@ Remembering the events, Thyme sighs again.
 ---
 
 @valvin
+We are now hundreds years before. Thyme is remembering the time just few moment after the book was written with all this knowledge. 
+
+Thyme was not as old as now she looks having Pepper's age.  
+
+All schools was gathered in the same room. Thyme was there but not officially. This meeting was secret. The atmosphere was heavy. Godmothers of all schools was talking loudy about the last event. 
+
+Chaosah godmother : We have to protect all this knowledge with a spell in order no one can access it! 
+
+Magma godmother : No ! This knowledge has to be available for us in case... (interrupted) 
+
+Hippiah and Aquah godmothers : ... And have again an event like we've just lived!? 
+
+Qualicity godmother : We can lock this book with a spell and put our red magic guardian who will open the door to all this knowledge at the good time to the good witch. 
+
+---
+
+@cmaloney
