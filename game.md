@@ -205,7 +205,7 @@ We are now hundreds years before. Thyme is remembering the time just few moment 
 
 Thyme was not as old as now she looks having Pepper's age.  
 
-All schools was gathered in the same room. Thyme was there but not officially. This meeting was secret. The atmosphere was heavy. Godmothers of all schools was talking loudy about the last event. 
+All schools was gathered in the same room. Thyme was there but not officially. This meeting was secret. The atmosphere was heavy. Godmothers of all schools was talking loudly about the last event. 
 
 Chaosah godmother : We have to protect all this knowledge with a spell in order no one can access it! 
 
@@ -218,3 +218,27 @@ Qualicity godmother : We can lock this book with a spell and put our red magic g
 ---
 
 @cmaloney
+
+Back at Pepper's house. Pepper interrupts Thyme:
+
+Pepper: Was this when Chicory was the leader of Chaosah? 
+
+Thyme: You remember your Chaosah history well, Pepper. I don't remember the names of the other leaders (or godmothers, as you might call them), but Chicory was adamant that the other schools not be so free with their knowledge. 
+
+---
+
+@cmaloney
+
+Thyme continues her story:
+
+Thyme: Ah swung the vote (as always) and decreed that each school must present a token of their school to the impossible triangle. They also added some of their deepest secret knowledge in this book. Each school received a copy of the book. Qualicity showed off their technical prowess by creating a red guardian seal to place upon each copy of the book to protect its secrets.
+
+Pepper: So did you ever look in the book?
+
+Thyme: Naturally. It was the first thing I did, and the guardian seal has been hiding ever since.
+
+Pepper: But what could possibly be inside that book that would require so much secrecy? So much effort? 
+
+---
+
+@deevad
