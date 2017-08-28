@@ -242,3 +242,56 @@ Pepper: But what could possibly be inside that book that would require so much s
 ---
 
 @deevad
+
+Medium-long shot on Thyme; she quickly checks on her right and on her left if no one are spying the discution, displaying this way the importance of what she will reveal.
+
+Close-up shot on Thyme's face. She stare intensely at Pepper while also starting to sweat a bit by discomfort of having to reveal something she was prepared to tell for years.
+Thyme (voice-over): All I know is what I saw that night...
+
+Flashback panel (drawn with a different art-style): Thyme is very young and listen in a corner of a larger room.  
+Thyme (voice-over):... Long time ago...  
+
+Flashback panel (drawn with a different art-style): A large shot of a scene around a table at night with a spell book, open its middle, very glowing in the center of the dark room. Chicory and other leader of magic are posing like if they are having a passionate debate solving issues. Weirdly, they all look familiar to the reader. They can exactly look like differently dressed and older Pepper, Camomille, Coriander, Shichimi, Spirulina and Saffron. Thyme is very young and on a corner of this scene. We can guess they are editing the book and argue at same time.  
+Thyme (voice-over): While all the leaders of magic schools were just done defining the core and boundaries of the Impossible Triangle...  
+Thyme (voice-over): ...but their joy didn't last for too long as they quickly discovered a major flaw.
+
+Flashback panel: A closeup shot on the book of previous panel: the magic triangle freshly drawn on the book with many "math like" symbol around each magic labels. The lines are glowing of power.  
+Thyme (voice-over): ...All the magic triangle would collapse definitely if all the practitioners of a single magic were to disappear.
+
+Flashback panel: A extreme close-up on the symbol in the book. A little impossible triangle stroke with multiple lines is ending a long math expression made of symbols.  
+Thyme (voice-over): Meaning, the end of all magic in our world.
+
+Medium-long shot on Pepper: she is frightened, in an exaggerated way as Pepper can be. Carrot does the same mimic.  
+Pepper: NO!! Really?! Like...  
+Pepper: ...No magic FOREVER?!
+
+Medium-long shot on Thyme: she rolls her eyes on the sky, a bit red of anger. Her hands are crisped. She don't like to be cut in the middle of her storytelling.  
+Thyme: Yes.  
+Thyme: But for the love of the Chaos, don't cut me while I'm telling!
+
+Reaction shot on Pepper; a little bit frustrated and confused. Blushing and looking at her feet. Same for Carrot.  
+Pepper (small): ok
+
+Flashback panel: A top view of a round of witches that invoke a collective magic around a small and young tree in the center. The tree begins to fly by itself.  
+Thyme (voice-over): So, they all decided of a backup plan...  
+Thyme (voice-over): ... and sealed a bit of themself in a young tree.
+
+Flashback panel: close up on the tree. From side view, it looks like a familiar tree: the Komona tree in little and with earth still mixed on his roots.  
+Thyme (voice-over): if a single magic were to completely disappear...
+
+Flashback panel: Mysterious symbolic illustration of a baby in a position of the phoetus inside a seed.  
+Thyme (voice-over): ..the tree would give life to all of them again!
+
+Shot on Pepper: exaggeratingly relieved and fascinated, same for Carrot. They listen carefully the story of Thyme.  
+Pepper: Wooow.... Brilliant!  
+Pepper: But why protecting this secret with the Qualicity red mouse? I could read this, It's a cool backup plan!
+
+Medium-long shot on Thyme: looking seriously at Pepper.  
+Thyme: You don't get it. The books contains the pure magic of each school. The full work, memories, life and diary of our leaders.
+
+Close up on Thyme's eyes: serious.  
+Thyme: They wrote their memory down on the book to recover their full... potential. It will unlock only if they meet together all again around this book.
+
+---
+
+@nartance
