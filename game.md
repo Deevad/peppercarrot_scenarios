@@ -246,19 +246,19 @@ Pepper: But what could possibly be inside that book that would require so much s
 Medium-long shot on Thyme; she quickly checks on her right and on her left if no one are spying the discution, displaying this way the importance of what she will reveal.
 
 Close-up shot on Thyme's face. She stare intensely at Pepper while also starting to sweat a bit by discomfort of having to reveal something she was prepared to tell for years.
-Thyme (voice-over): All I know is what I saw that night...
+Thyme : All I know is what I saw that night...
 
 Flashback panel (drawn with a different art-style): Thyme is very young and listen in a corner of a larger room.  
-Thyme (voice-over):... Long time ago...  
+Thyme (voice-over): It was long time ago... 
 
 Flashback panel (drawn with a different art-style): A large shot of a scene around a table at night with a spell book, open its middle, very glowing in the center of the dark room. Chicory and other leader of magic are posing like if they are having a passionate debate solving issues. Weirdly, they all look familiar to the reader. They can exactly look like differently dressed and older Pepper, Camomille, Coriander, Shichimi, Spirulina and Saffron. Thyme is very young and on a corner of this scene. We can guess they are editing the book and argue at same time.  
-Thyme (voice-over): While all the leaders of magic schools were just done defining the core and boundaries of the Impossible Triangle...  
+Thyme (voice-over): All the leaders of the magic schools were just done defining the core and boundaries of the Impossible Triangle...  
 Thyme (voice-over): ...but their joy didn't last for too long as they quickly discovered a major flaw.
 
-Flashback panel: A closeup shot on the book of previous panel: the magic triangle freshly drawn on the book with many "math like" symbol around each magic labels. The lines are glowing of power.  
-Thyme (voice-over): ...All the magic triangle would collapse definitely if all the practitioners of a single magic were to disappear.
+Flashback panel: A closeup shot on the book of previous panel: the Impossible Triangle freshly drawn on the book with many weird math symbols around each magic labels. The lines are glowing of power.  
+Thyme (voice-over): ...All the Impossible Triangle would collapse definitely if all the practitioners of a single magic were to disappear.
 
-Flashback panel: A extreme close-up on the symbol in the book. A little impossible triangle stroke with multiple lines is ending a long math expression made of symbols.  
+Flashback panel: A extreme close-up on the symbol of the book. A little representation of the Impossible Triangle this time stroke with multiple lines over it. This symbols ends a long line of symbols looking like a math expression.  
 Thyme (voice-over): Meaning, the end of all magic in our world.
 
 Medium-long shot on Pepper: she is frightened, in an exaggerated way as Pepper can be. Carrot does the same mimic.  
@@ -289,7 +289,7 @@ Pepper: But why protecting this secret with the Qualicity red mouse? I could rea
 Medium-long shot on Thyme: looking seriously at Pepper.  
 Thyme: You don't get it. The books contains the pure magic of each school. The full work, memories, life and diary of our leaders.
 
-Close up on Thyme's eyes: serious.  
+Close up on Thyme's eyes, more serious than ever.  
 Thyme: They wrote their memory down on the book to recover their full... potential. It will unlock only if they meet together all again around this book.
 
 ---
