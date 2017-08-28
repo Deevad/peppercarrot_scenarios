@@ -294,4 +294,104 @@ Thyme: They wrote their memory down on the book to recover their full... potenti
 
 ---
 
-@nartance
+@nartance **NEED PROOFREADING AND CORRECTIONS!!!**
+
+Suddenly, the mouse jumped on the book that Thyme held in the hands. This smile is too unhealthy for a simple animal. 
+
+**Mouse:** Thank you for all this information. 
+
+In a red glare of smoke, the mouse disappeared. Thyme, by reflex, threw the book further and took a step back. The scarlet smoke became misty, dispersed, and the two witches of Chaosah fixed a vaporous silhouette appeared in front of their bewildered eyes. Even Carrot was impressed. 
+
+**Silhouette:** I didn't think that this book contained such a power. 
+
+The silhouette snapped fingers and the book floated to her hand. 
+
+**Thyme:** Could I know who you are?! And with what right do you... one minute... the mouse... 
+
+**Silhouette: (agitating her wand)** This poor small thing didn't know how to resist my power, and you neither, trust me. 
+
+The wand shined with a very intense bluish glare. 
+
+**Pepper (to Thyme):** What is that wand? 
+
+**Thyme:** A stranger has just broke in your home and is close to stealing a book containing all the knowledge and the magic of Hereva, and it is all that you find to ask?! 
+
+**Pepper (blushing):** Uh... it looks really strange, doesn't it? Mine doesn't shine that much... 
+
+**Thyme (to the intruder):** Enough! You will give me back this book! It doesn't belong to you! 
+
+**Thief (looking the book in all its aspects):** I am sorry, darling, but I am looking at it very carefully... and I don't see your name above! 
+
+**Thyme (designating Pepper):** I see... you are like this one, you always defy your elders and has no respect for your masters! 
+
+**Pepper:** Eh!
+
+**Thyme:** Cayenne and Cumin are not back yet, but I will manage without them! Face the Master of Chaos if you dare, but I warn you: I am not going to give you a single gift!
+
+Thyme floated and started to be surrounded by a dark and agitated gleam. Carrot shook slightly, and Pepper was admiring. 
+
+**Pepper:** What a power! I can feel it from here! She's amazing for an old woman...  
+
+Thyme launched a black look to her. Pepper looked down. The silhouette yawned.  
+
+**Thief:** When you want, darling. I am waiting for you, but quick: I have a book to study. 
+
+**Thyme:** You... 
+
+Thyme spun her hands. A powerful swirl of dark waves started to be formed and swept the room. Pepper must cling to the staircase. She caught Carrot before he was attracted by the spell.
+
+**Pepper:** AAAAH! She doesn't joke! 
+
+However, the robber did not move. Pepper noticed that a kind of invisible shield surrounded her. 
+
+**Thyme (surprised):** Impossible...
+
+**Thief:** Only the triangle is impossible, darling. I am sorry, but your time has expired. 
+
+She agitated her wand, which changed into golden glance. Pepper did not have time to see it. 
+
+**Another voice:** CANDY TIME! 
+
+Pepper was being flung through the room by... by something. A kind of very powerful magic spell, much more than the attraction force of the spell of Thyme. She passed through the window and landed heavily in the garden behind the house. Carrot was always in her arms, and he licked her face to make sure she was okay. Pepper stood up with difficulty. 
+
+**Pepper:** Ouch! This is what I call an explosion! But I wonder... 
+
+She looked around her: on all the way which separated her from the point of impact, she discovered tens and tens of... candies, and various sweets she has never seen. She picked up some of them, frightened. 
+
+**Pepper:** Wait... are you telling me that I was projected in the garden BY CANDIES?! 
+
+But Carrot tried to get her attention by biting her foot. Pepper looked in his direction and saw Thyme, lying on the floor, unconscious. She rushed in on her, panicked. 
+
+**Pepper (shaking Thyme):** Godmother! Godmother, do you hear me? MASTER!
+
+Thyme groanned somewhat and opened the eyes, obviously groggy. The attention of Pepper is attracted in the air. The robber, always vaporous, floated, the wand and the book in her hands, obviously triumphing.
+
+**Thyme (straightening up):** Miserable! If I hadn't all these rheumatisms, I would have kicked you on the behind! 
+
+**Thief:** Promises, always, but never results. This is pathetic... well, I'll leave you with all these treats. I have a book to read! 
+
+**Thyme:** Hehe... You stupid! Do you believe you could seize all the knowledge of Hereva without the Masters of all the magics with you? 
+
+**Thief:** Oh, but I won't be alone, and do you know why? 
+
+She snapped her fingers. At once, 5 young witches appeared, obviously unconscious, and bound by magic. Pepper launched a shocked glance. 
+
+**Pepper:** Shichimi! Coriander! Saffron! 
+
+**Thief:** Camomile and Spirulina, yes. It seems to me that you know them pretty well. 
+
+**Pepper:** Release them immediately! Why did you catch my friends?! 
+
+The robber pointed her arm towards Pepper. 
+
+**Thief:** To make the Masters coming to me, of course. 
+
+A magic spell hit Pepper directly. She fell into unconsciousness, whereas a kind of missive, the only rest of this explosive meeting, fell on the Thyme's head, dumbfounded.
+
+**END OF ACT 1.**
+
+*******************************
+
+**ACT 2:**  
+
+@HoOoOoOoOoNnNnNnNnNnKkKkKk.
