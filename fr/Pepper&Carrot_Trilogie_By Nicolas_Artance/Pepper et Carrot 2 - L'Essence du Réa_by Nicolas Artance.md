@@ -182,7 +182,7 @@ _Toujours rien. Pepper commence à s'inquiéter et se met à courir droit devant
 
 _**Pepper** (implorante, en sanglots) **:**_ "S'il vous plaît ! Ramenez-moi à la maison ! Je promets d'être sage, et de faire tous vos exercices inutiles ! S'il vous plaît, sortez-moi de là !"
 
-_Comme si on avait appuyé sur un interrupteur, le lieu s'éclaircit… mais s'agite brusquement. Comme si la lumière avait du mal à apparaître. Une rafale de vent empêche Pepper de progresser davantage. Elle se protège avec ses bras tant bien que mal. Une impression de désordre se dégage du lieu, et il est presque impossible de poser son regard à l'horizon tant l'intensité du vent et de la variation lumineuse est forte.
+_Comme si on avait appuyé sur un interrupteur, le lieu s'éclaircit… mais s'agite brusquement. Comme si la lumière avait du mal à apparaître. Une rafale de vent empêche Pepper de progresser davantage. Elle se protège avec ses bras tant bien que mal. Il est presque impossible de poser son regard à l'horizon tant l'intensité du vent et de la variation lumineuse est forte.
 Pepper peut néanmoins distinguer une silhouette au loin. Une silhouette qui semble l'avoir repérée. Une silhouette… qui charge directement sur elle !_
 
 _**Voix sifflotante :**_ "_Aide-moi…_"
@@ -213,7 +213,7 @@ _Elle parvient à capter les voix de ses marraines, réunies dans le laboratoire
 
 _**Cayenne :**_ "Personne n'y touchera tant qu'on ne saura pas exactement ce que c'est !"
 
-_**Thym :**_ "Ne sois pas ridicule. Même moi je n'ai jamais rien vu de tel, et j'ai reçu le savoir du fondateur en personne. Alors le seul moyen de savoir de quoi il retourne, c'est de l'essayer ! ET POUR L'AMOUR D'UN DÉMON, LÂCHE DONC CE LIVRE, CUMIN ! Je te rappelle que j'en ai écrit la majorité et t'assure que je n'ai jamais rien entendu à ce sujet !"
+_**Thym :**_ "Ne sois pas ridicule. Même moi je n'ai jamais rien vu de tel, et j'ai reçu le savoir du fondateur en personne. Alors le seul moyen de découvrir de quoi il retourne, c'est de l'essayer ! ET POUR L'AMOUR D'UN DÉMON, LÂCHE DONC CE LIVRE, CUMIN ! Je te rappelle que j'en ai écrit la majorité et t'assure que je n'ai jamais rien entendu à ce sujet !"
 
 _En entrouvrant légèrement la porte, Pepper peut voir Cumin, rougissante, poser le grimoire qu'elle lisait. Elles sont toutes réunies autour de l'établi, fixant quelque chose avec désarroi._
 
@@ -255,12 +255,12 @@ _**Pepper** (tendant la main vers la bague) **:**_ "Je sais que je ne devrais pa
 
 _**Cayenne :**_ "Pepper, NON !"
 
-_Carrot, ayant aussi senti le danger, tente de bondir sur sa maîtresse pour l'en empêcher, mais il est déjà trop tard. Pepper enfile la bague à son index droit, naturellement, avant que quiconque ait pu exécuter le moindre mouvement.
-Une nouvelle décharge d'énergie jaillit de la bague. Celle-ci est brève : elle semble déchirer l'espace et ouvrir une sorte de portail magique. Ce portail est de courte durée, il se referme bien vite. Pepper semble reprendre ses esprits. Elle fait face à ses trois marraines, interloquées, en position défensive._
+_Carrot, ayant aussi senti le danger, tente de bondir sur sa maîtresse pour l'en empêcher, mais il est déjà trop tard. Pepper enfile la bague à son index droit, naturellement, avant que quiconque ait pu exécuter le moindre mouvement.  
+Une nouvelle décharge d'énergie jaillit de la bague. Celle-ci est brève : elle semble déchirer l'espace et ouvrir une sorte de portail magique. Ce portail est de courte durée, il se referme bien vite. Pepper reprend ses esprits. Elle fait face à ses trois marraines, interloquées, en position défensive._
 
 _**Pepper :**_ "Euh… pardonnez-moi, mais… j'ai l'impression d'avoir loupé un épisode. Vous pouvez me dire pourquoi vous me regardez comme ça ? C'est une blague, c'est ça ? Et… mais qu'est-ce que je fais avec cette bague hyper moche à mon doigt ?"
 
-_Mais les marraines, et même Carrot, sont bouches bées. Elles fixent quelque chose derrière Pepper, tétanisées.._
+_Mais les marraines, et même Carrot, sont bouches bées. Elles fixent quelque chose derrière Pepper, tétanisées._
 
 _**Pepper :**_ "Eh bien, quoi ? On dirait que vous avez vu un fantôme !"
 
@@ -296,7 +296,7 @@ _**Chicory :**_ "Voici donc les deux autres disciples restants de la magie du Ch
 
 _Elle les juge à nouveau, en les observant sous toutes les coutures._
 
-_**Cayenne** (agacée) **:**_ "Pourquoi ai-je cette sensation d'être un fruit dans l'étal d'un marché ?"
+_**Cayenne** (agacée) **:**_ "Pourquoi ai-je cette sensation tenace d'être un fruit dans l'étal d'un marché ?"
 
 _Le "jugement" dure quelques secondes. Chicory s'écarte des deux marraines, et hausse les épaules._
 
@@ -370,7 +370,7 @@ _**Chicory :**_ "Hum… tu as dit que tu t'appelais Pepper, c'est bien ça ?"
 ### Scène 5 : En quête d'équilibre
 
 _Thym a fini par se calmer. Boudeuse, elle prend le thé que lui tend Pepper avec fermeté.
-Cumin a réussi à surpasser sa timidité et a proposé à toutes les sorcières de s'expliquer calmement autour d'une collation. C'est ainsi que les représentantes de Chaosah se sont réunies autour de la table de la salle à manger, où Pepper, en précisant bien qu'il ne s'agit pas de ses services de servante, a proposé de concocter un petit thé de sa fabrication. Elle est cependant bien embêtée lorsque vient le tour de servir Chicory._
+Cumin a réussi à surpasser sa timidité et a proposé à toutes les sorcières de s'expliquer calmement autour d'une collation. C'est ainsi que les représentantes de Chaosah se sont réunies autour de la table de la salle à manger, où Pepper, en précisant bien qu'il ne s'agit pas de ses services en tant que servante, a proposé de concocter un petit thé de sa fabrication. Elle est cependant bien embêtée lorsque vient le tour de servir Chicory._
 
 _**Pepper :**_ "Euh… je suis désolée de vous demander ça, mais… comme vous semblez être un esprit, je ne sais pas trop si… enfin, si…"
 
@@ -400,11 +400,17 @@ _**Thym** (s'agitant soudainement) **:**_ "Elle déforme mes propos, Maître ! J
 
 _**Chicory :**_ "Et pourquoi pas ? C'est bien ce que j'ai fait, non ? J'ai disparu de la circulation après t'avoir initiée à la magie du chaos."
 
-_**Thym :**_ "Oui… vous ne m'avez toujours pas expliqué ce qui vous a poussé à un tel exil."
+_**Thym :**_ "Oui… on peut dire ça comme ça, je suppose…
+
+_Pepper jette un œil vers sa marraine. Elle n'avait jamais vu autant de mélancolie dans son regard._
+
+_**Pepper** (pour elle-même) **:**_ "Elle devait vraiment beaucoup l'apprécier…"
+
+_**Cumin :**_ "Pour quelle raison vous êtes-vous retirée ?"
 
 _**Chicory :**_ "Oh, tu sais, j'étais arrivée à ma limite dans ma quête de connaissances… je savais que je n'apprendrais plus rien ici. J'ai donc décidé d'explorer un peu les autres dimensions. J'ai acquis suffisamment de savoir pour créer ma propre dimension du Chaos où j'ai pu concevoir des créatures au service de notre magie…"
 
-_**Pepper :**_ "Quoi ? Vous parlez des démons que l'on peut invoquer via les grimoires ?!"
+_**Pepper :**_ "Quoi ? Vous parlez des démons que l'on peut invoquer via le grimoire ?!"
 
 _**Chicory :**_ "En effet ! C'est moi qui l'ai rédigé, d'ailleurs. Je l'ai ensuite placé dans la bibliothèque de ma chère apprentie afin qu'elle puisse les invoquer en cas de besoin."
 
@@ -426,7 +432,7 @@ _C'est au tour de Pepper de recevoir un coup de pied._
 
 _**Pepper :**_ "AÏEUH !"
 
-_**Cayenne :**_ "Bien, et si on passait à ce que vous complotez avec votre chère apprentie ? Quand vous êtes vous revues pour la dernière fois ? Il paraît clair qu'il y a eu une rencontre plus récente que votre départ en voyage…"
+_**Cayenne :**_ "Bien, et si on passait à ce que vous complotez avec votre chère apprentie ? Quand vous êtes vous revues pour la dernière fois ? Il paraît clair qu'il y a eu une rencontre plus récente que votre départ en "retraite"…"
 
 _**Thym :**_ "C'était… juste après la Grande Guerre. Mon cher Maître est apparu, abattue par le massacre dont nous avons été victimes… elle m'a demandé de faire tout mon possible pour perpétuer les traditions qu'elle m'a jadis apprises. Elle m'a dit qu'elle reviendrait le jour où je serai prête, et qu'il fallait en aucun cas la déranger."
 
@@ -475,7 +481,7 @@ _**Chicory :**_ "Ha, ha ! On dirait que tous les apprentis sont un peu tête br�
 
 _**Pepper** (intéressée) **:**_ "Ah, vraiment ?"
 
-_**Thym** (gênée) **:**_ "Bon, ce n'est pas le sujet le plus important ! J'aimerai bien savoir ce qu'est cette bague au juste, et ce qu'il s'est passé à la colline tout à l'heure ! Quelle était cette colonne d'énergie qui s'en est échappée ?"
+_**Thym** (gênée) **:**_ "Bon, ce n'est pas le sujet le plus important ! J'aimerais bien savoir ce qu'est cette bague au juste, et ce qu'il s'est passé à la colline tout à l'heure ! Quelle était cette colonne d'énergie qui s'en est échappée ?"
 
 _Le visage de Chicory redevient grave. Elle regarde à nouveau l'anneau que porte Pepper._
 
@@ -497,7 +503,7 @@ _**Thym :**_ "Une perturbation de l'équilibre ? Comment ça, "_encore_" ? L'éq
 
 _**Chicory :**_ "Je suis au courant, oui. Je ne parle pas de ce déséquilibre-ci. Depuis quelques temps, je constate des perturbations à travers les dimensions que je visite. Malheureusement, cette réalité-là n'est pas épargnée."
 
-_**Thym :**_ "Mais… c'est impossible qu'il y ait des déséquilibres dans le Réa ! Toutes les écoles de magie ont des représentants, et elles vivent toutes de la même façon !"
+_**Thym :**_ "Mais… c'est impossible qu'il y ait des déséquilibres dans le Réa ! Toutes les écoles de magie ont des représentants, et l'enseignement se poursuit sans encombre ! Enfin, ça dépend avec quels apprentis…"
 
 _**Chicory :**_ "C'est au-delà de ça. Je pense que ces déséquilibres ont été causés par quelqu'un ou quelque chose qui n'aurait jamais dû se trouver ici, portant une puissance si grande qu'elle a complètement chamboulé le flux de Réa qui s'écoule dans Hereva. Vous savez bien que notre terre est très capricieuse à ce niveau-là, il suffit d'un simple effleurement et le château de carte s'écroule."
 
@@ -539,7 +545,7 @@ _**Pepper :**_ "Magmah, Aquah, Hippiah, Ah, Zombiah et bien sûr Chaosah…"
 
 _**Chicory :**_ "Exactement."
 
-_**Thym** (à Cumin) **:**_ "Regardez donc le cancre qui se vante…"
+_**Thym** (à Cumin) **:**_ "Regarde donc le cancre qui se vante…"
 
 _Cayenne donne un coup de coude à Thym tandis que Cumin étouffe un rire._
 
@@ -566,7 +572,7 @@ _**Chicory :**_ "Ce ne sera pas nécessaire."
 
 _**Thym :**_ "Euh… sauf votre respect, Maître, vous ne connaissez pas Wasabi ! Elle est fourbe, calculatrice et méthodique !"
 
-_**Chicory :**_ "J'entends. Mais je parlais du fait d'établir un plan. Enfin, pour vous, vu que vous n'allez pas y aller."
+_**Chicory :**_ "J'entends. Mais je parlais du fait d'établir un plan. Enfin, pour vous, vu que vous n'irez pas là-bas."
 
 _Nouveaux visages interloqués pour les marraines. Pepper regagne de l'intérêt pour cette discussion._
 
@@ -582,7 +588,7 @@ _**Cumin :**_ "Euh… très bien, Maître, mais j'ai une question : qui va s'en 
 
 _Chicory désigne Pepper du doigt. Cette dernière sent son cœur bondir._
 
-_**Chicory :**_ "J'aimerai bien voir de quoi l'héritière que vous avez choisie est capable."
+_**Chicory :**_ "J'aimerais bien voir de quoi l'héritière que vous avez choisie est capable."
 
 _**Pepper :**_ "YES !"
 
@@ -608,10 +614,10 @@ _**Chicory :**_ "Moi."
 
 ### Scène 1 : En route vers Ah
 
-_Malgré les suppliques de Thym, il fut impossible de faire changer Chicory d'avis. Jamais Pepper n'avait éprouvé autant de sympathie et de respect envers un de ses maîtres. Alors qu'elle s’apprêtait à s'endormir, elle se désola de ne pas être née à l'époque où Chicory était le leader de la magie que ses marraines tentent de lui enseigner.
-Le lendemain, Pepper se lève dès l'aube, excitée comme une puce. Non seulement elle a l'impression qu'on lui fait enfin confiance pour une véritable mission de sauvetage, mais en plus, elle va pouvoir faire face à Wasabi afin d'en savoir plus sur ses intentions la concernant. Mieux que tout : elle fait la route avec Chicory. Et elle a déjà des tonnes de questions à lui poser durant le voyage.
+_Malgré les suppliques de Thym, il fut impossible de faire changer Chicory d'avis. Jamais Pepper n'avait éprouvé autant de sympathie et de respect envers un de ses maîtres. Alors qu'elle s’apprêtait à s'endormir, elle se désola de ne pas être née à l'époque où Chicory était le leader de la magie que ses marraines tentent de lui enseigner.  
+Le lendemain, Pepper se lève dès l'aube, excitée comme une puce. Non seulement elle a l'impression qu'on lui fait enfin confiance pour une véritable mission de sauvetage, mais en plus, elle va pouvoir faire face à Wasabi afin d'en savoir plus sur ses intentions la concernant. Mieux que tout : elle fait la route avec Chicory. Et elle a déjà des tonnes de questions à lui poser durant le voyage.  
 Tout est enfin prêt : le balai a des réserves de nourritures, des potions en cas de duel avec Wasabi et divers ingrédients si jamais il faut en faire en urgence. Chicory a été très précise sur les ingrédients qu'elle souhaitait.
-C'est le moment du départ. Les trois marraines se tiennent sur le pallier de la porte, face à Pepper qui ne tient plus en place, son fidèle Carrot portant ses lunettes de voyage, et leur maître tant respecté._
+C'est le moment du départ. Les trois marraines se tiennent sur le pallier de la porte, face à Pepper qui ne tient plus en place, son fidèle Carrot portant ses lunettes de voyage, et leur maître tant respecté._  
 
 _**Chicory :**_ "Nous voilà fin prêtes à partir."
 
@@ -664,7 +670,7 @@ _**Chicory :**_ "C'était un de mes souhaits. Je ne voulais pas qu'on s'attache 
 
 _**Pepper :**_ "C'est vrai que c'est complexe… je ne suis pas certaine d'y arriver un jour… est-ce que Thym a eu autant de difficultés que moi à apprendre ?"
 
-_**Chicory :**_ "Si cela peut te rassurer, ce n'est pas la magie la plus simple à appréhender. Moi-même me demande encore aujourd'hui si j'arriverai un jour à maîtriser son plein potentiel… tu sais, lorsque j'ai décidé de l'enseigner, j'ai commencé avec une apprentie, avant de choisir Thym."
+_**Chicory :**_ "Si cela peut te rassurer, ce n'est pas la magie la plus simple à appréhender. Moi-même me demande encore aujourd'hui si j'arriverais un jour à maîtriser son plein potentiel… tu sais, lorsque j'ai décidé de l'enseigner, j'ai commencé avec une apprentie, avant de choisir Thym."
 
 _**Pepper :**_ "Ah ? Et pourquoi l'avoir remplacée par Thym ?"
 
@@ -715,7 +721,7 @@ _**Chicory :**_ "C'est tout simplement parce que les sorcières de Ah sont égo�
 
 _**Pepper :**_ "J'ai l'impression que le courant ne passe pas très bien entre Chaosah et Ah…"
 
-_**Chicory** (avec colère) **:**_ "C'est le moins qu'on puisse dire ! Et le fait qu'elles ont massacré mes apprentis durant la guerre n'a rien arrangé de ce côté-là !"
+_**Chicory** (avec colère) **:**_ "C'est le moins qu'on puisse dire ! Et le fait qu'elles aient massacré mes apprentis durant la guerre n'a rien arrangé de ce côté-là !"
 
 _**Pepper** (effrayée) **:**_ "Oui, c'est sûr… euh… mais si le Sanctuaire est secret, comment allons-nous entrer ?"
 
@@ -726,8 +732,8 @@ _Pepper lance un regard interrogateur à son chat, qui hausse les épaules. Elle
 
 ### Scène 2 : L'entrée secrète
 
-_Le reste du voyage se passe sans encombres. Pepper ne sait quoi penser de ce fondateur. Elle est sans aucun doute la sorcière la plus compétente et douée qu'elle ait jamais vu, mais elle est parfois surprenante dans ses réactions, comme si elle se fichait de ce que peuvent ressentir les autres, et la seconde suivante, elle se montre prévenante et très protectrice envers ses disciples. Néanmoins, il est clair que Pepper est admirative.
-Elles s'arrêtent bien plus tôt que Pepper ne le pensait. Elles atterrissent dans le désert juste avant le campement de Shichimi. Une longue étendue de sable se dresse devant elles2 à perte de vue._
+_Le reste du voyage se passe sans encombre. Pepper ne sait quoi penser de ce fondateur. Elle est sans aucun doute la sorcière la plus compétente et douée qu'elle ait jamais vu, mais elle est parfois surprenante dans ses réactions, comme si elle se fichait de ce que peuvent ressentir les autres, et la seconde suivante, elle se montre prévenante et très protectrice envers ses disciples. Néanmoins, il est clair que Pepper est admirative.
+Elles s'arrêtent bien plus tôt que Pepper ne le pensait. Elles atterrissent dans le désert juste avant le campement de Shichimi. Une longue étendue de sable se dresse devant elles à perte de vue._
 
 _**Pepper :**_ "Je croyais qu'on se rendait au Sanctuaire de Ah…"
 
@@ -745,7 +751,7 @@ _Chicory pointe le sol avec ses deux index et forme un arc avec. Aussitôt, le s
 
 _**Chicory :**_ "…d'être imaginatif."
 
-_Pepper est trop abasourdie pour oser répondre. Elle se contente de suivre Chicory dans l'escalier.
+_Pepper est trop abasourdie pour oser répondre. Elle se contente de suivre Chicory dans l'escalier.  
 Malgré la promesse d'obscurité, les murs semblent générer leur propre lueur blanche. Sauf s'il s'agit de l'épaisse brume qui enveloppe le couloir dans lequel elles arrivent, empêchant de voir très loin devant soi. La brume donne l'impression d'être vivante, et de tourner autour de Pepper et Chicory._
 
 _**Pepper :**_ "C'est donc cela que vous appelez "_l'entrée des artistes_"… comment vous saviez qu'elle se trouvait là ?"
@@ -756,7 +762,7 @@ _**Pepper :**_ "OK, je vois le tableau… et du coup, cette rencontre s'est mal 
 
 _**Chicory :**_ "Oh, elles ont juste cherché à me brûler pour violation de leur territoire sacré, bla, bla, bla… il faut toujours qu'elles dramatisent tout, celles-là !"
 
-_Pepper préfère ne pas répondre et essaie de ne pas penser à son châtiment à elle lorsque les sorcières de Ah auront compris de quelle manière elles sont entrées. Elle croise les doigts pour que les mœurs aient évolué vers quelque chose de… moins barbare.
+_Pepper préfère ne pas répondre et essaie de ne pas penser à son châtiment à elle lorsque les sorcières de Ah auront compris de quelle manière elles sont entrées. Elle croise les doigts pour que les mœurs aient évolué vers quelque chose de… moins barbare.  
 Elles arrivent à un embranchement. Chicory s'arrête._
 
 _**Pepper :**_ "Vous ne vous rappelez plus quel est le bon chemin ?"
@@ -781,7 +787,7 @@ _**Pepper :**_ "QUOI ?! Non, attendez !"
 
 _Mais Chicory a disparu. Carrot devient aussi nerveux que sa maîtresse. Pepper regarde derrière elle._
 
-_**Pepper :**_ "Bon sang ! Je n'ai pas été attentive concernant chemin qu'elle a pris ! Je serai incapable de revenir sur mes pas…"
+_**Pepper :**_ "Bon sang ! Je n'ai pas été attentive concernant chemin qu'elle a pris ! Je serais incapable de revenir sur mes pas…"
 
 _Elle regarde sa bague, en sentant une bouffée de colère l'envahir._
 
@@ -795,7 +801,7 @@ _Carrot, un peu déboussolé, lui lance un air de défi pour la motiver. Pepper 
 
 _**Pepper :**_ "Tu as raison, Carrot. C'est un défi que nous a lancé Chicory. Et on n'a jamais reculé devant un défi ! Il est temps de montrer à notre fondateur de quoi l'héritière de Chaosah est capable ! Fini de rire !"
 
-_Elle regarde à nouveau la brume. Elle remarque des détails qu'elle ne voyait pas avant : elle voit des petites particules s'agiter dans tous les sens. Cette brume d'apparence banale et calme n'est en fait que le résultat de l'agitation de petites particules presque invisibles. Ces dernières semblent vouloir passer un message à Pepper, dans le tunnel de gauche. On dirait qu'elles s'écartent pour la laisser passer. Pepper sourit._
+_Elle regarde à nouveau la brume. Elle remarque des détails qu'elle ne voyait pas avant. Cette brume d'apparence banale et calme n'est en fait que le résultat de l'agitation de petites particules presque invisibles, s'agitant dans tous les sens, de façon désordonnée. Ces dernières semblent vouloir adresser un message à Pepper, dans le tunnel de gauche. On dirait qu'elles s'écartent pour la laisser passer. Pepper sourit._
 
 _**Pepper :**_ "Bingo."
 
@@ -803,7 +809,7 @@ _Elle poursuit son chemin. La brume est moins épaisse, elle peut voir plus loin
 
 _**Pepper :**_ "On s'apprête à violer un territoire sacré, Carrot. Qui est sous la surveillance d'une redoutable ennemie, qui plus est. Il est possible qu'on nous tombe dessus et qu'on nous attaque. Est-ce que tu te sens prêt ?"
 
-_Carrot arbore un air déterminé et opine du chef. Mais c'est plutôt à elle-même qu'elle se posait la question. Il s'agit tout de même du lieu d'entraînement de son amie. Il s'agit aussi du refuge de la femme qui l'a attaquée. Il est temps d'obtenir des réponses.
+_Carrot arbore un air déterminé et opine du chef. Mais c'est plutôt à elle-même qu'elle se posait la question. Il s'agit tout de même du lieu d'entraînement de son amie. Il s'agit aussi du refuge de la femme qui l'a attaquée. Il est temps d'obtenir des réponses.  
 Pepper ouvre la trappe avec prudence._
 
 
@@ -814,8 +820,8 @@ Il s'agissait effectivement d'un buisson posé dans un coin. Deux murs de pierre
 
 _**Pepper :**_ "Un bon endroit pour dissimuler une trappe… maintenant, voyons un peu à quoi ressemble ce Sanctuaire si secret…"
 
-_Elle traverse le buisson pour découvrir le reste de la pièce. 
-Elle se trouve dans un petit jardin tout à fait charmant et paisible. Une verdure fleurissante envahit l'espace pourtant clôt. Pepper reconnaît le même type de verdure auquel elle a déjà eu affaire lorsque Shichimi l'avait envoyé dans cette caverne piégée par Wasabi. 
+_Elle traverse le buisson pour découvrir le reste de la pièce.  
+Elle se trouve dans un petit jardin tout à fait charmant et paisible. Une verdure fleurissante envahit l'espace pourtant clôt. Pepper reconnaît le même type de verdure auquel elle a déjà eu affaire lorsque Shichimi l'avait envoyée indirectement dans cette caverne piégée par Wasabi.  
 Lorsque Pepper regarde autour d'elle, elle voit qu'il s'agit en fait de la cour intérieure de ce qui semble être un château imposant, dont les pierres réfléchissent parfaitement la lumière, donnant l'impression que le soleil éclaire le jardin en permanence. Il possède des vitraux en guise de fenêtres, représentant certainement des divinités dont Pepper n'a jamais entendu parler. Des points situés dans le jardin semblent plus éclairés que d'autres. Pepper se demande s'il ne s'agit pas d'esprits de Ah qui se baladent tranquillement._
 
 _**Pepper :**_ "C'est paisible, serein, beau… les sorcières de Ah ont décidément bien de la chance ! Chicory a raison : c'est injuste de garder de telles merveilles pour soi."
@@ -845,7 +851,7 @@ _Carrot fait le signe de motus et bouche cousue pour indiquer qu'il a compris._
 
 _**Pepper** (murmure) **:**_ "Tu vois, je pense qu'on a de la chance, Carrot. Peu de gens peuvent se vanter d'avoir pu admirer les disciples de Ah méditer. En plus ils ont un jardin splendide pour le faire ! Je commence à les envier…"
 
-_Elle est interrompue par le son d'une sorte de gong. Toutes les sorcières relâchent leur position. Shichimi fait partie des premières sorcières à se lever._
+_Elle est interrompue par le son d'une sorte de gong. Toutes les sorcières relâchent leur position. Shichimi fait partie des premières à se lever._
 
 _**Voix :**_ "Bien, mes enfants. Regroupez-vous par deux et suivez-moi dans la salle d'entraînement numéro trois."
 
@@ -863,7 +869,7 @@ _**Pepper** (émergeant de sa cachette) **:**_ "Bon ! Il est temps de passer à 
 
 _Malgré son appel, la bague ne réagit pas._
 
-_**Pepper :**_ "Euh… allô ? Alors quoi, il est cassé cet engin ? Maître Chicory ? Vous m'entendez ?"
+_**Pepper :**_ "Euh… Maître ? Alors quoi, il est cassé cet engin ? Maître Chicory ? Vous m'entendez ?"
 
 _Pas de résultat._
 
@@ -881,12 +887,12 @@ _Elle court après Carrot pour qu'il arrête sa chasse. Après quelques minutes 
 
 _**Pepper** (essoufflée) **:**_ "Je sais que tes instincts de chat te dictent de bondir après ces trucs, mais par pitié, essaie de te tenir tranquille ! Je te rappelle comme nous sommes en mission _d'infiltration_ ! Et visiblement, seuls à devoir fouiller cet immense château ! Alors il va falloir un peu de discipline !"
 
-_Carrot refait le signe de bouche cousue.
+_Carrot refait le signe de bouche cousue.  
 Pepper s'approche du château à petits pas, et vérifie que personne ne se trouve dans les couloirs. Elle se lance ensuite dans la folle quête de l'amulette._
 
 _**Pepper :**_ "Bon, si j'étais une amulette…"
 
-_Comme aucune des nombreuses portes qu'elle croise ne se différencie, Pepper ouvre chacune d'entre elles. Malheureusement, elle ne fait pas mouche : elle tombe sur plusieurs placards à balais (magiques, bien entendu), des remises, des salles à manger pour sorcières… et visiblement pour esprits, étant donné l'aspect très invisible des tables, une salle remplie de gongs de rechange, une penderie avec des dizaines des robes de cérémonie différentes… une salle menant directement aux douves… mais aucune salle au trésor ou quoi que ce soit qui garderait une amulette. À plusieurs reprises, elle doit se cacher car une sorte de garde surveille un couloir. Elle doit reprendre Carrot aussi plusieurs fois, car il trouve toujours un nouveau jouet à titiller, qui évidemment fait beaucoup de bruit en tombant par terre. À chaque réprimande, il exécute le signe de bouche cousue._
+_Comme aucune des nombreuses portes qu'elle croise ne se différencie, Pepper ouvre chacune d'entre elles. Malheureusement, elle ne fait pas mouche : elle tombe sur plusieurs placards à balais (magiques, bien entendu), des remises, des salles à manger pour sorcières… et visiblement pour esprits, étant donné l'aspect très spectrale des tables, une salle remplie de gongs de rechange, une penderie avec des dizaines des robes de cérémonie différentes… une salle menant directement aux douves… mais aucune salle au trésor ou quoi que ce soit qui garderait une amulette. À plusieurs reprises, elle doit se cacher car une sorte de garde surveille un couloir. Elle doit reprendre Carrot aussi plusieurs fois, car il trouve toujours un nouveau jouet à titiller, qui évidemment fait beaucoup de bruit en tombant par terre. À chaque réprimande, il exécute le signe de bouche cousue._
 
 _**Pepper** (entrant dans une autre salle) **:**_ "C'est pas possible… qu'est-ce qu'on est nuls en furtif alors ! Pas moyen de trouver cette fichue amulette… et avec Chicory qui ne nous aide pas…"
 
@@ -906,7 +912,7 @@ _Elle essaie de reproduire ce qu'elle a fait dans le passage secret pour s'y ori
 
 _**Pepper :**_ "Carrot ! Qu'est-ce que je viens de dire ?!"
 
-_Mais Carrot, derrière elle, plaide l'innocence. Le cri d'effroi qu'elle entend devant elle lui permet d'approuver la plaidoirie de son chat. Elle remarque que le fracas correspond au contenu d'un panier en osier, contenant différents accessoires d'entraînement à la magie, à présent étalés par terre. Elle constate aussi que la robe que mordillait Carrot tout à l'heure n'était pas du tout accrochée au mur, mais plutôt à son amie Shichimi, qui la regarde avec un air choqué._
+_Mais Carrot, derrière elle, plaide l'innocence. Le cri d'effroi qu'elle entend devant elle lui permet d'approuver la plaidoirie de son chat. Elle remarque que le fracas correspond au contenu d'un panier en osier, soient différents accessoires d'entraînement à la magie, à présent étalés par terre. Elle constate aussi que la robe que mordillait Carrot tout à l'heure n'était pas du tout accrochée au mur, mais plutôt à son amie Shichimi, qui la regarde avec un air choqué._
 
 _**Shichimi :**_ "P… Pepper ?! Carrot ?! Mais… qu'est-ce que vous faîtes ici ?!"
 
@@ -917,7 +923,7 @@ _**Pepper :**_ "OK… avant d'essayer de voir au-delà des choses, je devrais pe
 
 ### Scène 4 : Confrontation
 
-_Prise la main dans le sac par Shichimi, Pepper se retrouve dans une posture délicate. Comment lui expliquer la situation ? Parmi toutes ses amies, Shichimi est bien celle dont elle aurait souhaité ne jamais voir ces yeux de reproches pointés sur elle.
+_Prise la main dans le sac par Shichimi, Pepper se retrouve dans une posture délicate. Comment lui expliquer la situation ? Parmi toutes ses amies, Shichimi est bien celle dont elle aurait souhaité ne jamais voir ces yeux de reproches pointés sur elle.  
 Pepper lève les mains comme pour essayer de la calmer avant qu'elle n'explose._
 
 _**Pepper :**_ "Surtout, ne va pas croire que je suis là pour piller ou manquer de respect à votre endroit secret. Le truc, c'est que…"
@@ -936,7 +942,7 @@ _**Pepper :**_ "Euh… eh bien, merci de m'avoir…"
 
 _**Shichimi :**_ "Tu as énormément de chance que ce soit moi qui sois de corvée de nettoyage aujourd'hui ! Si ça avait été quelqu'un d'autre, je te garantis que tu passerais un sale quart d'heure en ce moment !"
 
-_**Pepper :**_ "Oui, les paris iraient bon train pour savoir si je serai cuite saignante ou à point sur le bûcher, mais il faut à tout prix que tu m'écoutes, c'est très important…"
+_**Pepper :**_ "Oui, les paris iraient bon train pour savoir si je serais cuite saignante ou à point sur le bûcher, mais il faut à tout prix que tu m'écoutes, c'est très important…"
 
 _**Shichimi :**_ "Mais qu'est-ce que c'est que ces histoires de bûchers ? Tu nous prends pour des barbares ou quoi ? Tu crois qu'on réserverait un châtiment aussi cruel à un profanateur ?!"
 
@@ -974,7 +980,7 @@ _**Pepper :**_ "Je… je ne suis pas comme ça, Shichimi. Je suis ton amie…"
 
 _**Shichimi** (en larmes) **:**_ "Non, c'est faux ! Va-t-en, maintenant, avant que mon Maître ne te trouve !"
 
-_Shichimi fait volte-face avant que Pepper ne puisse dire un mot. Carrot a les oreilles tombantes. Non, elle ne pensait pas se disputer avec une amie aussi douce et gentille que Shichimi.
+_Shichimi fait volte-face avant que Pepper ne puisse dire un mot. Carrot a les oreilles tombantes. Non, elle ne pensait pas se disputer avec une amie aussi douce et gentille que Shichimi.  
 Shichimi est stoppée par une personne qui apparaît d'un seul coup. Pepper sent son sang se glacer, car elle reconnaît bien cette femme. En comprenant qu'il s'agit de son maître, Shichimi lui tombe dans les bras en pleurant. Wasabi l'entoure de ses bras et lui caresse la tête pour la calmer._
 
 _**Wasabi :**_ "Chut… ne laisse pas les mots te blesser, mon enfant. Tu es bien au-dessus de ça."
@@ -994,8 +1000,8 @@ _**Wasabi :**_ "Que diriez-vous de régler tout cela devant une tasse de thé ?"
 
 ### Scène 5 : Le marché
 
-_Afin d'en savoir plus sur l'amulette, Pepper a accepté la proposition de Wasabi. Elle reste cependant très attentive à chacun de ses gestes, tout comme son chat. Au moindre mouvement suspect, c'est l'attaque directe !
-Wasabi les conduit dans une des pièces du château, au premier étage. Elle ouvre la porte et les invite à entrer. Toujours méfiante, Pepper passe la tête à l'intérieur avant d'entrer.
+_Afin d'en savoir plus sur l'amulette, Pepper a accepté la proposition de Wasabi. Elle reste cependant très attentive à chacun de ses gestes, tout comme son chat. Au moindre mouvement suspect, c'est l'attaque directe !  
+Wasabi les conduit dans une des pièces du château, au premier étage. Elle ouvre la porte et les invite à entrer. Toujours méfiante, Pepper passe la tête à l'intérieur avant d'entrer.  
 Un bureau en bois décoré, une bibliothèque imposante, divers objets pour pratiquer la communication avec les esprits… il s'agit sans doute de son bureau._
 
 _**Wasabi :**_ "La politique de Ah est très stricte envers la bienséance, y compris pour ceux qui entrent ici par effraction. Ce serait une insulte envers des générations de disciples si j'avais installé des pièges dans mon propre bureau. Je vous en prie, entrez sans crainte."
@@ -1019,7 +1025,7 @@ _Pepper goûte le thé._
 
 _**Pepper** (toujours méfiante) **:**_ "Vos disciples ont bien travaillé. Il est excellent."
 
-_**Wasabi :**_ "C'est gentil. Je transmettrais tes appréciations, je pense que ça ne peut que les motiver. Et redonner du baume aux cœurs blessés…"
+_**Wasabi :**_ "C'est gentil. Je transmettrai tes appréciations, je pense que ça ne peut que les motiver. Et redonner du baume aux cœurs blessés…"
 
 _**Pepper** (sur la défensive) **:**_ "Je n'ai pas voulu blesser Shichimi, d'accord ?!"
 
@@ -1034,15 +1040,15 @@ _**Wasabi :**_ "Je vais être claire, ma chère Pepper : si tu ne m'avais pas ta
 _Pepper n'ose rien dire. C'est une sorte de colère bien pire que l'agitation de Thym lorsqu'elle a fait une bêtise. Ce genre de colère froide, refoulée, est bien plus terrifiante. Elle sent son rythme cardiaque s'accélérer.
 Le visage de Wasabi s'adoucit. Elle se recule dans son siège._
 
-_**Wasabi :**_ "Enfin, pour cette fois, je me contenterais d'excuses. Et pour la violation de notre antre secret, il va me falloir des explications. Qu'es-tu venue voler ici ? À moins que tu ne veuilles te venger personnellement du test que je t'ai fait passer il y a quatre saisons de cela ?"
+_**Wasabi :**_ "Enfin, pour cette fois, je me contenterai d'excuses. Et pour la violation de notre antre secret, il va me falloir des explications. Qu'es-tu venue voler ici ? À moins que tu ne veuilles te venger personnellement du test que je t'ai fait passer il y a quatre saisons de cela ?"
 
 _**Pepper :**_ "Un test ? Moi j'appelle ça une agression, mais bon, chacun son point de vue ! Eh bien, voilà, veuillez m'excuser pour ce que j'ai fait à…"
 
 _**Wasabi :**_ "M'excuser auprès de moi est inutile. Je veux que tu présentes tes excuses à celle que tu as blessée. La gestion des émotions est un élément clé de leur apprentissage et je refuse qu'elle soit perturbée par un étranger qui n'a pas sa place ici."
 
-_**Pepper :**_ "Ah… eh bien, oui, évidemment, je présenterais mes excuses à Shichimi. Je… je ne voulais pas la blesser, c'est une amie précieuse que j'aime énormément."
+_**Pepper :**_ "Ah… eh bien, oui, évidemment, je présenterai mes excuses à Shichimi. Je… je ne voulais pas la blesser, c'est une amie précieuse que j'aime énormément."
 
-_**Wasabi :**_ "Je n'en doute pas. Elle me parle souvent de toi. Je n'aurai pas dû l'utiliser contre toi, la dernière fois. Elle te porte une affection sincère."
+_**Wasabi :**_ "Je n'en doute pas. Elle me parle souvent de toi. Je n'aurais pas dû l'utiliser contre toi, la dernière fois. Elle te porte une affection sincère."
 
 _**Pepper :**_ "Je ne vous le fais pas dire ! C'était honteux de votre part de la pousser à me…"
 
@@ -1054,13 +1060,13 @@ _Elle lâche ensuite sa main. Pepper ne sait pas quoi dire._
 
 _**Pepper :**_ "Euh…"
 
-_**Wasabi :**_ "Shichimi est une de mes élèves préférées. Elle a beaucoup de talent dans le maniement des sorts ascétiques. Elle aide aussi ses camarades qui ont des difficultés. Je suis sûr qu'elle fera un excellent Maître de Ah."
+_**Wasabi :**_ "Shichimi est une de mes élèves préférées. Elle a beaucoup de talent dans le maniement des sorts ascétiques. Elle aide aussi ses camarades qui ont des difficultés. Je suis sûre qu'elle fera un excellent Maître de Ah."
 
 _**Pepper :**_ "Euh… je n'en doute pas. Elle est très gentille avec moi."
 
 _**Wasabi :**_ "Bon, revenons-en à nos moutons. Que me vaut l'honneur de ta visite ? Cela doit être très important pour t'être donnée la peine d'invoquer ton fondateur pour déterrer notre entrée secrète afin de remonter jusqu'ici."
 
-_**Pepper :**_ "Eh bien, vous savez, si ce n'était pas une question de vie ou de mort, je n'aurai jamais osé mettre les p… attendez voir, vous ! Comment vous savez que j'ai invoqué mon fondateur ?"
+_**Pepper :**_ "Eh bien, vous savez, si ce n'était pas une question de vie ou de mort, je n'aurais jamais osé mettre les p… attendez voir, vous ! Comment vous savez que j'ai invoqué mon fondateur ?"
 
 _Wasabi désigne la bague que Pepper porte._
 
@@ -1100,7 +1106,7 @@ _**Wasabi :**_ "Après les menaces que ton fondateur vient proférer ? C'est hor
 
 _**Pepper :**_ "On pourrait très bien révéler l'endroit où se cache votre entrée secrète, aussi ! Comme ça, des dizaines de personnes viendraient troubler votre petite vie tranquille ! Et même si vous condamnez cette entrée, je m'évertuerai à en trouver une autre, encore et encore jusqu'à ce que vous nous donniez cette amulette de malheur !"
 
-_Wasabi la considère un instant. Pepper est persuadée qu'elle va l'attaquer. Chicory, elle, se contente d'adresser un sourire à Pepper. 
+_Wasabi la considère un instant. Pepper est persuadée qu'elle va l'attaquer. Chicory, elle, se contente d'adresser un sourire à Pepper.  
 Quelques instants plus tard, Wasabi renonce._
 
 _**Wasabi :**_ "Très bien. Vous me demandez l'amulette en échange de notre tranquillité, en somme ?"
@@ -1171,7 +1177,7 @@ _**Wasabi** (posée, avec un faux air innocent) **:**_ "Hum, il me semble que vo
 
 _**Chicory :**_ "Grr ! Bon, dis-moi quel est ton marché. Mais fais très attention, si jamais tu comptes nous la jouer à l'envers, je te promets le plus vil, le plus dangereux et le plus destructeur des Chaos que tu n'oserais même pas imaginer !"
 
-_**Wasabi :**_ "Quel enthousiasme ! Mais rassure-toi, très chère, ce ne sera pas utile. Mon marché est très simple : rapportez-moi les sceaux, et je vous accompagnerais jusqu'à l'Arbre pour vous expliquer comment s'en servir."
+_**Wasabi :**_ "Quel enthousiasme ! Mais rassure-toi, très chère, ce ne sera pas utile. Mon marché est très simple : rapportez-moi les sceaux, et je vous accompagnerai jusqu'à l'Arbre pour vous expliquer comment s'en servir."
 
 _**Chicory :**_ "C'est encore une entourloupe ! Non, je refuse le marché ! Je trouverais bien comment cet objet fonctionne ! J'ai bien réussi à dompter les voyages inter-dimensionnels…"
 
@@ -1193,11 +1199,11 @@ _**Pepper :**_ "Marché conclu."
 
 ### Scène 1 : Échauffement à Magmah
 
-_Pepper a présenté ses excuses à Shichimi. De nature peu rancunière, et sous le regard de son Maître, elle les a acceptées. Avant de partir, Wasabi a conseillé à Pepper de rester vigilante vis-à-vis de Chicory. Pepper n'en a pas tenue compte : il s'agit encore d'une combine destinée à la faire douter.
+_Pepper a présenté ses excuses à Shichimi. De nature peu rancunière, et sous le regard de son Maître, elle les a acceptées. Avant de partir, Wasabi a conseillé à Pepper de rester vigilante vis-à-vis de Chicory. Pepper n'en a pas tenu compte : il s'agit encore d'une combine destinée à la faire douter.
 Wasabi a ensuite suggéré à Pepper et Chicory de commencer par le sceau de Magmah, qui selon elle serait le plus simple à obtenir. En toute réponse, Chicory a tiré la langue à Wasabi, sous l’œil choqué de ses disciples.
 C'est ainsi que Pepper et Chicory entament leur quête des sceaux en se dirigeant vers Komona._
 
-_**Chicory :**_ "Contrairement à ses ramassis de fourberies et de snobisme que sont les sorcières de Ah, les élèves de Magmah ne s'entraînent pas dans un lieu secret. Elles ont établi leur lieu d'entraînement au pied du volcan le plus proche de Komona. Et n'importe qui peut assister à leurs leçons, j'ai bien dit : n'importe qui. Peau de vache de Wasabi, va !"
+_**Chicory :**_ "Contrairement à ses ramassis de fourberies et de snobismes que sont les sorcières de Ah, les élèves de Magmah ne s'entraînent pas dans un lieu secret. Elles ont établi leur lieu d'entraînement au pied du volcan le plus proche de Komona. Et n'importe qui peut assister à leurs leçons, j'ai bien dit : n'importe qui. Peau de vache de Wasabi, va !"
 
 _Pepper étouffe un ricanement. Voir un Maître tant respecté se conduire comme une enfant est plutôt comique, finalement.
 Les deux sorcières arrivent bientôt à Komona. Pepper est curieuse d'en savoir plus sur la façon dont Safran s'entraîne. Elle a l'air tellement sûr d'elle lorsqu'il s'agit de faire une démonstration de magie… de plus, elle s'est vantée d'avoir l'un des meilleurs maîtres qu'il ait été donné d'avoir. Pepper a hâte de la rencontrer.
@@ -1207,7 +1213,7 @@ _**Chicory :**_ "Magmah… cette école est réputée pour être la plus puissan
 
 _**Pepper :**_ "Pourtant, mon amie Safran ressemble à tout sauf à une brute…"
 
-_**Chicory :**_ "Oh, rassure-toi : elles savent bien cacher leur jeu. La dernière que j'ai affrontée était complètement maboule ! Il fallu faire intervenir des sorcières d'Aquah pour stopper l'incendie… non, non, des sauvages complètement psychopathes. Je te conseille de préparer la Potion d'Ignifuge, parce que ça va chauffer !"
+_**Chicory :**_ "Oh, rassure-toi : elles savent bien cacher leur jeu. La dernière que j'ai affrontée était complètement maboule ! Il a fallu faire intervenir des sorcières d'Aquah pour stopper l'incendie… non, non, des sauvages complètement psychopathes. Je te conseille de préparer la Potion d'Ignifuge, parce que ça va chauffer !"
 
 _**Pepper** (tendant l'oreille) **:**_ "Euh… vous entendez ça ?"
 
@@ -1242,12 +1248,12 @@ _Plusieurs personnes avec une banderole "Go, Safran !" passent à proximité de 
 
 _**Chicory :**_ "Mais qu'est-ce que… ?"
 
-_L'arrivée à l'intérieur du volcan finit de l'achever.
-Une immense foule en délire se trouve juste devant une sorte de scène, éclairée par les coulées de lave du volcan. La musique assourdissante résonne dans tout l'espace, provoquant des ondes de choc capable de remuer la lave elle-même. Au milieu de ce tumulte, une voix amplifiée s'élève alors dans toute la salle._
+_L'arrivée à l'intérieur du volcan finit de l'achever.  
+Une immense foule en délire se trouve juste devant une sorte de scène, éclairée par les coulées de lave du volcan. La musique assourdissante résonne dans tout l'espace, provoquant des ondes de choc capables de remuer la lave elle-même. Au milieu de ce tumulte, une voix amplifiée s'élève alors dans toute la salle._
 
 _**Voix amplifiée :**_ "EST-CE QUE VOUS EN VOULEEEEZ ?"
 
-_Des cris hystériques s'élèvent en toute réponse. Même Chicory est obligée de se boucher les oreilles. 
+_Des cris hystériques s'élèvent en toute réponse. Même Chicory est obligée de se boucher les oreilles.  
 Une image grossie de la scène apparaît dans une boule magique au-dessus de la foule. Pepper voit alors le visage d'un homme… ou plutôt d'une citrouille… enfin d'un homme avec une tête de citrouille, très décoré, apparaître. Il a une grande mèche noire qui retombe sur son visage, une tenue très chic et glamour sur le thème du feu, avec une sorte de pin's en forme de citrouille enflammée, et des jambes qui n'en finissent plus. Il prend une pose très… glamour, et fait naître une bouche annonçant :_
 
 _**Présentateur :**_ "Oh oui ! Je suis ravi de vous accueillir ici, mes chers amis, pour une nouvelle édition de l'entraînement des sorcières les plus talentueuses d'Hereva ! Je suis Red Pumpkin, votre présentateur adoré ! N'attendons plus, et que le show commence !"
@@ -1263,7 +1269,7 @@ _**Red Pumpkin :**_ "Charmantes, n'est-ce pas ? Mais ce n'est pas fini ! Red Pum
 
 _Le public lance une ovation, tandis qu'un dragon fait de flammes parcourt l'assistance en altitude avant d'exploser sur scène. À la place se tient Safran, avec son air assuré et son sourire suffisant. Elle semble adorer qu'on l'applaudisse._
 
-_**Safran :**_ "Bonjour, et bienvenus dans l'antre du Feu ! Prêts à en prendre plein les yeux ?"
+_**Safran :**_ "Bonjour, et bienvenue dans l'antre du Feu ! Prêts à en prendre plein les yeux ?"
 
 _Un immense "Oui" éclate._
 
@@ -1271,7 +1277,7 @@ _**Pepper** (agacée) **:**_ "Eh bien, depuis qu'elle a gagné ce concours de ma
 
 _**Red Pumpkin :**_ "Bien entendu, rien de tout ceci n'aurait vu le jour sans l'accord de deux personnalités que nous aimons tous ! Tout d'abord, le maire de Komona, que nous saluons ! Et bien évidemment la plus belle diva qui ferait rougir la lave elle-même ! Un tonnerre d'applaudissement poooooouuurrr CAPSICA !"
 
-_Tout le monde hurle à nouveau en applaudissant, tandis qu'une dame un peu forte, portant une robe flamboyante et une écharpe en froufrou apparaît juste devant Safran, qui applaudit également. Elle porte des lunettes de soleil, des cheveux aussi ondulés que les flammes elles-mêmes, et un sourire éclatant. Elle salue la foule des deux mains, en leur donnant un baiser avec sa main._
+_Tout le monde hurle à nouveau en applaudissant, tandis qu'une dame un peu forte, portant une robe flamboyante et une écharpe en froufrou apparaît juste devant Safran, qui applaudit également. Elle porte des lunettes de soleil, des cheveux aussi ondulés que les flammes elles-mêmes, et un sourire éclatant. Elle salue la foule des deux mains, en leur donnant un baiser avec l'une d'entre elles._
 
 _**Pepper** (étonnée) **:**_ "C'est elle, le Maître de Magmah ? Je dois avouer que je ne m'attendais pas à ça…"
 
@@ -1281,7 +1287,7 @@ _**Chicory :**_ "Mais… MAIS QU'EST-CE QUE C'EST QUE CE DÉLIRE ?!!"
 
 _**Pepper** (gênée) **:**_ "Bienvenue dans l'ère moderne, Maître…"
 
-_Pepper doit bien avouer qu'elle ne s'attendait pas à un tel spectacle en arrivant dans le camp d'entraînement des sorcières de Magmah. Tout est à l'opposé de Ah : dynamique, bruyant, tape-à-l’œil.
+_Pepper doit bien avouer qu'elle ne s'attendait pas à un tel spectacle en arrivant dans le camp d'entraînement des sorcières de Magmah. Tout est à l'opposé de Ah : dynamique, bruyant, tape-à-l’œil.  
 Le Maître de Magmah, Capsica, s'avance vers le micro que lui tend Red Pumpkin. D'une voix très mielleuse, elle annonce :_
 
 _**Capsica :**_ "Bienvenue à tous ! Je tiens tout d'abord à remercier le maire de notre ville chérie, qui a permis d'établir cette magnifique scène ! J'ai toujours eu la conviction que notre savoir, notre magie si précieuse, se devait d'être partagée entre tous, que l'on soit sorcière ou pas ! Et quitte à diffuser ce savoir, autant que ce soit un plaisir pour les yeux, n'est-ce pas ?"
@@ -1318,7 +1324,7 @@ _Pepper essaie de pousser les gens nerveux pour arriver sur le devant de la scè
 
 _**Red Pumpkin :**_ "Du calme, mes chers amis ! Il n'y a pas de quoi s'affoler, probablement une ratée de nos brillantes sorcières ! Qui peut se vanter de ne jamais faire aucune erreur, après tout ? Allez, essayez de vous reprendre et - NOM D'UN POTIRON, QUI EST-CE ?!"
 
-_Pepper regarde en direction de la scène, et à l'impression d'avoir une attaque lorsqu'elle voit son maître léviter au-dessus des élèves de Magmah. Ces dernières, terrifiées, se sont regroupées en criant et en essayant de chacune se dissimuler derrière une camarade, laissant Safran seule devant, affolée comme jamais.
+_Pepper regarde en direction de la scène, et a l'impression d'avoir une attaque lorsqu'elle voit son maître léviter au-dessus des élèves de Magmah. Ces dernières, terrifiées, se sont regroupées en criant et en essayant de chacune se dissimuler derrière une camarade, laissant Safran seule devant, affolée comme jamais.
 Chicory redescend vers le micro, l'air mécontent._
 
 _**Chicory :**_ "NON MAIS QU'EST-CE QUE C'EST QUE CETTE MASCARADE ?! UN NUMÉRO DE CIRQUE ?! Où est la fierté d'être une sorcière, là-dedans ?! Où est passé le prestige de l'école de Magmah ?! N'avez-vous donc aucune dignité pour faire passer la magie pour du spectacle ?! La magie, c'est du sérieux ! Pas un moyen d'épater la galerie avec des tours en passant pour un guignol ! Alors vous allez me faire le plaisir de descendre de là et de retourner travailler sérieusement, non mais !"
@@ -1329,7 +1335,7 @@ _**Capsica :**_ "Madame, je ne sais pas qui vous êtes, mais je vous préviens q
 
 _**Chicory :**_ "Vous croyez m'impressionner ? Je me suis frottée à de plus gros calibres que vous, Maître de Magmah ! Il va falloir user de votre imagination pour espérer m'effrayer !"
 
-_**Capsica :**_ "Vous, on peut dire que vous ne manquez pas d'assurance ! Puis-je savoir à qui j'ai affaire ?"
+_**Capsica :**_ "Vous, on peut dire que vous ne manquez pas d'assurance ! Puis-je savoir à qui ai-je affaire ?"
 
 _**Chicory :**_ "Je suis Chicory, le fondateur de la puissante et _**sérieuse**_ magie de Chaosah ! Et j'ai deux requêtes à formuler ! La première, c'est de cesser cette comédie ridicule et de vous en tenir à des enseignements plus classiques ! La deuxième, c'est de me confier le sceau de Magmah que vous avez dû recevoir d'une certaine Wasabi !"
 
@@ -1370,16 +1376,16 @@ _**Capsica :**_ "Je vois… (_à Chicory_) je suis navrée, chérie, mais je sai
 
 _La luminosité ambiante diminue. Les élèves de Magmah commencent à prendre peur. Un éclat ténébreux enveloppe le corps de Chicory. Les poings serrés, elle s'approche de Capsica, en lui lançant un regard effrayant. Même Pepper a cessé sa fouille._
 
-_**Chicory :**_ "Premièrement, je ne suis pas n'importe qui ! Je suis Chicory, la créatrice de la magie la plus puissante qui existe sur ces terres ! Et deuxièmement, appelle-moi encore une fois "_chérie_", et je te jure qu'un bain de magma de ce volcan sera une promenade de santé en comparaison de ce que je vous réserve."
+_**Chicory :**_ "Premièrement, je ne suis pas n'importe qui ! Je suis Chicory, la créatrice de la magie la plus puissante qui existe sur ces terres ! Et deuxièmement, appelle-moi encore une fois "_chérie_", et je te jure qu'un bain de magma de ce volcan sera une promenade de santé en comparaison de ce que je vous réserve, à toi et tes ouailles."
 
-_Pepper n'avait jamais vu une telle tension entre deux personnes. Et pourtant, Chicory voue une haine mortelle envers Wasabi…
+_Pepper n'avait jamais vu une telle tension entre deux personnes. Et pourtant, Chicory voue une haine mortelle envers Wasabi…  
 Elle est cependant surprise de voir que Capsica ne montre aucun signe de frayeur. Au contraire, elle continue de fixer Chicory fermement, en rayonnant de plus en plus. Bientôt, la lumière dégagée par le Maître de Magmah disperse les ténèbres de Chicory. Les élèves de Magmah retrouvent un peu de calme et de sérénité._
 
 _**Pepper :**_ "Oh là, là, ça sent pas bon, tout ça !"
 
 _**Safran** (à Chicory) **:**_ "Comment osez-vous vous adresser à mon Maître, espèce de…"
 
-_**Capsica :**_ "SAFRAN ! Je te prierai de ne pas répondre à ma place, tu veux ?"
+_**Capsica :**_ "SAFRAN ! Je te prierais de ne pas répondre à ma place, tu veux ?"
 
 _Safran baisse aussitôt les yeux, rougissante._
 
@@ -1433,14 +1439,14 @@ _**Chicory :**_ "Je pense que niveau sang versé, Chaosah vous surpasse largemen
 
 _**Capsica :**_ "Je suis navrée, cher Maître, mais ma décision est prise."
 
-_Un petit silence s'élève. Pepper ne peut s'empêcher de continuer à rire et se moquer, sous les yeux assassins de Safran.
+_Un petit silence s'élève. Pepper ne peut s'empêcher de continuer à rire et se moquer, sous les yeux assassins de Safran.  
 Chicory a alors un petit sourire._
 
 _**Chicory :**_ "Bien. Que diriez-vous d'un petit défi ?"
 
 _**Capsica** (soudainement intéressée) **:**_ "Un défi ? De quel genre ?"
 
-_**Chicory :**_ "Eh bien, je ne sais pas encore, mais un défi mettant en jeu le sceau. Si nous gagnons, nous remportons le sceau. Dans le cas contraire, nous vous laissons tranquille avec votre "précieux". Qu'en dîtes-vous ?"
+_**Chicory :**_ "Oh, je ne sais pas encore, mais un défi mettant en jeu le sceau. Si nous gagnons, nous remportons le sceau. Dans le cas contraire, nous vous laissons tranquille avec votre "précieux". Qu'en dîtes-vous ?"
 
 _Le Maître de Magmah réfléchit. Elle semble très intéressée par ce défi lancé par Chicory._
 
@@ -1463,7 +1469,7 @@ _**Chicory :**_ "Ce sera parfait."
 
 ### Scène 3 : Pepper vs. Safran
 
-_Peu enjouée à l'idée de se battre contre une amie, Pepper suit quand même Chicory, Capsica et Safran, en tête, qui marche en vitesse, les poings serrés, visiblement contrariée.
+_Peu enjouée à l'idée de se battre contre une amie, Pepper suit quand même Chicory, Capsica et Safran, en tête, qui marche en vitesse, les poings serrés, visiblement contrariée.  
 Pepper s'approche de Chicory et lui murmure :_
 
 _**Pepper :**_ "Vu le refus dont elle a fait preuve au sujet du sceau, je m'étonne que le Maître de Magmah ait accepté le défi aussi facilement…"
@@ -1476,11 +1482,11 @@ _**Chicory :**_ "Je te l'ai déjà dit : appelle-moi simplement Chicory."
 
 _**Pepper :**_ "Oui, Chicory… ce défi ne m'emballe pas du tout ! J'ai aucune envie de me battre…"
 
-_**Chicory :**_ "Ne t'inquiètes pas, chère Pepper. Tout va bien se passer, crois-moi."
+_**Chicory :**_ "Ne t'inquiète pas, chère Pepper. Tout va bien se passer, crois-moi."
 
-_Chicory semble confiante. Cette assurance ne fait que mettre davantage de pression sur Pepper.
-Elles arrivent dans un immense espace où un lac de lave repose, peignant le lieu d'une solennité bien trop importante pour le simple duel qui se prépare.
-Pepper et Safran se placent d'un bout à l'autre de la pièce, face à face. Safran a l'air impatiente de commencer, et effectue quelques étirements. Pepper se contente de trembloter légèrement.
+_Chicory semble confiante. Cette assurance ne fait que mettre davantage de pression sur Pepper.  
+Elles arrivent dans un immense espace où un lac de lave repose, peignant le lieu d'une solennité bien trop importante pour le simple duel qui se prépare.  
+Pepper et Safran se placent d'un bout à l'autre de la pièce, face à face. Safran a l'air impatiente de commencer, et effectue quelques étirements. Pepper se contente de trembloter légèrement.  
 Bientôt, Red Pumpkin vient rejoindre les maîtres, placées sur le côté._
 
 _**Capsica :**_ "Je propose que notre ami supervise le match. Vous pouvez faire confiance en sa neutralité."
@@ -1511,9 +1517,9 @@ _**Pepper :**_ "Oups ! Euh, je voulais dire que… AH !"
 
 _Elle évite une deuxième déflagration, en forme d'étoile filante._
 
-_**Pepper :**_ "Tu es sûre qu'on ne peut pas juste en discuter tranquillement ? On n'est pas obligée de se battre !"
+_**Pepper :**_ "Tu es sûre qu'on ne peut pas juste en discuter tranquillement ? On n'est pas obligées de se battre !"
 
-_**Safran** (arborant un sourire narquois) **:**_ "Aurais-tu peur, Pepper ? Ce n'est plus si facile de se moquer de moi et de me spoiler tous mes biens, maintenant, hein ? Je te garantis que je vais te faire rôtir !"
+_**Safran** (arborant un sourire narquois) **:**_ "Aurais-tu peur, Pepper ? Ce n'est plus si facile de se moquer de moi et de me spolier tous mes biens, maintenant, hein ? Je te garantis que je vais te faire rôtir !"
 
 _**Pepper :**_ "Gloups !"
 
@@ -1529,7 +1535,7 @@ _Pepper essaie d'oublier ses douleurs. Elle se relève avec difficultés._
 
 _**Pepper** (rayonnant d'énergie noire) **:**_ "Vous avez raison, Chicory. Je ne peux pas me faire battre aussi facilement, surtout par une sorcière aussi superficielle et prétentieuse qu'elle."
 
-_**Safran :**_ "Pardon ?! Qu'est-ce que tu as osé dire ?"
+_**Safran :**_ "Pardon ?! Qu'est-ce que tu as osé dire ?!!"
 
 _Pepper envoie un sort explosif vers Safran. L'impact fait trembler toute la salle, et perturbe le lac de lave._
 
@@ -1537,7 +1543,7 @@ _**Pepper :**_ "J'ai dit que tu étais superficielle et prétentieuse ! Tu l'as 
 
 _Safran émerge de l'explosion. Ses vêtements ont été endommagés, mais cela ne semble pas perturber sa colère._
 
-_**Safran :**_ "C'est vraiment ce que tu penses ?"
+_**Safran :**_ "C'est vraiment ce que tu penses ?!!"
 
 _**Pepper :**_ "Oui, c'est ce que je pense, "_Safran chérie_" ! Amène-toi, je t'attends !"
 
@@ -1607,14 +1613,14 @@ _**Capsica** (impassible) **:**_ "Malheureusement, cher Maître… vous n'avez a
 
 _**Pepper :**_ "Attendez ! C’est inutile, vous voyez bien que je suis hors combat ! Safran, je sais que nous ne sommes pas en bons termes, mais tu ne vas pas aller jusque là ! SAFRAN !"
 
-_Safran achève son immense boule de feu. Sans hésiter, elle la jette sur Pepper. Cette dernière ferme les yeux en priant pour ne pas succomber.
+_Safran achève son immense boule de feu. Sans hésiter, elle la jette sur Pepper. Cette dernière ferme les yeux en priant pour ne pas succomber.  
 Mais la chaleur ne vient pas. En rouvrant les yeux, elle voit une Safran, désemparée, les bras levés… sans aucune boule de feu à jeter. Elle regarde ses mains, abasourdie._
 
 _**Safran :**_ "Mais… mais pourquoi ? Pourquoi je n'arrive plus à générer de magie ?"
 
 _Elle sent alors son pied dominateur être repoussé. Elle regarde Pepper se relever, avec un terrible regard. Safran se sent légèrement apeurée._
 
-_**Safran :**_ "Euh… ha, ha ! Je t'ai eue ! Franchement, tu as bien cru que j'allai te lancer cette boule de feu à bout portant, n'est-ce pas ? Mais je ne suis pas une sauvage, ha, ha ! Jamais je ne l'aurais fait, hein Pepper ? Pepper ? Je peux savoir ce que tu fais ?"
+_**Safran :**_ "Euh… ha, ha ! Je t'ai eue ! Franchement, tu as bien cru que j'allais te lancer cette boule de feu à bout portant, n'est-ce pas ? Mais je ne suis pas une sauvage, ha, ha ! Jamais je ne l'aurais fait, hein Pepper ? Pepper ? Je peux savoir ce que tu fais ?"
 
 _Pepper, en colère, régénère le sort de Désordre manqué qu'elle a tenté de lancer sur Safran un peu plus tôt. Il semble même plus puissant qu'avant. Bien plus puissant._
 
@@ -1638,7 +1644,7 @@ _**Pepper :**_ "Tout va bien, Safran ? Rien de cassé ?"
 
 _**Safran** (en sanglots) **:**_ "Va-t-en, toi ! Tu m'as humiliée devant mon Maître ! Snif !"
 
-_**Capsica :**_ "Poussez-vous ! Oh, ma Safran chérie ! Regarde dans quel état elle t'a mis ! Ne t'en fais pas, tu t'es bien battue ! Je suis suis fière de toi, ma cocotte ! Laisse-moi te refaire une beauté !"
+_**Capsica :**_ "Poussez-vous ! Oh, ma Safran chérie ! Regarde dans quel état elle t'a mis ! Ne t'en fais pas, tu t'es bien battue ! Je suis fière de toi, ma cocotte ! Laisse-moi te refaire une beauté !"
 
 _Elle déverrouille une fiole qu'elle avait sur elle, et verse son contenu sur les blessures de Safran. Celle-ci gémit quelques peu, mais les blessures semblent disparaître à vu d’œil._
 
@@ -1655,7 +1661,7 @@ _**Pepper :**_ "Euh… vous avez des potions de soin, vous aussi ? Parce que je 
 
 ### Scène 4 : Piège sylvain
 
-_Une fois les deux duellistes rafistolées, Chicory et Pepper ont pu recevoir, non sans quelques ressentiments, le sceau tant convoité. Elles partent en direction de la forêt d'entraînement d'Hippiah, que Pepper connaît bien. Avant de partir, Capsica a affirmé devant Chicory que si Safran n'avait pas été à court de Réa, l'issue du match aurait été autre. Chicory a totalement nié ce fait et s'est emparée du sceau qu'on lui tendait. Safran a juré qu'elle se vengerait pour cette humiliante défaite.
+_Une fois les deux duellistes rafistolées, Chicory et Pepper ont pu recevoir, non sans quelques ressentiments, le sceau tant convoité. Elles partent en direction de la forêt d'entraînement d'Hippiah, que Pepper connaît bien. Avant de partir, Capsica a affirmé devant Chicory que si Safran n'avait pas été à court de Réa, l'issue du match aurait été autre. Chicory a totalement nié ce fait et s'est emparée du sceau qu'on lui tendait. Safran a juré qu'elle se vengerait pour cette humiliante défaite.  
 Sur le chemin d'Hippiah, Pepper s'interroge._
 
 _**Pepper :**_ "Je n'arrive pas tellement à comprendre ce qui est arrivé à Safran… pourquoi sa boule de feu s'est évaporée ?"
@@ -1681,7 +1687,7 @@ _**Chicory :**_ "Tu vas devoir t'y faire, Pepper. Tu es une sorcière très puis
 _Le cœur rempli de fierté, Pepper suit le mentor qu'elle a toujours rêvé d'avoir sur le chemin d'Hippiah. 
 Pendant le voyage, Chicory donne à Pepper des conseils sur la façon de ne plus rater le sort de Désordre._
 
-_**Chicory :**_ "Thym a dû te demander de visualiser le désordre que tu veux générer. En réalité, il faut aller au-delà d'une simple visualisation. Essaie de te mettre à sa place, d'"_être_" le désordre, en quelque sorte, et de maîtriser chaque particule que tu génères. D'être en quelque sorte la graine de l'aléatoire que tu provoques. Vu ton potentiel, je pense que tu y arriveras sans peine si tu vois les choses ainsi."
+_**Chicory :**_ "Thym a dû te demander de visualiser le désordre que tu veux générer. En réalité, il faut aller au-delà d'une simple visualisation. Essaie de te mettre à sa place, d'"_être_" le désordre, en quelque sorte, et de maîtriser chaque particule que tu génères. Essaie de devenir la graine de l'aléatoire que tu provoques. Vu ton potentiel, je pense que tu y arriveras sans peine si tu vois les choses ainsi."
 
 _**Pepper :**_ "Ah… d'accord, je vais essayer ! Vous êtes vraiment un très bon professeur, Chicory ! Mes marraines passent leur temps à me crier dessus sans rien m'expliquer…"
 
@@ -1699,7 +1705,7 @@ _Carrot sort de son sac et bondit sur l'épaule de sa maîtresse en se frottant 
 
 _**Pepper :**_ "Hi, hi ! Malgré toutes mes ratées, je pense quand même que Chaosah me correspond davantage. Faire pousser des plantes, c'est bien mignon, mais y a plus palpitant à faire, je pense !"
 
-_**Chicory :**_ "Oh, détrompes-toi si tu prends les sorcières d'Hippiah pour de simples horticulteurs ! Elles sont redoutables quand elles le veulent ! Leur maîtrise de la nature et de l'énergie tellurique est proprement remarquable ! Je ne suis pas aussi confiante pour récupérer leur sceau que je l'étais à Magmah…"
+_**Chicory :**_ "Oh, détrompe-toi si tu prends les sorcières d'Hippiah pour de simples horticulteurs ! Elles sont redoutables quand elles le veulent ! Leur maîtrise de la nature et de l'énergie tellurique est proprement remarquable ! Je ne suis pas aussi confiante pour récupérer leur sceau que je l'étais à Magmah…"
 
 _**Pepper :**_ "Ah bon, à ce point-là ? Mais vous savez, à part accélérer la pousse des plantes et installer des pièges dans la forêt pour attraper les intrus, je ne faisais rien d'exceptionnel à Hippiah !"
 
@@ -1709,7 +1715,7 @@ _**Pepper :**_ "Oui pourquoi - AAAAHHH !"
 
 _Voilà que Pepper se retrouve piégée dans un enchevêtrement de lianes qui vient de se refermer sur elle. Chicory a juste eu à s'écarter pour éviter le piège._
 
-_**Pepper :**_ "Bon sang ! J'avais oublié qu'ils étaient aussi haut dans les arbres !"
+_**Pepper :**_ "Bon sang ! J'avais oublié qu'ils étaient aussi hauts dans les arbres !"
 
 _**Chicory :**_ "Il faut toujours rester vigilante lorsqu'on conduit un balai. Le moindre signe d'inattention peut être fatal. Tu vas devoir travailler cela si tu veux progresser."
 
@@ -1729,7 +1735,7 @@ _Le piège s'agite soudainement. Aussitôt, une forme sombre et rapide bondit su
 
 _**Chicory :**_ "EH ! Pas touche à mon héritière !"
 
-_Elle finit par arriver dans une grande clairière éclairée par le soleil. Un immense bâtiment en bois se dresse devant elle, de l'autre côté d'un léger filet d'eau : l'école d'Hippiah. Quelques sorcières sylvestres la regardent se diriger à toute vitesse à l'intérieur du bâtiment. D'autres disciples d'Hippiah poussent un cri en évitant Chicory et sa proie. Cette dernière entre dans une pièce imposante, où mobiliers et plantes ne font qu'un. Une femme rousse aux oreilles pointues, portant un bandeau dans les cheveux, tenant un arrosoir, se retourne subitement, ce qui permet à Chicory de découvrir la nature de la forme sombre qu'elle poursuivait.
+_Elle finit par arriver dans une grande clairière éclairée par le soleil. Un immense bâtiment en bois se dresse devant elle, de l'autre côté d'un léger filet d'eau : l'école d'Hippiah. Quelques sorcières sylvestres la regardent se diriger à toute vitesse à l'intérieur du bâtiment. D'autres disciples d'Hippiah poussent un cri en évitant Chicory et sa proie. Cette dernière entre dans une pièce imposante, où mobiliers et plantes ne font qu'un. Une femme rousse aux oreilles pointues, portant un bandeau dans les cheveux et tenant un arrosoir, se retourne subitement, ce qui permet à Chicory de découvrir la nature de la forme sombre qu'elle poursuivait.  
 En désignant son butin ligoté sur son épaule (qu'elle jette à terre sans vraiment de délicatesse), une jeune sorcière aux oreilles et queue de raton-laveur exprime d'une voix forte :_
 
 _**Camomille :**_ "Maître Basilic ! Mon piège a capturé un intrus !"
@@ -1792,7 +1798,7 @@ _**Pepper :**_ "Quoi ? Vous délirez ! C'est une sorcière exceptionnelle qui a 
 
 _Cette pique est bien entendu destinée à son ancien maître, qui ne l'a jamais soutenue. Un peu gênée, Basilic insiste._
 
-_**Basilic :**_ "D'accord, j'aurai peut-être dû être plus patiente avec toi. Mais ça n'a aucune importance ! Tu n'as pas idée de ce que cette folle est capable de faire !"
+_**Basilic :**_ "D'accord, j'aurais peut-être dû être plus patiente avec toi. Mais ça n'a aucune importance ! Tu n'as pas idée de ce que cette folle est capable de faire !"
 
 _**Chicory :**_ "Oh, oh ! "_Cette folle_" ! On dirait que ma réputation me précède !
 
@@ -1820,7 +1826,7 @@ _**Basilic :**_ "Pas de mais ! Exécution !"
 
 _Camomille sort de la pièce, en jetant un dernier regard noir à Chicory et Pepper._
 
-_**Pepper :**_ "Eh beh… je crois que je ne vais pas faire que des amies dans cette histoire…"
+_**Pepper :**_ "Eh beh… je crois que je ne vais pas me faire que des amies dans cette histoire…"
 
 _**Basilic :**_ "Je me fiche de ce que vous pensez de mon regretté Maître. Je vous demanderais de partir d'ici, maintenant. Même si cela vous semble totalement improbable, j'ai encore du travail, figurez-vous !"
 
@@ -1830,7 +1836,7 @@ _**Basilic :**_ "C'est hors de question ! Nous ne voulons créer aucun conflit, 
 
 _**Pepper :**_ "Je peux comprendre. Mais la situation est grave : les perturbations deviennent instables, et nous risquons une catastrophe planétaire si on ne fait rien !"
 
-_**Basilic :**_ "Tout ceci n'est que balivernes ! En tant qu'expert sur le fonctionnement de la nature et des plantes, je peux t'assurer que je le saurai si l'Arbre de Komona sentait des perturbations ! Ton Maître souhaite simplement s'emparer des pouvoirs de l'Arbre pour son profit personnel, et elle a profité de ta médiocrité et ta naïveté pour te faire croire n'importe quoi, voilà tout ! Maintenant, si vous voulez bien m'excuser, le successeur de l'horticultrice a du travail !"
+_**Basilic :**_ "Tout ceci n'est que balivernes ! En tant qu'expert sur le fonctionnement de la nature et des plantes, je peux t'assurer que je le saurais si l'Arbre de Komona sentait des perturbations ! Ton Maître souhaite simplement s'emparer des pouvoirs de l'Arbre pour son profit personnel, et elle a profité de ta médiocrité et ta naïveté pour te faire croire n'importe quoi, voilà tout ! Maintenant, si vous voulez bien m'excuser, le successeur de l'horticultrice a du travail !"
 
 _Basilic reprend son arrosoir et poursuit son travail. Pepper se sent bouillir._
 
@@ -1840,7 +1846,7 @@ _**Basilic :**_ "Ton fondateur pense que mon Maître était une incapable, et je
 
 _**Pepper :**_ "Vous croyez toujours que je suis une bonne à rien ! J'en ai assez ! Je m'engage à vous prouver que je suis capable de me débrouiller lorsque je reçois un enseignement digne de ce nom ! Je vous défie, Maître Basilic ! Et vous mettrez votre sceau en jeu !"
 
-_"Non mais qu'est-ce que je suis en train de faire ? Pas un autre défi, espèce d'idiote !" penses très fort Pepper. Mais elle ne cède pas, c'est trop tard maintenant.
+_"Non mais qu'est-ce que je suis en train de faire ? Pas un autre défi, espèce d'idiote !" pense très fort Pepper. Mais elle ne cède pas, c'est trop tard maintenant.  
 Basilic semble réfléchir. Un sourire parcourt bientôt son visage._
 
 _**Basilic :**_ "J'accepte. À condition que tu mettes aussi ton sceau en jeu."
@@ -1856,8 +1862,8 @@ _Pepper se sent moins confiante tout à coup. Chicory, spectatrice, observe la s
 
 ### Scène 5 : Duel au sommet
 
-_Toutes les sorcières d'Hippiah se sont réunies dans la cour. Même Camomille a quitté temporairement son poste pour assister au duel entre Basilic et Pepper. Cependant, elle ne cesse de jeter des coups d’œil dans la forêt, les oreilles aux aguets. Elle prend son rôle très au sérieux.
-Chicory, les bras croisés, attend que le défi commence. Pepper et Basilic se font face. Pepper ne peut s'empêcher de se sentir nerveuse. Après tout, c'est un Maître qu'elle affronte.
+_Toutes les sorcières d'Hippiah se sont réunies dans la cour. Même Camomille a quitté temporairement son poste pour assister au duel entre Basilic et Pepper. Cependant, elle ne cesse de jeter des coups d’œil dans la forêt, les oreilles aux aguets. Elle prend son rôle très au sérieux.  
+Chicory, les bras croisés, attend que le défi commence. Pepper et Basilic se font face. Pepper ne peut s'empêcher de se sentir nerveuse. Après tout, c'est un Maître qu'elle affronte.  
 Mais quelque chose ne tourne pas rond._
 
 _**Pepper :**_ "Attendez une minute ! N'aviez-vous pas dit que vous étiez contre toute forme de violence ?"
@@ -1868,7 +1874,7 @@ _Les apprenties rient avec leur maître. Cette situation est trop familière pou
 
 _**Basilic :**_ "Ha… non, bien entendu, je te propose plus une sorte d'épreuve de magie. Puisque tu penses que l'enseignement que tu as reçu à Chaosah est meilleure que la mienne, tu vas utiliser ce que tu as appris pour contrer ma magie !"
 
-_Elle joint les mains. Une puissante aura verte l'entoure alors. Comme si des milliers de feuilles étaient venues se coller après elle dans un ballet ininterrompu. Les apprentis poussent un "Oooh !" d'admiration. Chicory, elle, hausse les épaules en lâchant un vague "Meh !", peu convaincue.
+_Elle joint les mains. Une puissante aura verte l'entoure alors. Comme si des milliers de feuilles étaient venues se coller après elle dans un ballet ininterrompu. Les apprenties poussent un "Oooh !" d'admiration. Chicory, elle, hausse les épaules en lâchant un vague "Meh !", peu convaincue.  
 Basilic vise ensuite le sol avec ses mains. Celui-ci se met à trembler et une petite plante en germe, à vitesse élevée._
 
 _**Basilic :**_ "Empêche-moi de faire pousser un arbre, et je te donnerais ce que tu es venue chercher. Attention : interdiction de lancer des sorts en direction de l'adversaire ! Vas-y, éblouis-nous."
@@ -1883,7 +1889,7 @@ _Nouveaux rires. Pepper grince des dents._
 
 _**Pepper :**_ "Très bien ! Vous voulez que je vous empêche de faire pousser votre arbre ? Eh bien prenez donc ça !"
 
-_Elle lance une puissante explosion en direction de l'arbre. Les spectateurs se protègent avec leur bras._
+_Elle lance une puissante explosion en direction de l'arbre. Les spectateurs se protègent avec leurs bras._
 
 _**Pepper :**_ "Hé, hé, hé… alors ? Pas si mauvaise, l'ancienne élève, n'est-ce pas ?"
 
@@ -1903,7 +1909,7 @@ _**Basilic :**_ "Je ne rencontre pas bien de résistance, c'est décevant, quoi 
 
 _Les sorcières d'Hippiah encouragent leur Maître. Pepper se tourne vers Chicory. Mais cette dernière s'est désintéressée du duel. Les bras croisés, les yeux fermés, on dirait qu'elle fait la sieste._
 
-_**Pepper :**_ "Je… je crois que je fais une grosse erreur. J'ai sous-estimé les pouvoirs d'un Maître… ou alors surestimé les miens ! Je ne peux absolument rien faire…"
+_**Pepper :**_ "Je… je crois que j'ai fait une grosse erreur. J'ai sous-estimé les pouvoirs d'un Maître… ou alors surestimé les miens ! Je ne peux absolument rien faire…"
 
 _Chicory apparaît alors brusquement devant elle._
 
@@ -1925,20 +1931,20 @@ _Elle lève les bras. Camomille a senti le danger et se jette sur son Maître._
 
 _**Camomille :**_ "Faîtes attention !"
 
-_Elles basculent un peu plus loin. Et Basilic constate qu'elle a eu raison de l'éloigner.
-Pepper vient de déchirer l'espace pour ouvrir un trou noir. Un trou noir relativement puissant. Une puissante force d'aspiration s'en dégage. Les apprenties d'Hippiah, terrifiées, s'accrochent à ce qu'elles peuvent pour ne pas être aspirées à l'intérieur.
-Même Carrot a bien du mal à s'accrocher à l'arbre qu'il a pris pour appui. Seule Chicory ne semble pas être affectée par le trou noir.
-Pepper maintient son ouverture, aveuglée par sa détermination. Le bâtiment commence à se désagréger, petit à petit. Des branches d'arbre de la forêt sont arrachées et passe par la terrible ouverture._
+_Elles basculent un peu plus loin. Et Basilic constate qu'elle a eu raison de l'éloigner.  
+Pepper vient de déchirer l'espace pour ouvrir un trou noir. Un trou noir relativement puissant. Une incommensurable force d'aspiration s'en dégage. Les apprenties d'Hippiah, terrifiées, s'accrochent à ce qu'elles peuvent pour ne pas être aspirées à l'intérieur.  
+Même Carrot a bien du mal à s'accrocher à l'arbre qu'il a pris pour appui. Seule Chicory ne semble pas être affectée par le trou noir.  
+Pepper maintient son ouverture, aveuglée par sa détermination. Le bâtiment commence à se désagréger, petit à petit. Des branches d'arbre de la forêt sont arrachées et passent par la terrible ouverture._
 
 _**Basilic :**_ "Pepper ! Je t'en prie, arrête ! Je te donnerais tout ce que tu veux !"
 
-_Mais Pepper n'entend pas. Elle continue de maintenir son sort, tandis que la nature autour d'elle disparaît peu à peu.
+_Mais Pepper n'entend pas. Elle continue de maintenir son sort, tandis que la nature autour d'elle disparaît peu à peu.  
 Contre toute attente, Chicory se dirige vers Pepper._
 
 _**Chicory :**_ "Pepper, c'est bon. Arrête. Tu as largement remporté le duel. Pepper, stop. Pepper ! PEPPER ! ÇA SUFFIT MAINTENANT !"
 
-_Pepper réagit soudainement. Le trou noir disparaît d'un seul coup. Elle tombe à genoux, essoufflée. Comme si elle se réveillait d'un mauvais rêve, elle regarde lentement autour d'elle, et étouffe une exclamation d'horreur.
-La cour est totalement dévastée. Les plantations ont été endommagées, le bâtiment fissuré et déformé, et plusieurs débris d'arbres traînent sur le passage. Tremblante, Pepper se tourne vers Chicory._
+_Pepper réagit soudainement. Le trou noir disparaît d'un seul coup. Elle tombe à genoux, essoufflée. Comme si elle se réveillait d'un mauvais rêve, elle regarde lentement autour d'elle, et étouffe une exclamation d'horreur.  
+La cour est totalement dévastée. Les plantations ont été endommagées, le bâtiment fissuré et déformé, et plusieurs débris d'arbres et de végétations traînent sur le passage. Tremblante, Pepper se tourne vers Chicory._
 
 _**Pepper :**_ "C'est… c'est moi qui ai fait ça ?!"
 
@@ -1962,11 +1968,11 @@ _Camomille fait jaillir des racines d'une taille gigantesque, et attrape Pepper 
 
 ### Scène 1 : Le royaume sous-marin
 
-_Pepper se laisse porter par son vol plané, les yeux fermés. Elle n'arrive pas à réaliser ce qu'elle a fait. Si Chicory ne l'avait pas arrêtée…
-Se laisser chuter n'est pas si terrible, au final. On a l'impression de se laisser porter par le vent… Pepper ressent une certaine paix l'envahir, nécessaire afin de refouler sa culpabilité profondément.
-Elle sent soudainement une pression sur le long de son dos. Comme si un bâton venait de se coller à elle. En ouvrant les yeux et relevant légèrement la tête, elle remarque que son balai, de son propre chef, a décidé de stopper sa chute et de la porter vers le sol en douceur. 
-Elle quitte la forêt et se dirige vers un grand lac. Le balai a quelques soucis pour atterrir, et Pepper est projetée en avant. Elle fait quelques roulades sur elle-même avant de s'arrêter juste au bord du lac, une partie du corps dans l'eau. Une fois stabilisée, elle ne bouge plus. Les yeux de nouveau fermés, elle essaie de ne pas penser à ce qu'elle a fait.
-Combien de temps passe ? Une minute, une heure ? Pepper n'arrive pas à oublier ce qu'elle a fait subir aux élèves d'Hippiah, ni la terreur avec laquelle elles la regardaient…
+_Pepper se laisse porter par son vol plané, les yeux fermés. Elle n'arrive pas à réaliser ce qu'elle a fait. Si Chicory ne l'avait pas arrêtée…  
+Se laisser chuter n'est pas si terrible, au final. On a l'impression de se laisser porter par le vent… Pepper ressent une certaine paix l'envahir, nécessaire afin de refouler sa culpabilité profondément.  
+Elle sent soudainement une pression sur le long de son dos. Comme si un bâton venait de se coller à elle. En ouvrant les yeux et relevant légèrement la tête, elle remarque que son balai, de son propre chef, a décidé de stopper sa chute et de la porter vers le sol en douceur.  
+Elle quitte la forêt et se dirige vers un grand lac. Le balai a quelques soucis pour atterrir, et Pepper est projetée en avant. Elle fait quelques roulades sur elle-même avant de s'arrêter juste au bord du lac, une partie du corps dans l'eau. Une fois stabilisée, elle ne bouge plus. Les yeux de nouveau fermés, elle essaie de ne pas penser à ce qu'elle a fait.  
+Combien de temps passe ? Une minute, une heure ? Pepper n'arrive pas à oublier ce qu'elle a fait subir aux élèves d'Hippiah, ni la terreur avec laquelle elles la regardaient…  
 Pepper se redresse, et regarde son reflet déformé par l'ondulation de l'eau._
 
 _**Pepper :**_ "Je suis un monstre."
@@ -1979,17 +1985,17 @@ _**Pepper :**_ "C'est vous qui m'avez sauvée en faisant léviter mon balai jusq
 
 _**Chicory :**_ "C'était une sacrée chute. Elle t'aurait amochée."
 
-_**Pepper :**_ "C'est tout ce que j'aurai mérité. Je suis un monstre. J'ai été incapable de m'arrêter…"
+_**Pepper :**_ "C'est tout ce que j'aurais mérité. Je suis un monstre. J'ai été incapable de m'arrêter…"
 
 _**Chicory :**_ "Je te l'ai dit, Pepper. Dans les écoles de magie, on n'apprend pas juste à lancer des sorts, mais aussi à dompter ses émotions pour faire un meilleur usage du Réa. Tu n'étais seulement pas prête, c'est tout…"
 
 _**Pepper :**_ "Pas prête ? Vous croyez que c'est ça, le problème ? Non ! J'ai failli tout détruire sans m'en apercevoir ! Tout ça pour un défi idiot ! Comment ai-je pu faire ça à des sorcières aussi pacifistes, sérieusement ? Bon, j'ai un peu de rancœur pour Basilic, mais quand même ! Elle ne méritait pas un tel sort ! Je n'ai jamais réussi à générer un trou noir aussi puissant et aussi longtemps ! Qu'est-ce qui cloche chez moi ? Ne me dîtes pas que c’est encore dû aux perturbations dans le Réa, parce que je risque de péter un câble !"
 
-_**Chicory :**_ "Écoute, jeune héritière. Avant de dompter le Désordre magique, tu dois d'abord t'occuper de celui que l'on appelle émotion. Je t'ai poussée à poursuivre le duel face à une sorcière de haut niveau sans en tenir compte. Je suis responsable de ce qui est arrivé, j'aurai dû mieux te cerner avant de te pousser à te surpasser. Ne te torture pas, va. Tu restes une sorcière exceptionnelle, qui a seulement commis un erreur. Nous allons simplement entraîner cet aspect de ta personnalité, et tu verras : ce genre d'incident ne se reproduira plus, et tu n'auras plus de souci à te faire."
+_**Chicory :**_ "Écoute, jeune héritière. Avant de dompter le Désordre magique, tu dois d'abord t'occuper de celui que l'on appelle émotion. Je t'ai poussée à poursuivre le duel face à une sorcière de haut niveau sans en tenir compte. Je suis responsable de ce qui est arrivé, j'aurais dû mieux te cerner avant de te pousser à te surpasser. Ne te torture pas, va. Tu restes une sorcière exceptionnelle, qui a seulement commis un erreur. Nous allons simplement entraîner cet aspect de ta personnalité, et tu verras : ce genre d'incident ne se reproduira plus, et tu n'auras plus de souci à te faire."
 
-_**Pepper :**_ "Que j'aimerai vous croire, Maître… ça vous ennuie si je pleure un peu ?"
+_**Pepper :**_ "Que j'aimerais vous croire, Maître… ça vous ennuie si je pleure un peu ?"
 
-_**Chicory :**_ "Oui. Mais je vais me contenter de faire un tour en attendant que tu aies fini. Alors ne te retient pas."
+_**Chicory :**_ "Oui. Mais je vais me contenter de faire un tour en attendant que tu aies fini. Alors ne te retiens pas."
 
 _Chicory survole l'étendue d'eau, que Pepper tente malgré elle de remplir davantage. Carrot se blottit contre elle pour la consoler._
 
@@ -2055,7 +2061,7 @@ _Elle s'approche aussi du lac avec prudence. Elle découvre à nouveau son refle
 
 _**Pepper :**_ "Pourtant, j'ai moi-même touché le lac tout à l'heure, et il ne s'est rien passé…"
 
-_Elle n'a pas le temps d'expérimenter davantage. Sa bague se met soudainement à briller, intensément. Pepper se sent happée dans une sorte de passage, mais elle ne peut pas l'affirmer : la lumière rayonne beaucoup trop pour voir quoi que ce soit. Elle peut apercevoir un tas de particules agitées, se dirigeant dans n'importe quelle direction à toute vitesse.
+_Elle n'a pas le temps d'expérimenter davantage. Sa bague se met soudainement à briller, intensément. Pepper se sent happée dans une sorte de passage, mais elle ne peut pas l'affirmer : la lumière rayonne beaucoup trop pour voir quoi que ce soit. Elle peut apercevoir un tas de particules agitées, se dirigeant dans n'importe quelle direction à toute vitesse.  
 La lumière disparaît. Pepper se sent flotter dans les airs : elle ne sent plus le sol sous elle. Elle ouvre les yeux et pousse un cri : elle n'est pas dans les airs, mais bel et bien sous l'eau ! Elle regarde autour d'elle : que d'eau, que d'eau ! Elle jette un coup d’œil au-dessus d'elle : elle ne peut même pas voir la surface !_
 
 _**Pepper :**_ "Je dois être à une profondeur record ! Mais… comment j'arrive à respirer ?"
@@ -2066,7 +2072,7 @@ _**Pepper :**_ "Mais qu'est-ce que c'est que ce machin ? Et où est Carrot ? Car
 
 _Elle sent que quelque chose la gratte dans le dos. En se retournant, elle aperçoit Carrot, avec la même bulle autour de sa tête, lui adresser un signe de patte, le balai de Pepper dans la gueule._
 
-_**Pepper** (prenant son balai) **:**_ "Merci, Carrot ! Tu es un amour d'avoir pensé à mon balai. Malheureusement, je ne pense pas qu'il soit utile ici… je me demande où on est, et surtout, comment on y est arrivé !"
+_**Pepper** (prenant son balai) **:**_ "Merci, Carrot ! Tu es un amour d'avoir pensé à mon balai. Malheureusement, je ne pense pas qu'il soit utile ici… je me demande où on est, et surtout, comment on y est arrivés !"
 
 _Elle regarde sa bague. La symbole de Chaosah a cessé de briller._
 
@@ -2084,7 +2090,7 @@ _Mais cela ne semble pas être dans les projets du kraken._
 
 _**Pepper :**_ "Vous l'aurez voulu ! Je suis contre la violence envers les animaux, mais vous ne me laissez pas le choix !"
 
-_Avant toute chose, elle tente de se calmer. Elle ne veut pas reproduire la même erreur qu'à Hippiah. Elle ne veut pas les blesser, mais seulement les effrayer.
+_Avant toute chose, elle tente de se calmer. Elle ne veut pas reproduire la même erreur qu'à Hippiah. Elle ne veut pas les blesser, mais seulement les effrayer.  
 Elle lance un sort explosif juste derrière elle. Le kraken, effrayé, est forcé de la relâcher, et de fuir avec toute sa troupe._
 
 _**Pepper :**_ "Ouais ! C'est vrai que ça marche mieux lorsqu'on maîtrise ses émotions, n'est-ce pas, Car…"
@@ -2130,7 +2136,7 @@ _**Pepper :**_ "Carrot ! Où est Carrot ? Ne me dîtes pas qu'il a été dévor�
 
 _**Chicory :**_ "Détends-toi ! Ton greffier va très bien ! Il semble même être en appétit."
 
-_Chicory désigne le coin de la pièce où Carrot, la queue remuante, est très intéressé par les petits poissons qui passe à proximité du mur._
+_Chicory désigne le coin de la pièce où Carrot, la queue remuante, est très intéressé par les petits poissons qui passent à proximité du mur._
 
 _**Pepper :**_ "Je suis soulagée… ça me fait penser que je n'ai encore rien mangé, moi…"
 
@@ -2142,7 +2148,7 @@ _**Chicory :**_ "Eh ! Je pourrais aussi te faire d’énormes reproches sur tout
 
 _**Pepper :**_ "C'était aussi de votre faute, techniquement. Vous l'avez dit vous-mêmes !"
 
-_Chicory lui tire la langue et croise les bras en lui tournant le dos. Pepper ne peut s'empêcher de retenir un sourire. Non, bouder ne sied pas à une sorcière d'un tel niveau de compétence, surtout devant une de ses apprenties !
+_Chicory lui tire la langue et croise les bras en lui tournant le dos. Pepper ne peut s'empêcher de retenir un sourire. Non, bouder ne sied pas à une sorcière d'un tel niveau de compétence, surtout devant une de ses apprenties !  
 Pepper profite de cette pause pour regarder autour d'elle. Il s'agit d'une sorte de cube d'eau dans lequel elle est enfermée. Ou plutôt un cube d'air entouré d'eau. Curieuse, elle se lève… enfin, s'y reprend à deux fois à cause du second coup à la tête qu'elle a reçu, et s'approche du mur. Elle essaie de le toucher, mais contrairement à ses attentes, c'est comme s'il était en béton ! Aussi solide qu'un véritable mur…_
 
 _**Pepper :**_ "C'est surprenant ! De l'eau solide qui n'est pas de la glace…"
@@ -2161,9 +2167,9 @@ _**Pepper :**_ "Vous… vous n'êtes pas sérieuse ? Hein, Maître Chicory, vous
 
 _**Chicory :**_ "Oh que si, elles vont le faire. Les sorcières d'Aquah sont sans pitié. J'ai rarement croisé autant de cruauté gratuite de toute ma vie, et pourtant, j'ai rencontré Wasabi ! Elles m'ont déjà fait prisonnière, une fois."
 
-_**Pepper :**_ "Sans blague ? Pour quelle raison ?"
+_**Pepper :**_ "Sans blague ! Pour quelle raison ?"
 
-_**Chicory :**_ "Tu crois qu'il leur faut une raison ? J'étais simplement venue leur poser une question sur leur magie, et boum ! En prison ! J'ai pu m'échapper via mon unique potion de télé-transport à l'époque, mais je n'ai plus les ingrédients pour la refaire… et encore, j'ai eu de la chance de pouvoir l'utiliser : le précédent visiteur a été empalé sans vergogne. Tu as bien de la chance d'être encore en vie, ma petite. Ce ne sont pas des sorcières : ce sont des créatures sauvages qui défendent un territoire, c'est tout."
+_**Chicory :**_ "Tu crois qu'il leur faut une raison ? J'étais simplement venue leur poser une question sur leur magie, et boum ! En prison ! J'ai pu m'échapper via mon unique potion de télé-transport à l'époque, mais je n'ai plus les ingrédients pour la refaire… et encore, je remercie ma bonne étoile d'avoir pu l'utiliser : le précédent visiteur a été empalé sans vergogne. Tu as bien de la chance d'être encore en vie, ma petite. Ce ne sont pas des sorcières : ce sont des créatures sauvages qui défendent un territoire, c'est tout."
 
 _Pepper déglutit avec difficulté. Puis elle a soudain une idée._
 
@@ -2181,7 +2187,7 @@ _**Chicory** (blasée) **:**_ "Ah, je vois… mais vois-tu, même s'il existe un
 
 _**Pepper :**_ "Vous avez raison… nous n'avons pas le choix, il faut qu'on réussisse à sortir d'ici !"
 
-_**Chicory :**_ "Eh bien, je te souhaite bonne chance pour contrer leur protection. Rien ne peut pénétrer à l'intérieur, absolument rien !"
+_**Chicory :**_ "Eh bien, je te souhaite bon courage pour contrer leur protection. Rien ne peut pénétrer à l'intérieur, absolument rien !"
 
 _Pepper réfléchit. Elle est face à un mur impénétrable. Elle observe l'écoulement de l'eau accéléré formant cette barrière infranchissable… un écoulement si ordonné. Le visage de Pepper s'éclaire._
 
@@ -2212,11 +2218,11 @@ _Pepper ouvre les yeux. Elle recule d'un pas en voyant son amie Spiruline, les b
 
 _Pepper préfère ne pas bouger. Spiruline a vraiment l'air remonté. Sa longue chevelure de punk flotte au-dessus d'elle, lui donnant un air encore plus terrifiant._
 
-_**Pepper :**_ "Euh… hey, Spiruline ! Tu as l'air… en forme ! Euh… c'est marrant, mais… vu la façon dont tu me regardes… j'ai l'impression qu'il y a comme une mur entre nous ! Un mur solide et impénétrable…"
+_**Pepper :**_ "Euh… hey, Spiruline ! Tu as l'air… en forme ! Euh… c'est marrant, mais… vu la façon dont tu me regardes… j'ai l'impression qu'il y a comme un mur entre nous ! Un mur solide et impénétrable…"
 
-_Aussi facilement qu'avec de la véritable eau, Spiruline se fraie un passage dans le mur et atterrit à l'intérieur de la prison. Chicory croise les bras, un peu vexée._
+_Aussi facilement qu'avec de l'eau dans son état naturel, Spiruline se fraie un passage dans le mur et atterrit à l'intérieur de la prison. Chicory croise les bras, un peu vexée._
 
-_**Chicory :**_ "Meh ! C'est bien une sorcière d'Aquah, celle-la ! Toujours à se vanter…"
+_**Chicory :**_ "Meh ! C'est bien une sorcière d'Aquah, celle-là ! Toujours à se vanter…"
 
 _Spruline se redresse, et fonce sur Pepper. Elle lui donne une tape sur la tête._
 
@@ -2254,8 +2260,8 @@ _**Spiruline :**_ "Toi partir ! Moi expulser mauvais esprit après !"
 
 _**Pepper :**_ "Très bien, nous partons ! Eh bien… euh… on se retrouve au bord du lac, Chicory ?"
 
-_Cette dernière relâche une avalanche d'insultes envers Spiruline afin qu'elle la libère. Pepper croise les doigts pour que Spiruline ne décide pas de la faire exploser en bulles !
-Mais la scène est interrompue par une autre sorcière d'Aquah qui apparaît derrière Spiruline. Elle semble paniquée, et appelle Spiruline. Cette dernière se retourne et passe la tête dans l'eau. Pepper peut entendre leur conversation atténuée. Elles parlent une langue qu'elle ne connaît pas. L'échange est bref. Spiruline revient vers Pepper, et l'enferme dans la même sorte de cage que Chicory, en lui laissant une poche d'air. Elle fait de même avec Carrot et ses affaires._
+_Cette dernière relâche une avalanche d'insultes envers Spiruline afin qu'elle la libère. Pepper croise les doigts pour que Spiruline ne décide pas de la faire exploser en bulles !  
+Mais la scène est interrompue par une autre sorcière d'Aquah qui apparaît derrière Spiruline. Elle semble paniquée, et appelle sa camarade. Cette dernière se retourne et passe la tête dans l'eau. Pepper peut entendre leur conversation atténuée. Elles parlent une langue qu'elle ne connaît pas. L'échange est bref. Spiruline revient vers Pepper, et l'enferme dans la même sorte de cage que Chicory, en lui laissant une poche d'air. Elle fait de même avec Carrot et ses affaires._
 
 _**Pepper :**_ "Mais… qu'est-ce que tu fais ?!"
 
@@ -2263,19 +2269,19 @@ _**Spiruline :**_ "Toi venir avec moi… situation de crise !"
 
 _**Pepper :**_ "Situation de crise ? Quoi, qu'est-ce qui se passe ?"
 
-_Spiruline ne répond pas. Elle emmène ses trois cages avec elle dans l'eau. Elle nage vraiment très vite. Pepper en profite pour visiter les profondeurs, et le lieu d'entraînement des sorcières d'Aquah. Il s'agit d'une sorte de récif, où sorcières et créatures mi-homme mi-animal habitent dans des cavités parmi les algues et autres plantes sous-marine. Sauf qu'ici, tous sont réunis à un endroit où Spiruline se dirige avec ses prisonnières.
-Pepper remarque que toutes les disciples d'Aquah (très nombreuses par rapport aux autres écoles) ont une natte caractéristique, et une sorte de tatouage autour des yeux. Elles sont toutes regroupés autour d'une véritable sirène imposante (qui doit bien mesurer au moins deux mètre cinquante de long), avec une immense queue de poisson gigantesque, dont les écailles brillent d'un éclat presque aveuglant. Elle a de longs cheveux noirs ornés d'une sorte de couronne en coquillages, coiffés d'un côté de sa tête, révélant une moitié de crâne rasé. Elle porte aussi un tatouage, mais qui prend toute la partie gauche de son visage. Elle porte aussi une quantité non négligeable d'anneaux sur la tête (bien plus que Spiruline). Pepper n'a pas besoin de la voir en action pour deviner qu'elle est très puissante. Sa seule présence impose le respect.
-Elle semble tout de même désemparée. Ses disciples et elle regardent au sol. Pepper est surprise par ce qu'elle y voit : une sorte de tourbillon semble aspirer l'eau, comme si on vidait un contenant rempli d'eau par un trou au fond._
+_Spiruline ne répond pas. Elle emmène ses trois cages avec elle dans l'eau. Elle nage vraiment très vite. Pepper en profite pour visiter les profondeurs, et le lieu d'entraînement des sorcières d'Aquah. Il s'agit d'une sorte de récif, où sorcières et créatures mi-homme mi-animal habitent dans des cavités parmi les algues et autres plantes sous-marines. Sauf qu'ici, tous sont réunis à un endroit où Spiruline se dirige avec ses prisonnières.  
+Pepper remarque que toutes les disciples d'Aquah (très nombreuses par rapport aux autres écoles) ont une natte caractéristique, et une sorte de tatouage autour des yeux. Elles sont toutes regroupées autour d'une véritable sirène imposante (qui doit bien mesurer au moins deux mètres cinquante de long), avec une immense queue de poisson gigantesque, dont les écailles brillent d'un éclat presque aveuglant. Elle a de longs cheveux noirs ornés d'une sorte de couronne en coquillages, coiffés d'un côté de sa tête, révélant une moitié de crâne rasé. Elle porte aussi un tatouage, mais qui prend toute la partie gauche de son visage. Elle porte aussi une quantité non négligeable d'anneaux sur la tête (bien plus que Spiruline). Pepper n'a pas besoin de la voir en action pour deviner qu'elle est très puissante. Sa seule présence impose le respect.  
+Elle semble tout de même désemparée. Ses disciples et elle regardent au sol. Pepper est surprise par ce qu'elle y voit : une sorte de tourbillon aspire l'eau, comme si on vidait un contenant rempli d'eau par un trou au fond._
 
 _**Pepper :**_ "Qu'est-ce que c'est que ça ?"
 
-_**Chicory :**_ "Hum, à vue de nez, je dirai que c'est un vortex créé par magie qui attire l'eau dans un autre point de notre plan… sûrement une autre conséquence des perturbations de Réa…"
+_**Chicory :**_ "Hum, à vue de nez, je dirais que c'est un vortex créé par magie qui attire l'eau dans un autre point de notre plan… sûrement une autre conséquence des perturbations de Réa…"
 
 _**Pepper :**_ "Vous voulez dire comme un trou noir ?"
 
 _**Chicory :**_ "En quelque sorte. Mais en beaucoup moins massif. En tout cas, les voilà dans un beau pétrin."
 
-_**Pepper :**_ "On doit les aider ! Sinon, à ce rythme, c'est toute l'eau du lac qui va disparaître !"
+_**Pepper :**_ "On doit les aider ! Sinon, à ce rythme, c'est toute l'eau du récif qui va disparaître !"
 
 _**Chicory** (s'étirant et passant ses mains derrière sa tête) **:**_ "Meh ! Elles ont voulu nous emprisonner, alors qu'elles se débrouillent maintenant !"
 
@@ -2299,7 +2305,7 @@ _Elle se tourne vers Chicory qui, en position détendue, ricane._
 
 _**Pepper :**_ "Il n'y a pas de quoi rire, Chicory ! C'est très grave ! On pourrait très bien se faire aspirer nous aussi !"
 
-_**Chicory :**_ "Nous faire aspirer ? J'en doute, vois-tu. Ces pauvres créatures sont peut-être douées dans l'eau, mais dès qu'il s'agit de portail ou de magie un  peu plus spirituelle, elles sont totalement nulles ! Regarde-les tenter d'attaquer ce portail en force, alors que c'est inutile ! Ce ne sont que des brutes, comme les sorcières de Magmah ! Par surprenant qu'elles se soient déclaré la guerre…"
+_**Chicory :**_ "Nous faire aspirer ? J'en doute, vois-tu. Ces pauvres créatures sont peut-être douées dans l'eau, mais dès qu'il s'agit de portail ou de magie un  peu plus spirituelle, elles sont totalement nulles ! Regarde-les tenter d'attaquer ce portail en force, alors que c'est inutile ! Ce ne sont que des brutes, comme les sorcières de Magmah ! Par surprenant qu'elles se soient déclarées la guerre…"
 
 _**Pepper :**_ "Vous devez savoir comment fermer ce portail, vous ! S'il vous plaît, Maître Chicory, aidez-les ! Vous êtes la seule à pouvoir intervenir…"
 
@@ -2335,8 +2341,8 @@ _Mais il est trop dur à fermer, elle n'a pas assez de force dans les bras._
 
 _**Pepper** (désespérée) **:**_ "C'est inutile, je ne suis pas assez forte… oh, mon pauvre Carrot… je suis désolée…"
 
-_Elle regarde son pauvre chat, implorant son aide, s'approcher du portail, sans qu'elle ne puisse rien faire pour l'aider.
-Elle sent alors que quelqu'un lui tient le bras. Pepper remarque avec stupeur que Spiruline lui agrippe le bras pour lui donner une surplus de force._
+_Elle regarde son pauvre chat, implorant son aide, s'approcher du portail, sans qu'elle ne puisse rien faire pour l'aider.  
+Elle sent alors que quelqu'un lui tient le bras. Pepper remarque avec stupeur que Spiruline lui agrippe le bras pour lui donner un surplus de force._
 
 _**Pepper :**_ "Spiruline !"
 
@@ -2344,7 +2350,7 @@ _**Spiruline :**_ "Moi aider à fermer portail ! Allez, toi forcer encore !"
 
 _**Pepper :**_ "D'accord !"
 
-_Pepper tente à nouveau de fermer la porte magique. Bientôt, plusieurs sorcières d'Aquah la rejoignent pour lui prêter mains fortes. Et très fortes : Pepper a l'impression qu'on lui brise les os des bras ! Leur force physique semble de plus êtes décuplées par leur chef, car la sirène envoie une sorte de sortilège en leur direction, les faisant rayonner d'un bleu intense.
+_Pepper tente à nouveau de fermer la porte magique. Bientôt, plusieurs sorcières d'Aquah la rejoignent pour lui prêter mains fortes. Et très fortes : Pepper a l'impression qu'on lui brise les os des bras ! Leur force physique semble de plus être décuplées par leur chef, car la sirène envoie une sorte de sortilège en leur direction, les faisant rayonner d'un bleu intense.  
 Grâce à la force combinée de Pepper et des sorcières d'Aquah, le portail finit par se refermer juste avant que la cage de Carrot ne soit aspirée. Pepper relâche tous ses muscles, et se laisse flotter par sa cage, essoufflée._
 
 _**Pepper :**_ "On a réussi…"
@@ -2383,7 +2389,7 @@ _Elle commence à réfléchir._
 
 _**Chicory** (sortant de sa bouderie) **:**_ "Je suis petit, rond, je tiens dans la main, et accessoirement, je permets d'activer une sorte d'amulette…"
 
-_**Pepper :**_ "Suis-je bête ! J'aurai presque oublié notre mission ! Eh bien, ô grand Maître d'Aquah, puis-je vous demander le sceau d'Aquah permettant d’activer l'amulette du Grand Arbre de Komona ?"
+_**Pepper :**_ "Suis-je bête ! J'aurais presque oublié notre mission ! Eh bien, ô grand Maître d'Aquah, puis-je vous demander le sceau d'Aquah permettant d’activer l'amulette du Grand Arbre de Komona ?"
 
 _Une vague d'incompréhension parcourt l'assistance. Pepper peut voir les sorcières apprenties chuchoter entre elles, visiblement perdues. La grande sirène cligne des yeux plusieurs fois._
 
@@ -2408,9 +2414,9 @@ _**Chicory :**_ "Sympathiques ?! Ce ne sont que des bêtes féroces, n'ayant auc
 
 _**Pepper** (murmure) **:**_ "Ça reste à voir…"
 
-_Le reste du voyage se passe dans le silence. Pepper et Carrot en profitent pour se restaurer et remettre d'aplomb les os un peu brusquement sollicités, avant d'arriver à Qualicity.
-Pepper connaît bien le chemin jusqu'au château du roi. C'est ici que son premier duel contre Wasabi a eu lieu, et où elle a été forcée de combattre une petite fée manipulée…
-Essayant d'oublier ces affreux souvenirs, Pepper s'annonce à l'entrée du château. Un serviteur à la démarche incertaine rentre dans le château pour prévenir leur arrivée.
+_Le reste du voyage se passe dans le silence. Pepper et Carrot en profitent pour se restaurer et remettre d'aplomb les os un peu brusquement sollicités, avant d'arriver à Qualicity.  
+Pepper connaît bien le chemin jusqu'au château du roi. C'est ici que son premier duel contre Wasabi a eu lieu, et où elle a été forcée de combattre une petite fée manipulée…  
+Essayant d'oublier ces affreux souvenirs, Pepper s'annonce à l'entrée du château. Un serviteur à la démarche incertaine rentre à l'intérieur pour prévenir leur arrivée.  
 Pepper se tourne vers Chicory. Celle-ci a toujours les bras croisés._
 
 _**Pepper :**_ "Allons, Maître Chicory ! Vous n'allez tout de même pas bouder pendant des heures ! Certes, nous avons raté le sceau d'Aquah, mais il doit bien être quelque part ! On demandera des explications à Wasabi…"
@@ -2419,16 +2425,16 @@ _**Chicory :**_ "Meh ! Elle nous mènera en bateau une fois de plus, afin de nou
 
 _**Pepper :**_ "Non, rassurez-vous : je veille au grain. Je n'ai aucune confiance en cette femme. Elle a intérêt à nous dire où se trouve ce sceau avant de lui donner quoi que ce soit, sinon…"
 
-_Le serviteur revient, et leur fait signe de le suivre. Pepper s'engage la première, déterminée comme jamais.
-Elles arrivent dans la salle royal. Encore une fois, le roi n'est pas assis sur son trône. Il doit être occupé avec ses inventions, comme toujours. Le serviteur leur fait signe de s'asseoir sur les sièges zombifiés, qui tanguent un peu trop dangereusement pour de simples chaises. Pepper s'assoit tout de même, tandis que Chicory reste en l'air. Le serviteur leur apporte diverses collations peu aguichantes (des boissons clapoteuses un peu trop dynamiques et des biscuits qui tentent de fuir le plateau). Elles se mettent alors à attendre le roi, le père de Coriandre.
-Pepper jette un œil autour de la pièce. Elle a été en partie redécorée par Fairy après les divers dégâts causés par leur affrontement avec Wasabi. Elle constate avec tristesse que tout est déjà usé comme si tout avait été posé dès la construction du château. Le soin n'est pas le point fort des habitants de Qualicity…
+_Le serviteur revient, et leur fait signe de le suivre. Pepper s'engage la première, déterminée comme jamais.  
+Elles arrivent dans la salle du trône. Encore une fois, le roi n'est pas présent. Il doit être occupé avec ses inventions, comme toujours. Le serviteur leur fait signe de s'asseoir sur les sièges zombifiés, qui tanguent un peu trop dangereusement pour de simples chaises. Pepper s'assoit tout de même, tandis que Chicory reste en l'air. Le serviteur leur apporte diverses collations peu aguichantes (des boissons clapoteuses un peu trop dynamiques et des biscuits qui tentent de fuir le plateau). Elles se mettent alors à attendre le roi, le père de Coriandre.  
+Pepper jette un œil autour de la pièce. Elle a été en partie redécorée par Fairy après les divers dégâts causés par leur affrontement avec Wasabi. Elle constate avec tristesse que tout est déjà usé comme si tout avait été posé dès la construction du château. Le soin n'est pas le point fort des habitants de Qualicity…  
 La jeune sorcière se tourne vers Chicory, les bras toujours croisés._
 
 _**Pepper :**_ "Bon, ça suffit peut-être, maintenant, les bouderies ! Vous êtes dans une salle royale, quand même !"
 
 _**Chicory :**_ "Et alors ? Ça m'enlève le droit de bouder ?"
 
-_**Pepper :**_ "Non, mais tout de même ! C'est désagréable de tenir compagnie à quelqu'un qui fait la tête ! Et puis, pour ce qu'on nous sommes venues chercher, un petit sourire peut grandement nous aider !"
+_**Pepper :**_ "Non, mais tout de même ! C'est désagréable de tenir compagnie à quelqu'un qui fait la tête ! Et puis, pour ce que nous sommes venues chercher, un petit sourire peut grandement nous aider !"
 
 _**Chicory :**_ "Un petit sourire… les ingénieurs de Qualicity ont toujours été des incapables notoires ! Aucune de leur invention ne tient la route ! Et je ne te parle même pas des sorcières de Zombiah, cette école infâme qui prétend se gausser de la mort ! Tu parles d'une bande de rigolos !"
 
@@ -2442,7 +2448,7 @@ _Chicory hausse les épaules et retourne bouder._
 
 _**Pepper :**_ "C'est pas possible… une vraie gamine !"
 
-_Carrot approuve d'un signe de tête.
+_Carrot approuve d'un signe de tête.  
 La porte du fond s'ouvre. Le père de Coriandre, toujours avec sa blouse blanche et ses lunettes de protection, entre à grands pas, avec un grand sourire en reconnaissant son invitée._
 
 _**Roi :**_ "Pepper ! Ma chère petite ! C'est toujours un plaisir de te voir !"
@@ -2507,7 +2513,7 @@ _**Roi :**_ "Oui. Elle s'est excusée et a envoyé un dédommagement."
 
 _**Pepper :**_ "Je vois…"
 
-_**Chicory :**_ "Vous êtes malin, Votre Altesse. À votre place, j'aurai certainement cherché à l'anéantir ! Mais vous avez préféré une stratégie pacifiste, et ça a fonctionné… vous êtes brillant, vous aussi."
+_**Chicory :**_ "Vous êtes malin, Votre Altesse. À votre place, j'aurais certainement cherché à l'anéantir ! Mais vous avez préféré une stratégie pacifiste, et ça a fonctionné… vous êtes brillant, vous aussi."
 
 _Pepper la regarde avec dégoût. Elle s'est approchée du roi, en se dandinant quelque peu, et lui lançant un regard séducteur._
 
@@ -2527,7 +2533,7 @@ _**Roi :**_ "Je… eh bien…"
 
 _**Voix :**_ "Laisse-moi m'occuper de ces dames, je te prie."
 
-_Pepper tourne la tête en direction de la porte. Une sorte de fakir vient d'entrer dans la pièce. Il porte un turban sur la tête, a le visage très fin, et porte une sorte de robe sans manches, noire et blanche, avec divers symboles dont celui de Zombiah dessiné dessus. Il est assis en tailleur. Il se déplace en flottant à quelques centimètres du sol. Il s'approche du roi. Pepper n'est pas très rassurée par l'aura que dégage ce nouvel arrivant.
+_Pepper tourne la tête en direction de la porte. Une sorte de fakir vient d'entrer dans la pièce. Il porte un turban sur la tête, a le visage très fin, et porte une sorte de robe sans manche, noire et blanche, avec divers symboles dont celui de Zombiah dessinés dessus. Il est assis en tailleur. Il se déplace en flottant à quelques centimètres du sol. Il s'approche du roi. Pepper n'est pas très rassurée par l'aura que dégage ce nouvel arrivant.
 Chicory semble déçue par l'arrivée de ce fakir, comme s'il dérangeait une importante entrevue. Elle le pointe du doigt et demande au roi :_
 
 _**Chicory :**_ "Qui c'est, ça ?"
@@ -2539,8 +2545,8 @@ _**Roi :**_ "Mesdames, permettez-moi de vous présenter Soumbala, mon conseiller
 
 ### Scène 5 : Récit de Maître
 
-_Pepper est toujours choquée en suivant le fakir dans les sous-sols du château de Qualicity. Elle ne s'attendait pas à ce que le Maître de Zombiah soit… comme ça.
-Il a été difficile de séparer Chicory et le roi. Elle lui a donné un baiser de la main et lui a fait un signe d'adieu avec une bouille attristée, en promettant qu'ils se reverraient. Pepper n'a pas su si le roi a approuvé par gentillesse ou par soulagement d'en être enfin débarrassée. Le fakir leur a ensuite demandées de les suivre.
+_Pepper est toujours choquée en suivant le fakir dans les sous-sols du château de Qualicity. Elle ne s'attendait pas à ce que le Maître de Zombiah soit… comme ça.  
+Il a été difficile de séparer Chicory et le roi. Elle lui a donné un baiser de la main et lui a fait un signe d'adieu avec une bouille attristée, en promettant qu'ils se reverraient. Pepper n'a pas su si le roi a approuvé par gentillesse ou par soulagement d'en être enfin débarrassé. Le fakir leur a ensuite demandé de les suivre.  
 Sur le chemin, Pepper cède une fois de plus à la curiosité._
 
 _**Pepper :**_ "Veuillez m'excuser, Maître Soumbala, mais… enfin, je dois dire que je suis…"
@@ -2553,7 +2559,7 @@ _**Soumbala :**_ "La sorcière Maîtresse de l'Art de la Zombification s'est ret
 
 _**Pepper :**_ "Attendez… vous voulez dire que vous n'êtes pas humain ?!"
 
-_**Soumbala :**_ "Mon Créateur n'était pas qu'une simple pratiquante active du Réa. Elle était une ingénieure hors pair, respectée par ses aînés. Elle a plus contribué à Qualicity que je ne serai capable de le faire. Elle a donc décidé de confier les rênes de son Art à un croisement entre la mécanique et la magie. C'est ainsi que je suis né. Et je m'efforce chaque jour d'inspirer les jeunes sur la voie que mon Maître a tracée pour eux."
+_**Soumbala :**_ "Mon Créateur n'était pas qu'une simple pratiquante active du Réa. Elle était une ingénieure hors pair, respectée par ses aînés. Elle a plus contribué à Qualicity que je ne serais capable de le faire. Elle a donc décidé de confier les rênes de son Art à un croisement entre la mécanique et la magie. C'est ainsi que je suis né. Et je m'efforce chaque jour d'inspirer les jeunes sur la voie que mon Maître a tracée pour eux."
 
 _**Pepper :**_ "Surprenant ! Vous étiez au courant, Chicory ?"
 
@@ -2564,7 +2570,7 @@ _Soumbala s'arrête. Pepper retient son souffle : encore une fois, Chicory n'a p
 _**Soumbala :**_ "La quête du pouvoir est un chemin tortueux. Il est très facile de s'égarer. À moins de s'efforcer de suivre toujours la voie bordée de lumière."
 
 _Pepper ne comprend pas cette réponse. Chicory hausse les épaules, peu intéressée.
-Elles arrivent bientôt devant une porte en bois assez imposante. Cette porte ne semble pas inerte. Elle ouvre un œil endormi. Soumbala tend une main en avant et prononce :_
+Elles arrivent bientôt devant une porte en bois assez imposante. Cette porte est loin d'être inerte. Elle ouvre un œil endormi. Soumbala tend une main en avant et prononce :_
 
 _**Soumbala :**_ "_La Vie n'est pas un jeu. Que mes pêchés soient reconnus._"
 
@@ -2584,9 +2590,9 @@ _**Chicory :**_ "Bon, nous n'avons pas trop le choix : je vais t'attendre ici. R
 
 _**Pepper :**_ "B… bien, Maître."
 
-_La porte se referme sur une Chicory de nouveau boudeuse.
-Pepper suit Soumbala avec une certaine appréhension. Plus elle avance, moins elle se sent à l'aise. Et le décor n'est pas là pour aider : sombre, recouvert de toiles d'araignées et de verreries en tout genre pour faire des expériences, des bocaux renfermant des substances peu ragoutantes, Pepper a vraiment l'impression d'avoir pénétré dans le laboratoire d'un savant fou, faisant des expériences terribles sur les humains. Carrot préfère se cacher les yeux, surtout en passant devant ce qui ressemble à des cages pour cobayes.
-Ils finissent par franchir une entrée très étroite, dans ce qui ressemble à une crypte. Des dizaines d'étagères sont entreposées, remplies à ras bord de livres sur Zombiah. Des feuilles recouvrent une petite table installée à la lueur d'une torche, juste à côté d'une statue imposante, représentant une sorcière en costume animant un bras sortant du sol._
+_La porte se referme sur une Chicory de nouveau boudeuse.  
+Pepper suit Soumbala avec une certaine appréhension. Plus elle avance, moins elle se sent à l'aise. Et le décor n'est pas là pour aider : sombre, recouvert de toiles d'araignées et de verreries en tout genre pour faire des expériences, des bocaux renfermant des substances peu ragoutantes, Pepper a vraiment l'impression d'avoir pénétré dans le laboratoire d'un savant fou, faisant des expériences terribles sur les humains. Carrot préfère se cacher les yeux, surtout en passant devant ce qui ressemble à des cages pour cobayes.  
+Ils finissent par franchir une entrée très étroite, dans une pièce ayant l'allure d'une crypte. Des dizaines d'étagères sont entreposées, remplies à ras bord de livres sur Zombiah. Des feuilles recouvrent une petite table installée à la lueur d'une torche, juste à côté d'une statue imposante, représentant une sorcière en costume animant un bras sortant du sol._
 
 _**Pepper :**_ "Coriandre…"
 
@@ -2610,13 +2616,13 @@ _**Soumbala :**_ "Prends ces mémoires. Je pense que la lecture te sera très in
 
 _Pepper prend le livre. Il est écrit "Mémoires d'Apiacée, Ingénieur en Chef et Maître de Zombiah". Pepper ouvre le livre. L'écriture est assez chaotique, et il est difficile de la lire. Cependant, quelques déductions permettent de suivre le court des pensées d'Apiacée, qui allaient décidément bien trop vite, même pour elle._
 
-"Je suis parvenue à faire revenir cette petite souris à la vie ! Ma chère Anis que ma mère m'a offerte pour mes 8 ans est de nouveau parmi nous ! Je ne me rends pas compte, mais j'ai trouvé un moyen de vaincre la mort, la plus terrible des maladies… je me sens invincible !"
+"Je suis parvenue à faire revenir ma petite souris à la vie ! Ma chère Anis que ma mère m'a offerte pour mes 8 ans est de nouveau parmi nous ! Je ne me rends pas compte, mais j'ai trouvé un moyen de vaincre la mort, la plus terrible des maladies… je me sens invincible !"
 
 "Quelque chose cloche avec la résurrection. Anis ne semble pas être consciente que je sois là. Elle ne mange pas lorsque je lui apporte de la nourriture. Et sa démarche… non, ce n'est pas mon Anis adorée. Je poursuis mes recherches."
 
-"Anis va de plus en plus mal. Elle ne se rend pas compte qu'elle se cogne contre les murs, et elle n'a aucun hématome sur le corps. On dirait une sorte de pantin sans aucune âme… quelle sotte j'ai été d'avoir cru que je pourrai ramener les défunts à la vie…"
+"Anis va de plus en plus mal. Elle ne se rend pas compte qu'elle se cogne contre les murs, et elle n'a aucun hématome sur le corps. On dirait une sorte de pantin sans aucune âme… quelle sotte j'ai été d'avoir cru que je pourrais ramener les défunts à la vie…"
 
-"J'ai testé mon procédé sur d'autres animaux, et ils ont la même réaction que mon Anis adorée. Je crois qu'il va falloir me faire à l'idée que je ne pourrai jamais triompher de la mort. Adieu, mon Anis adorée…"
+"J'ai testé mon procédé sur d'autres animaux, et ils ont la même réaction que mon Anis. Je crois qu'il va falloir me faire à l'idée que je ne pourrai jamais triompher de la mort. Adieu, mon Anis adorée…"
 
 "J'ai accidentellement lancé ma fausse résurrection sur mon établi, et celui-ci s'est échappé à toute vitesse ! Après une étude approfondie, il semblerait que ma résurrection ne permette pas de ramener les morts à la vie, mais plutôt d'animer les objets inanimés. Je vais appeler cet art la "_zombification_"."
 
@@ -2630,7 +2636,7 @@ _Pepper prend le livre. Il est écrit "Mémoires d'Apiacée, Ingénieur en Chef 
 
 "Le conseil de Ah a remis sa décision hier. Ils veulent prendre part au conflit pour essayer de l'arrêter… en ce qui me concerne, j'ai beaucoup trop de travail pour m'en soucier. Les camps ennemis ne cessent de me solliciter pour que je leur confectionne de nouvelles armes, et que je continue à utiliser la zombifiation pour remettre les combattants sur pieds, et même si je n'en ai pas la moindre envie, je n'ai pas le choix. Mon fiston grandit vite, et il se montre de plus en plus curieux envers mes travaux. Il est hors de question qu'il soit blessé dans la bataille, alors je le tiens éloigné le plus possible."
 
-"Le nouveau Maître de Ah, Wasabi, est venue me trouver aujourd'hui. Elle m'a ordonné d'arrêter d'utiliser la zombification. Cela créerait des interférences avec le monde des esprits et bouleverserait l'ordre naturel. Je suis très heureuse d'être forcée d'arrêter : je fatigue de plus en plus. Wasabi m'a avoué qu'elle soupçonne les sorcières de Chaosah d'être à la source du conflit. Elles auraient ouvert différentes portes dans le but de perpétrer leur tradition et de récolter plus de magie. Wasabi vient de partir dans le but de les stopper. Je n'aurai jamais cru ça des sorcières du Chaos…"
+"Le nouveau Maître de Ah, Wasabi, est venue me trouver aujourd'hui. Elle m'a ordonné d'arrêter d'utiliser la zombification. Cela créerait des interférences avec le monde des esprits et bouleverserait l'ordre naturel. Je suis très heureuse d'être forcée d'arrêter : je fatigue de plus en plus. Wasabi m'a avoué qu'elle soupçonne les sorcières de Chaosah d'être à la source du conflit. Elles auraient ouvert différentes portes dans le but de perpétrer leurs traditions et de récolter plus de magie. Wasabi vient de partir dans le but de les stopper. Je n'aurais jamais cru ça des sorcières du Chaos…"
 
 "Hereva va mal. Nous subissons des secousses importantes. Mon fils a abrité tous les habitants de Qualicity dans le sous-sol du château. Les rumeurs annoncent que toutes les sorcières de Chaosah auraient succombé de la main de Wasabi, sans exception. Quelle tour de force pour une aussi jeune femme…"
 
@@ -2640,11 +2646,11 @@ _Pepper prend le livre. Il est écrit "Mémoires d'Apiacée, Ingénieur en Chef 
 
 "Malheureusement, ma pauvre mère vient de succomber. Je n'ai pas osé utiliser la zombification sur elle pour voir si je pouvais reproduire ce miracle, il était temps pour elle de se retirer. Je commence aussi à me faire vieille, après toutes ces années. Je devrais penser à tirer ma révérence également."
 
-"La guerre est terminée. Magmah et Aquah ont été forcés de changer de nom en guise de punition. Mon fils, quant à lui, a été désigné comme nouveau roi de Qualicity. Je suis tellement fière de lui ! Et je vais bientôt être grand-mère… mais je ne peux presque plus travailler. Mes tremblements sont de plus en plus gênants, et je ne peux plus rien faire sans l'aide de mes petits robots penseurs."
+"La guerre est terminée. Magmah et Aquah ont été forcées de changer de nom en guise de punition. Mon fils, quant à lui, a été désigné comme nouveau roi de Qualicity. Je suis tellement fière de lui ! Et je vais bientôt être grand-mère… mais je ne peux presque plus travailler. Mes tremblements sont de plus en plus gênants, et je ne peux plus rien faire sans l'aide de mes petits robots penseurs."
 
 "Ce seront sans aucun doute mes dernières lignes. Soumbala est presque prêt, mes élèves m'ont bien aidée. Il devrait être suffisamment sage pour poursuivre l’enseignement de Zombiah à ma place. Wasabi est venue me rendre visite à mon chevet lorsqu'elle a appris que je me retirai. Elle m'a demandé de confier une mission à mon successeur : surveiller mes trois miracles, et leur recherche d'héritière. Je ne sais pas pourquoi cela l'inquiète tant, mais je vais m'empresser de donner cette ultime mission à Soumbala. Quant à moi, il est temps de laisser libre court à la vie, sans plus jamais la perturber."
 
-_Pepper repose le livre. Ce qu'elle vient de lire l'a profondément affectée. Soumbala reste silencieux, les yeux fermés.
+_Pepper repose le livre. Ce qu'elle vient de lire l'a profondément affectée. Soumbala reste silencieux, les yeux fermés.  
 Un silence pesant suit cette lecture. Pepper sent son esprit totalement désordonné. Elle ne peut pas accepter ce qu'elle vient de lire._
 
 _**Pepper :**_ "C'est… c'est impossible… mes marraines m'ont toujours raconté qu'elles avaient survécu ! Alors qu'en fait… elles ont été…"
@@ -2663,12 +2669,12 @@ _Pepper se dirige vers la sortie, toujours aussi bouleversée, suivie de son com
 
 ### Scène 1 : Déséquilibre
 
-_Pepper et Chicory sont en route vers le Grand Arbre de Komona. Chicory a fait envoyer un message à Wasabi pour qu'elle les rejoigne avec l'amulette… et le sceau d'Aquah, que Chicory pense qu'elle possède.
-Cette fois-ci, le voyage est silencieux à cause de Pepper. Elle n'a pas encore digéré qu'elle vient d'apprendre sur Chaosah et ses marraines.
-Les deux sorcières se posent devant le Grand Arbre. Pepper n'avait jamais réalisé à quel point il était imposant : la circonférence de son tronc doit se calculer en kilomètres ! Il dégage une puissante aura de magie. Se tenir à ses côtés est plutôt réconfortant.
+_Pepper et Chicory sont en route vers le Grand Arbre de Komona. Chicory a fait envoyer un message à Wasabi pour qu'elle les rejoigne avec l'amulette… et le sceau d'Aquah, que Chicory pense qu'elle possède.  
+Cette fois-ci, le voyage est silencieux à cause de Pepper. Elle n'a pas encore digéré qu'elle vient d'apprendre sur Chaosah et ses marraines.  
+Les deux sorcières se posent devant le Grand Arbre. Pepper n'avait jamais réalisé à quel point il était imposant : la circonférence de son tronc doit se calculer en kilomètres ! Il dégage une puissante aura de magie. Se tenir à ses côtés est plutôt réconfortant.  
 Mais Pepper n'est pas d'humeur joyeuse. Elle se tient au pied de l'arbre, aux côtés de Chicory, dans l'attente de leur ennemie._
 
-_**Chicory :**_ "Pepper, je te prierai de bien vouloir te concentrer ! Ce n'est pas n'importe qui que nous allons affronter."
+_**Chicory :**_ "Pepper, je te prierais de bien vouloir te concentrer ! Ce n'est pas n'importe qui que nous allons affronter."
 
 _**Pepper :**_ "C'est facile à dire, pour vous ! Vous ne venez pas d'apprendre que vos maîtres ont été ressuscitées durant la guerre, ni que les sorcières de Chaosah en ont été directement responsables !"
 
@@ -2680,7 +2686,7 @@ _**Chicory :**_ "Tu es vraiment amusante, chère héritière ! Tu as passé une 
 
 _**Pepper :**_ "Et vous donc ! Vous avez délaissé vos élèves pour vous consacrer à vos propres petites expériences, et vous venez me parler de se soucier des autres ?"
 
-_**Chicory :**_ "Que les choses soient claires, jeune sorcière : je n'ai jamais délaissée mes chères élèves ! J'ai permis à Thym de progresser en devenant Maître et en appliquant mes principes ! Mes recherches avaient pour but d'améliorer les conditions de vie à Hereva ! J'ai fait ce qui était le mieux !"
+_**Chicory :**_ "Que les choses soient claires, jeune sorcière : je n'ai jamais délaissé mes chères élèves ! J'ai permis à Thym de progresser en devenant Maître et en appliquant mes principes ! Mes recherches avaient pour but d'améliorer les conditions de vie à Hereva ! J'ai fait ce qui était le mieux !"
 
 _**Pepper :**_ "C'est vous qui le dîtes, ça ! Je…"
 
@@ -2705,7 +2711,7 @@ _Elle se tourne vers Pepper et Chicory, en tendant la main._
 
 _**Wasabi :**_ "Ne perdons pas plus de temps. Les sceaux, je vous prie."
 
-_**Chicory :**_ "C'est amusant, mais dans l'idée que je m'étais faîte de cette rencontre, je voyais plutôt quelque chose dans le style : "_L'amulette, s'il vous plaît_"…"
+_**Chicory :**_ "C'est amusant, mais dans l'idée que je m'étais faite de cette rencontre, je voyais plutôt quelque chose dans le style : "_L'amulette, s'il vous plaît_"…"
 
 _Wasabi a un petit rire. Ses élèves sont trop apeurées pour la suivre._
 
@@ -2954,7 +2960,7 @@ _L'Arbre s'illumine. Pepper sent alors tout son corps se faire grignoter, comme 
 
 _**Pepper :**_ "AAAAHH !! Arrêtez !"
 
-_**Chicory** (jubilant) **:**_ "Hé, hé, hé ! Ça fonctionne au-delà de mes espérances ! Tout ce qu'il manquait, c'était bel et bien un surplus de Réa, que seul cet Arbre pouvait me confier ! Laisse-toi aller, Pepper ! Respecte cette importante règle : "_Une véritable sorcière de Chaosah se plie toujours à la volonté de ses maîtres_" ! Ne t'inquiète pas, va : je prendrais bien soin de ton corps, et en ferait un bien meilleur usage que toi !"
+_**Chicory** (jubilant) **:**_ "Hé, hé, hé ! Ça fonctionne au-delà de mes espérances ! Tout ce qu'il manquait, c'était bel et bien un surplus de Réa, que seul cet Arbre pouvait me confier ! Laisse-toi aller, Pepper ! Respecte cette importante règle : "_Une véritable sorcière de Chaosah se plie toujours à la volonté de ses maîtres_" ! Ne t'inquiète pas, va : je prendrai bien soin de ton corps, et en ferait un bien meilleur usage que toi !"
 
 _**Pepper :**_ "Non !"
 
@@ -2992,11 +2998,11 @@ _Ses camarades l'empêchent de rejoindre son cher Maître, qui fait face au rayo
 
 _**Wasabi :**_ "Amène-toi."
 
-_Elle tend les bras. Une puissante lumière l'entoure, mais pas aussi lumineuse que le sort préparé par Chicory. Un immense arc de lumière apparaît, chargé avec une flèche. Wasabi s'en saisit, et le pointe sur Chicory._
+_Elle tend les bras. Une puissante aura l'entoure, mais pas aussi intense que le sort préparé par Chicory. Un immense arc de lumière apparaît, chargé avec une flèche. Wasabi s'en saisit, et le pointe sur Chicory._
 
 _**Chicory :**_ "Pff, risible ! Prends donc ça, meurtrière !"
 
-_Chicory relâche son sort. Le rayon d'énergie vole à une vitesse supersonique en direction de Wasabi. Cette dernière décoche sa flèche avant l'impact. Shichimi hurle à pleine puissance.
+_Chicory relâche son sort. Le rayon d'énergie vole à une vitesse supersonique en direction de Wasabi. Cette dernière décoche sa flèche avant l'impact. Shichimi hurle à pleine puissance.  
 L'impact est si violent que Pepper a l'impression de voir un spectacle de lumière au ralenti, sans le son. Lorsqu'elle rouvre un œil, elle voit un immense cratère à l'endroit où se trouvait Wasabi. Mais plus aucune trace d'elle._
 
 _**Chicory :**_ "KA-BOUM ! Ha, ha, ha ! Désintégrée ! Voilà un adjectif qui te sied à merveille, ma chère Wasabi ! Ha, ha, ha ! JUSTICE !"
@@ -3029,11 +3035,11 @@ _Elle envoie plusieurs sorts très puissants en direction de Chicory. Mais c'est
 
 _**Chicory :**_ "Espèce de petite idiote… l'Arbre fluctue le Réa du monde entier, tu crois donc que tu peux l'abattre avec ta petite magie de pacotille ?"
 
-_**Pepper :**_ "Shichimi ! Par pitié, fuis ! **Avant que je t'anéantisse.**"
+_**Pepper :**_ "Shichimi ! Par pitié, fuis ! **Avant que je ne t'anéantisse.**"
 
 _Pepper sursaute. Elle n'avait pas l'intention de dire ça. Quelqu'un d'autre a parlé à sa place._
 
-_**Pepper :**_ "Mais qu'est-ce que… **tu sembles surprise.** De quoi ? **Le transfert est presque achevé, soumets-toi.** Pas question ! Je ne vous laisserai pas faire ! **J'aimerai bien voir ça !** Vous allez voir ! Je ne suis pas si faible que vous le pensez ! **Et pourtant c'est toi qui vas lancer le prochain sort pour détruire cette petite peste.** Quoi ?! Non !"
+_**Pepper :**_ "Mais qu'est-ce que… **tu sembles surprise.** De quoi ? **Le transfert est presque achevé, soumets-toi.** Pas question ! Je ne vous laisserai pas faire ! **J'aimerais bien voir ça !** Vous allez voir ! Je ne suis pas aussi faible que vous le pensez ! **Et pourtant c'est toi qui vas lancer le prochain sort pour détruire cette petite peste.** Quoi ?! Non !"
 
 _Malgré ses tentatives pour résister, Pepper lève les bras et concentre l'énergie de l'Arbre en direction de Shichimi._
 
@@ -3045,8 +3051,8 @@ _L'énergie fluctue. Pepper lutte comme elle peut, mais elle perd de plus en plu
 
 _**Pepper :**_ "**Me voilà !** NON !! **Oh que si ! FEU !**"
 
-_Pepper lance le sort en direction de Shichimi. Cette dernière ferme les yeux et attend l'impact. Ses camarades crient derrière elle.
-L'impact est confirmé. Cependant, Shichimi ne sent que l'air déplacé par l'explosion. En ouvrant les yeux, elle voit d'immenses racines qui ont poussée devant elle. En se retournant, elle voit un petit groupe de sorcières qui ont l'air d'être tout droit sorties des bois._
+_Pepper lance le sort en direction de Shichimi. Cette dernière ferme les yeux et attend l'impact. Ses camarades crient derrière elle.  
+L'impact est confirmé. Cependant, Shichimi ne sent que l'air déplacé par l'explosion. En ouvrant les yeux, elle voit d'immenses racines qui ont poussées devant elle. En se retournant, elle voit un petit groupe de sorcières qui ont l'air d'être tout droit sorties des bois._
 
 _**Shichimi :**_ "Vous êtes…"
 
@@ -3118,7 +3124,7 @@ _**Pepper :**_ "Non ! C'est ma vie ! Vous n'avez pas le droit !"
 
 _Pepper peut distinguer un peu mieux ce qui se passe devant l'Arbre. Des courants d'eau ont été créés grâce à la magie de ses marraines et de la sirène d'Aquah. Toutes les magies exceptée Zombiah sont présentes, et attaquent l'Arbre pour libérer Pepper._
 
-_**Pepper :**_ "Vous voyez ? Tout le monde est contre vous, même vos apprenties que vous avez trompées ! Vous devez bien voir que ce que vous faites est mal ! Pourquoi vous obstiner ?"
+_**Pepper :**_ "Vous voyez ? Tout le monde est contre vous, même vos apprenties que vous avez trompées ! Vous devez bien voir que ce que vous faîtes est mal ! Pourquoi vous obstiner ?"
 
 _**Chicory :**_ "Je… je… tais-toi !"
 
@@ -3126,18 +3132,18 @@ _**Pepper :**_ "Renoncez, il n'est pas trop tard ! Détruire les magies n'apport
 
 _**Chicory :**_ "TAIS-TOI !!!"
 
-_Pepper se sent de nouveau happée par une terrible force. Elle lève la main pour balayer les assaillants d'un seul coup. Une avalanche d'images se bousculent dans sa tête, des images qui ne sont pas les siennes.
+_Pepper se sent de nouveau happée par une terrible force. Elle lève la main pour balayer les assaillants d'un seul coup. Une avalanche d'images se bousculent dans sa tête, des images qui ne sont pas les siennes.  
 Le champ de bataille finit par s'effacer totalement. Pepper se trouve dans une petite maison de bois au milieu d'une prairie verdoyante._
 
 
 ### Scène 4 : Fusion
 
-_Pepper regarde autour d'elle. Des jouets sur les étagères, ressemblant à des ustensiles pour fabriquer des potions, des livres sur les sorcières, et même un petit balai et un chapeau de sorcière miniature sont entreposés dans cette pièce. En se retournant, Pepper remarque un lit d'enfant, bordé de broderies en tout genre. Elle se trouve certainement dans une chambre de petite fille.
+_Pepper regarde autour d'elle. Des jouets sur les étagères, ressemblant à des ustensiles pour fabriquer des potions, des livres sur les sorcières, et même un petit balai et un chapeau de sorcière miniature sont entreposés dans cette pièce. En se retournant, Pepper remarque un lit d'enfant, bordé de broderies en tout genre. Elle se trouve certainement dans une chambre de petite fille.  
 Elle s'intéresse enfin à ce qu'elle tient en mains. Un livre. Elle regarde la couverture : "Manuel du petit fabricant de potions". Il semble que ce soit un livre destiné aux apprenties sorcières. Mais de quelle école s'agit-il ? De plus, ce livre semble extrêmement vieux… le papier, la couverture…_
 
 _**Voix :**_ "Eh oh ! Je t'ai dit de venir manger ! Qu'est-ce que tu trafiques encore ?"
 
-_La porte s'ouvre. Pepper, en panique, cache son livre sous le lit. Une grande femme aux cheveux ondulés entre dans la pièce. Elle porte une couverture sur elle, et a le teint particulièrement blanc. Elle ne semble pas aller bien.
+_La porte s'ouvre. Pepper, en panique, cache son livre sous le lit. Une grande femme aux cheveux ondulés entre dans la pièce. Elle porte une couverture sur elle, et a le teint particulièrement blanc. Elle ne semble pas aller bien.  
 Elle regarde Pepper avec lassitude._
 
 _**Femme :**_ "Je connais ces yeux-là… tu étais encore en train de lire ce livre, n'est-ce pas ?"
@@ -3150,7 +3156,7 @@ _Pepper fait non de la tête. La femme lui prend alors fermement le bras. Son re
 
 _**Femme :**_ "Dis-moi où est ce satané livre ! Allez, réponds-moi !"
 
-_Pepper tente de se débattre et commence à hurler. La femme se fait de plus en plus violente. Dans un souci de protection, Pepper réussit à projeter la femme violemment contre le mur. Elle pousse un cri et s'effondre par terre. Elle ne bouge plus. Non, Pepper n'a pas utilisé sa force physique pour réussir cet exploit.
+_Pepper tente de se débattre et commence à hurler. La femme se fait de plus en plus violente. Dans un souci de protection, Pepper réussit à projeter la femme violemment contre le mur. Cette dernière pousse un cri et s'effondre par terre. Elle ne bouge plus. Non, Pepper n'a pas utilisé sa force physique pour réussir cet exploit.  
 Pepper, en pleurs, court vers la femme et s'agenouille._
 
 _**Pepper :**_ "Maman ! Réponds ! Tu vas bien ? Maman, je voulais pas…"
@@ -3163,12 +3169,12 @@ _Elle tente de la prendre dans ses bras. Mais sa mère la repousse violemment et
 
 _**Mère :**_ "Ne t'approche plus de moi, Chicory ! Espèce de monstre…"
 
-_Pepper est choquée par ces paroles. Elle regarde sa mère s'en aller tant bien que mal, en continuant à tousser.
+_Pepper est choquée par ces paroles. Elle regarde sa mère s'en aller tant bien que mal, en continuant à tousser.  
 Pepper veut la rejoindre, mais la porte disparaît. À la place, elle se retrouve sous une couverture, avec une petite bougie comme seule source de lumière. Elle est concentrée, et exécute des gestes avec ses doigts. Soudainement, le sol se met à tournoyer. Une petite ouverture se crée. Pepper bondit de joie._
 
 _**Pepper :**_ "Je… j'y suis arrivée !"
 
-_Mais elle n'a pas entendu la porte s'ouvrir. Elle a un haut-le-corps, et tente d'éteindre la bougie. Mais dans la précipitation, la couverture prend feu. Elle la jette au loin, mais c'est trop tard : sa mère a tout vu._
+_Elle n'a pas entendu la porte s'ouvrir. Elle a un haut-le-corps, et tente d'éteindre la bougie. Mais dans la précipitation, la couverture prend feu. Elle la jette au loin, mais c'est trop tard : sa mère a tout vu._
 
 _**Mère :**_ "Chicory ! Qu'est-ce que tu as encore fait ?!"
 
@@ -3184,13 +3190,13 @@ _Elle tousse à nouveau._
 
 _**Pepper :**_ "Non, maman ! Ne fais pas ça, je t'en prie ! Les autres enfants me détestent…"
 
-_**Mère :**_ "Il fallait y penser lorsque tu m'as désobéis ! Tu es vraiment une nuisance ! Si j'avais su quel monstre j'allai engendrer, je ne t'aurais jamais conçue, espèce de folle !"
+_**Mère :**_ "Il fallait y penser lorsque tu m'as désobéi ! Tu es vraiment une nuisance ! Si j'avais su quel monstre j'allais engendrer, je ne t'aurais jamais conçue, espèce de folle !"
 
 _Elle la relâche, car elle est de nouveau prise d'une quinte de toux. Pepper, choquée par cette nouvelle, se tient devant elle, à la lueur du feu qui se propage. Sa mère se reprend et tente d'éteindre le feu._
 
 _**Mère :**_ "Aide-moi, pauvre idiote  ! Avant que notre maison parte en fumée !"
 
-_Pepper reste immobile. Elle a des idées. De sombres idées. L'ouverture qu'elle a créée est juste derrière elle. Celle qui l'a toujours rabaissée. Celle qui vient d'avouer qu'elle aurait préféré ne pas être sa mère…
+_Pepper reste immobile. Elle a des idées. De sombres idées. L'ouverture qu'elle a créée est juste derrière elle. Celle qui l'a toujours rabaissée. Celle qui vient d'avouer qu'elle aurait préféré ne pas être sa mère…  
 La femme la regarde un instant._
 
 _**Mère :**_ "Qu'est-ce que tu attends, espèce d'imbécile ?! Viens m'aider !"
@@ -3203,7 +3209,7 @@ _Pepper jette un dernier regard à sa génitrice. Celle-ci est terrorisée._
 
 _**Mère :**_ "Qu'est-ce que tu as fait…"
 
-_Pepper pousse un terrible cri. Elle projette sa mère dans l'ouverture, sous la lueur menaçante du feu qui gagne du terrain. La voir disparaître pour de bon la remplit de bonheur.
+_Pepper pousse un terrible cri. Elle projette sa mère dans l'ouverture, sous la lueur menaçante du feu qui gagne du terrain. La voir disparaître pour de bon la remplit de bonheur.  
 La chambre disparaît. Elle se trouve devant un arbre gigantesque, avec une jeune sorcière à ses côtés. Elle est déjà plus grande._
 
 _**Jeune sorcière :**_ "Qu'allez-vous faire, Maître ?"
@@ -3212,12 +3218,12 @@ _**Pepper :**_ "Il est hors de question que l'enseignement s'arrête. Tu vois ce
 
 _**Jeune sorcière :**_ "Mais vous ne pouvez pas continuer ainsi, Maître ! Vous avez tant bataillé pour qu'on vous prenne au sérieux ! Et la magie de Chaosah est sans doute la plus remarquable que j'ai jamais vu !"
 
-_**Pepper :**_ "Ne t'inquiète pas, va. Je sais que les demandes sont de plus en plus nombreuses, mais… je ne vois qu'une seule personne capable de me succéder. Après tout, une véritable sorcière de Chaosah…"
+_**Pepper :**_ "Ne t'inquiète pas. Je sais que les demandes sont de plus en plus nombreuses, mais… je ne vois qu'une seule personne capable de me succéder. Après tout, une véritable sorcière de Chaosah…"
 
 _**Jeune sorcière :**_ "…finit toujours ce qu'elle a commencé."
 
-_Elle lance un petit sourire vers la jeune sorcière. Malgré sa petite taille, Pepper sait qu'elle saura s'y prendre. S'y prendre pour perpétuer les traditions selon sa vision à elle, en attendant de trouver la solution à son problème.
-Le décor change à nouveau. Une épaisse forêt l'entoure. Une sorcière entièrement vêtue via des lianes et d'autres plantes lui lance un regard désolé._
+_Elle lance un petit sourire vers la jeune sorcière. Malgré sa petite taille, Pepper sait qu'elle saura s'y prendre. S'y prendre pour perpétuer les traditions selon sa vision à elle, en attendant de trouver la solution à son problème.  
+Le décor change à nouveau. Une épaisse forêt l'entoure. Une sorcière entièrement vêtue de lianes et d'autres plantes lui lance un regard désolé._
 
 _**Sorcière :**_ "Je crois que malheureusement, ce que vous me demandez dépasse mes compétences. Je suis navrée…"
 
@@ -3227,13 +3233,13 @@ _**Sorcière :**_ "Vous savez bien que ce que vous me demandez est extrêmement 
 
 _**Pepper :**_ "Taisez-vous ! J'ai assez entendu de mensonges pour aujourd'hui ! Croyez bien que je saurai m'en souvenir !"
 
-_Pepper tourne les talons avec colère, sous les yeux choqués d'une jeune sorcière aux cheveux roux.
-Plusieurs images se succèdent. Pepper se voit travailler avec acharnement, faire des expérimentations poussées bien au-delà de l'éthique… de la souffrance, des dégâts irréparables, de la magie noire… et surtout, une obsession naissante. Urgente.
+_Pepper tourne les talons avec colère, sous les yeux choqués d'une jeune sorcière aux cheveux roux.  
+Plusieurs images se succèdent. Pepper se voit travailler avec acharnement, faire des expérimentations poussées bien au-delà de l'éthique… de la souffrance, des dégâts irréparables, de la magie noire… et surtout, une obsession naissante. Urgente.  
 Nouveau décor. Pepper se trouve dans une pièce entièrement entourée d'eau. Une imposante sirène lui fait face._
 
-_**Sirène :**_ "Pourquoi traiterai-je avec une sorcière aussi malfaisante que vous ?"
+_**Sirène :**_ "Pourquoi traiterais-je avec une sorcière aussi malfaisante que vous ?"
 
-_**Pepper :**_ "Les rumeurs sont fausses ! Mes expériences ne sont pas si terribles que ce qu'on raconte !"
+_**Pepper :**_ "Les rumeurs sont fausses ! Mes expériences ne sont pas aussi terribles que ce qu'on raconte !"
 
 _**Sirène :**_ "Quoiqu'il en soit, il va falloir que vous partiez, à présent."
 
@@ -3251,7 +3257,7 @@ _**Sirène :**_ "Enfermez-la."
 
 _Plusieurs assaillants fondent sur elle à la vitesse de la lumière. Mais ils disparaissent aussitôt. Pepper se trouve maintenant face à une femme en costume, un peu âgée, encerclée par des plans, des outils et des robots en cours d'élaboration._
 
-_**Apiacée :**_ "Pour la dernière fois, la zombifiation n'a pas pour but de ramener les gens à la vie ! Il sert juste à animer des objets, c'est tout ! Et il se trouve que si vous l'utilisez sur un cadavre, c'est comme s'il revenait à la vie !"
+_**Apiacée :**_ "Pour la dernière fois, la zombifiation n'a pas pour but de ramener les gens à la vie ! Elle sert juste à animer des objets, c'est tout ! Et il se trouve que si vous l'utilisez sur un cadavre, c'est comme s'il revenait à la vie !"
 
 _**Pepper :**_ "Comme si ? Que voulez-vous dire ? Récupère-t-on son plein potentiel ? Et sa magie ? Et sa conscience ?"
 
@@ -3261,7 +3267,7 @@ _Pepper lui lance un regard noir. En se retournant, elle lance :_
 
 _**Pepper :**_ "Propagande."
 
-_Nouveau décor. Pepper se retrouve attablée en face d'une sorcière aux longs cheveux blancs, qui semble plutôt jeune malgré tout, en train de déguster du thé. Elle est enroulée dans un sorte de toge blanche._
+_Nouveau décor. Pepper se retrouve attablée en face d'une sorcière aux longs cheveux blancs, qui semble plutôt jeune malgré tout, en train de déguster du thé. Elle est enroulée dans une sorte de toge blanche._
 
 _**Sorcière :**_ "Je te vois venir avec ta question, Chicory. Les hommes et les esprits se croisent, se rencontrent, mais cela reste deux entités distinctes."
 
@@ -3271,7 +3277,7 @@ _La sorcière prend une gorgée de thé._
 
 _**Sorcière :**_ "Tu parles du livre que tu m'as dérobé ?"
 
-_**Pepper :**_ "Peu importe comment je l'ai obtenu ! J'ai vu qu'il était possible de devenir soi-même un esprit sous certaines conditions ! Dis-moi juste lesquelles, et je te laisserai tranquille !"
+_**Pepper :**_ "Peu importe comment je l'ai obtenu ! J'ai vu qu'il était possible de devenir soi-même un esprit sous certaines conditions ! Dis-moi juste lesquelles, et je te laisserais tranquille !"
 
 _La sorcière reprend une gorgée de thé. Elle soupire._
 
@@ -3287,7 +3293,7 @@ _Pepper exécute un sourire._
 
 _**Pepper :**_ "Ce sera largement suffisant."
 
-_La sorcière disparaît. Pepper se retrouve sur la Colline Sacrée de Chaosah, en compagnie de son apprentie, qui a grandi.
+_La sorcière disparaît. Pepper se retrouve sur la Colline Sacrée de Chaosah, en compagnie de son apprentie, qui a grandi.  
 Pepper a installé plusieurs marques au sol. Des bougies sont installées autour. Elle semble préparer une sorte de rituel._
 
 _**Thym :**_ "Vous êtes vraiment sûre de vouloir aller jusque-là ?"
@@ -3316,7 +3322,7 @@ _Thym a du mal à lâcher la main de son Maître. Pepper se précipite au centre
 
 _**Pepper :**_ "N'oublie pas, Thym : officiellement, je suis partie poursuivre mes expériences. Je suis sûre qu'on se reverra !"
 
-_Pepper regarde une dernière fois Thym l'implorer de rester avant de sentir son corps rester derrière elle.
+_Pepper regarde une dernière fois Thym l'implorer de rester avant de sentir son corps rester derrière elle.  
 La Colline réapparaît bientôt. En très mauvais état : elle a été fissurée, et des énormes cratères d'impact parsèment le paysage. Elle se trouve de nouveau avec Thym, mais à un âge très avancé._
 
 _**Thym :**_ "Alors vous avez réussi… vous avez réussi à survivre à votre terrible maladie !"
@@ -3331,12 +3337,12 @@ _**Thym :**_ "Maître ! Ne me laissez pas une nouvelle fois ! J'ai rarement eu a
 
 _Pepper se sent disparaître._
 
-_**Pepper :**_ "Continue de faire ce qui te semble bon, chère apprentie. Tu as mené Chaosah à son apogée, je le sais. Je suis fière de toi. Je reviendrais lorsque tu seras prête."
+_**Pepper :**_ "Continue de faire ce qui te semble bon, chère apprentie. Tu as mené Chaosah à son apogée, je le sais. Je suis fière de toi. Je reviendrai lorsque tu seras prête."
 
 _**Thym :**_ "Prête ? Prête pour quoi ? Maître !"
 
-_Mais Pepper se sent partir avant d'avoir pu ajouter quoi que ce soit. Les images se bousculent, le son défile à toute vitesse… elle a l'impression que sa tête va exploser !
-Elle sent quelque chose s'éjecter de son corps. Essoufflée, elle ouvre les yeux.
+_Mais Pepper se sent partir avant d'avoir pu ajouter quoi que ce soit. Les images se bousculent, le son défile à toute vitesse… elle a l'impression que sa tête va exploser !  
+Elle sent quelque chose s'éjecter de son corps. Essoufflée, elle ouvre les yeux.  
 Elle se trouve dans un espace sombre et agité. En face d'elle, Chicory se tient la tête, en souffrance._
 
 _**Pepper :**_ "Chicory ?"
@@ -3386,13 +3392,13 @@ _Elle éclate en sanglots dans ses bras. Pepper, surprise de pouvoir la toucher,
 
 _**Pepper :**_ "Détruire les magies, voler des vies, prendre possession de mon corps… rien de tout cela n'est pardonnable, Maître, même pour sauver votre propre vie de cette injustice fondamentale."
 
-_**Chicory :**_ "Tu ne sais pas… tu parle sans savoir… ma vie a été un désastre ! Une énorme blague ! Et tu me dis que ce que j'ai fait pour rectifier ça n'est pas pardonnable ?!"
+_**Chicory :**_ "Tu ne sais pas… tu parles sans savoir… ma vie a été un désastre ! Une énorme blague ! Et tu me dis que ce que j'ai fait pour rectifier ça n'est pas pardonnable ?!"
 
 _**Pepper :**_ "Votre vie n'a pas été un désastre ! Vous avez créé une magie incroyable, que je suis fière d'apprendre chaque jour, malgré mes plaintes ! J'ai énormément appris à vos côtés, Maître. Mais ne pensez-vous pas qu'il est temps de trouver la paix ? De laisser vos apprenties, formées par vos soins avec talent, se charger des générations futures ?"
 
 _Chicory se contente de continuer à pleurer._
 
-_**Pepper :**_ "Vous avez grandement participé au développement du monde de la magie. Vous avez fait des choses proprement incroyables, que je n'arriverai jamais à égaler ! Vous en avez assez fait, malgré votre espérance de vie réduite. Vous serez toujours une sorcière exceptionnelle à mes yeux, Maître. Ma vie ne serait pas ce qu'elle serait sans vous. Vous ne voulez pas me laisser cette image ?"
+_**Pepper :**_ "Vous avez grandement participé au développement du monde de la magie. Vous avez fait des choses proprement incroyables, que je n'arriverai jamais à égaler ! Vous en avez assez fait, malgré votre espérance de vie réduite. Vous serez toujours une sorcière exceptionnelle à mes yeux, Maître. Ma vie ne serait pas ce qu'elle est sans vous. Vous ne voulez pas me laisser cette image ?"
 
 _Chicory semble se calmer. Elle se redresse et regarde Pepper avec une tristesse mêlée de fierté._
 
@@ -3442,9 +3448,9 @@ _La dimension de Chaosah devient un peu plus instable. Le Chaos semble reprendre
 
 _**Pepper :**_ "Mais pourquoi ai-je ce sentiment tenace que vous venez de me le mettre dans l'os ?"
 
-_Elle entend des bruits sourds et des éclats de voix. L'espace s'agite davantage, et devient lumineux.
-Pepper ouvre les yeux d'un seul coup. Elle hurle de terreur aussitôt, car une explosion manque de la décapiter. Fort heureusement, une écorce solide la protège.
-En rouvrant les yeux, elle peut admirer une scène de bataille proprement violente. Les sorcières d'Aquah et Magmah attaquent l'Arbre (en s'ignorant et en essayant de se pousser quand elles le peuvent), tandis que celles d'Hippiah tentent de communier avec l'Arbre. Les marraines de Pepper ouvrent des portails et lancent des sorts dans le but de booster les attaques de Magmah et Aquah. Les sorcières de Ah, elles, dressent une barrière de protection pour protéger Komona des retombées.
+_Elle entend des bruits sourds et des éclats de voix. L'espace s'agite davantage, et devient lumineux.  
+Pepper ouvre les yeux d'un seul coup. Elle hurle de terreur aussitôt, car une explosion manque de la décapiter. Fort heureusement, une écorce solide la protège.  
+En rouvrant les yeux, elle peut admirer une scène de bataille proprement violente. Les sorcières d'Aquah et Magmah attaquent l'Arbre (en s'ignorant et en essayant de se pousser quand elles le peuvent), tandis que celles d'Hippiah tentent de communier avec l'Arbre. Les marraines de Pepper ouvrent des portails et lancent des sorts dans le but de booster les attaques de Magmah et Aquah. Les sorcières de Ah, elles, dressent une barrière de protection pour protéger Komona des retombées.  
 Pepper fait un geste de la main._
 
 _**Pepper :**_ "Eh oh ! C'est moi ! C'est fini !"
@@ -3475,7 +3481,7 @@ _Le déluge de sorts ne vient pas la frapper. En regardant de plus près, elle s
 
 _**Pepper :**_ "Petite canaille ! Tu m'as reconnue, toi, n'est-ce pas ?"
 
-_Carrot lève la patte pour confirmer.
+_Carrot lève la patte pour confirmer.  
 Les sorcières de Ah relâchent leur sort de protection, épuisées. Scutum disparaît._
 
 _**Cumin :**_ "Pepper ! Tu es saine et sauve !"
@@ -3492,7 +3498,7 @@ _**Pepper :**_ "Elle a mis un peu d'ordre dans ses affaires avant de partir."
 
 _Thym baisse la tête. Cumin vient la réconforter. Mais pas Cayenne._
 
-_**Cayenne :**_ "Hum. J'aimerai bien dire quelque chose, mais mon cher Maître ne va pas apprécier…"
+_**Cayenne :**_ "Hum. J'aimerais bien dire quelque chose, mais mon cher Maître ne va pas apprécier…"
 
 _**Cumin :**_ "Oui, tu seras gentille de t'abstenir !"
 
@@ -3582,20 +3588,20 @@ _Elle se rappelle ce que Chicory lui a dit avant de partir : "Tu rétabliras l'o
 
 _**Pepper :**_ "Oui, mais comment ?!"
 
-_Une voix familière lui traverse alors la tête. La voix de Soumbala._
+_Une voix familière lui traverse alors la tête. La voix de Soumbala._  
 
-"_La sérénité n'est que le fruit d'un désordre maîtrisé._"
+"_La sérénité n'est que le fruit d'un désordre maîtrisé._"  
 
-_Pepper se concentre. Autour de l'Arbre, et aussi à l’intérieur, les particules s'agitent de façon beaucoup trop désordonné._
+_Pepper se concentre. Autour de l'Arbre, et aussi à l’intérieur, les particules s'agitent de façon beaucoup trop désordonnée._
 
 _**Pepper :**_ "Il est temps de remettre un peu d'ordre là-dedans."
 
-_Elle tend les bras et ferme les yeux.
+_Elle tend les bras et ferme les yeux.  
 Un rayon d'énergie se dirige vers Komona._
 
 _**Safran :**_ "Oh non ! Si ce rayon atteint Komona, elle va…"
 
-_**Thym :**_ "Ne t'inquiète pas, petit impertinente !"
+_**Thym :**_ "Ne t'inquiète pas, petite impertinente !"
 
 _Les trois sorcières de Chaosah associent leur force. Un immense Trou Noir se forme juste sur la trajectoire du rayon._
 
@@ -3607,15 +3613,15 @@ _Le rayon arrive droit dans le Trou Noir. Seulement, le rayon est très puissant
 
 _**Thym :**_ "Du nerf, mesdames ! Montrons à tous ces rustres le véritable pouvoir du Chaos !"
 
-_Cumin et Cayenne résistent de toutes leurs forces, sous les yeux des sorcières des autres écoles.
+_Cumin et Cayenne résistent de toutes leurs forces, sous les yeux des sorcières des autres écoles.  
 Pepper tente de se concentrer._
 
 _**Pepper :**_ "Deviens le Désordre… maîtrise le mouvement des particules…"
 
-_Elle se voit comme une graine, qui aurait engendrée beaucoup trop de pollution. Elle essaie de capter l'ensemble de cette pollution pour en faire la sienne. La capture n'est pas si facile, car l'Arbre est vraiment dans un état de rage innommable.
+_Elle se voit comme une graine, qui aurait engendrée beaucoup trop de pollution. Elle essaie de capter l'ensemble de cette pollution pour en faire la sienne. La capture n'est pas si facile, car l'Arbre est vraiment dans un état de rage innommable.  
 Le Trou Noir diminue, mais le rayon, lui, persiste._
 
-_**Cumin :**_ "Je ne tiendrais plus très longtemps !"
+_**Cumin :**_ "Je ne tiendrai plus très longtemps !"
 
 _**Cayenne :**_ "J'arrive à bout de force, aussi !"
 
@@ -3627,17 +3633,17 @@ _**Shichimi :**_ "Cet élan de destruction doit cesser ! Nous allons utiliser no
 
 _**Basilic :**_ "Nous aussi ! Allez, mesdemoiselles ! Ralentissez ce rayon !"
 
-_Camomille et ses camarades font pousser une immense plante carnivore qui absorbe aussi une partie du rayon.
+_Camomille et ses camarades font pousser une immense plante carnivore qui absorbe aussi une partie du rayon.  
 Un gigantesque lance-flamme à tête de dragon vient heurter le rayon de plein fouet. Les sorcières de Magmah unissent leur magie pour faire reculer la menace._
 
 _**Capsica :**_ "Gnnn ! Et avec élégance, mesdemoiselles !"
 
-_Elles tentent une pose charismatique, mais la force du rayon est trop imposante pour se concentrer sur ce point.
+_Elles tentent une pose charismatique, mais la force du rayon est trop imposante pour se concentrer sur ce point.  
 La sirène d'Aquah jaillit dans un cube d'eau. Les disciples en sortent via des courants d'eau plus petits, et se mettent à tourner à toute vitesse pour créer un tourbillon suffisamment puissant pour absorber une partie du rayon._
 
 _**Sirène :**_ "Nous pouvons y arriver ! Du nerf !"
 
-_Cette entraide redonne du courage aux trois sorcières, qui trouvent leur second souffle.
+_Cette entraide redonne du courage aux trois sorcières, qui trouvent leur second souffle.  
 Pepper, quant à elle, éprouve des difficultés. Agacée, elle relâche son sort._
 
 _**Pepper :**_ "Allez ! Pourquoi je n'y arrive pas ?!!"
@@ -3672,10 +3678,10 @@ _Elle recommence son sort de Désordre. Elle ne saurait dire pourquoi, mais elle
 
 _**Pepper :**_ "Je suis Pepper de Chaosah, l'héritière du Désordre ! Je vous ordonne de reprendre un cycle d'agitation d'entropie convenable ! MAINTENANT !"
 
-_Un immense pouvoir jaillit des racines les plus enfouies de l'Arbre. En détournant la tête, Pepper peut voir une flèche de lumière, plantée dans le tronc, être absorbée par l'Arbre. Cela semble décupler sa force.
-Les sorcières faiblissent à arrêter le rayon. Mais bientôt, un rayon bien plus puissant émerge de l'Arbre. Un rayon d'énergie noire et blanche, qui va frapper les cieux, le teintant de lumière et de ténèbre. Les sorcières sont bouches bées dans leur effort.
-Le rayon attaquant Komona disparaît d'un seul coup. L'immense colonne de lumière aussi. Les sorcières s'effondrent, essoufflées, à bout de force. Le champ de bataille est redevenu silencieux.
-Safran s'est effondrée à côté de Spiruline._
+_Un immense pouvoir jaillit des racines les plus enfouies de l'Arbre. En détournant la tête, Pepper peut voir une flèche de lumière, plantée dans le tronc, être absorbée par l'Arbre. Cela semble décupler sa force.  
+Les sorcières faiblissent à arrêter le rayon. Mais bientôt, un rayon bien plus puissant émerge de l'Arbre. Un rayon d'énergie noire et blanche, qui va frapper les cieux, le teintant de lumière et de ténèbres. Les sorcières sont bouches bées dans leur effort.  
+Le rayon attaquant Komona disparaît d'un seul coup. L'immense colonne de lumière aussi. Les sorcières s'effondrent, essoufflées, à bout de force. Le champ de bataille est redevenu silencieux.  
+Safran s'est écroulée à côté de Spiruline._
 
 _**Safran :**_ "T'es vraiment pas mal pour un poisson…"
 
@@ -3697,8 +3703,8 @@ _Shichimi montre quelqu'un du doigt. Toutes les sorcières regardent dans la mê
 
 _**Pepper :**_ "Salut ! Rassurez-vous : c'est terminé. L'Arbre s'est calmé."
 
-_Un grand silence s'élève. Pepper prend peur : vont-elles l'attaquer en représailles ?
-Mais Basilic commence à l'applaudir. Ses disciples la suivent avec entrain. Bientôt, ce sont toutes les sorcières qui la félicitent avec le sourire. Même Safran, voyant son Maître féliciter Pepper, décide d'applaudir à contrecœur. 
+_Un grand silence s'élève. Pepper prend peur : vont-elles l'attaquer en représailles ?  
+Mais Basilic commence à l'applaudir. Ses disciples la suivent avec entrain. Bientôt, ce sont toutes les sorcières qui la félicitent avec le sourire. Même Safran, voyant son Maître féliciter Pepper, décide d'applaudir à contrecœur.  
 Même Thym, Cumin et Cayenne l'applaudissent avec le sourire. Pepper, gênée comme jamais, cache son visage dans ses mains._
 
 _**Pepper :**_ "Oh, par pitié, arrêtez ! Je vais mourir de gêne !"
@@ -3713,8 +3719,8 @@ _**Cayenne :**_ "L'absence d'amour et d'espoir peuvent rendre fou n'importe qui,
 
 _**Pepper :**_ "Merci, Maître. J'ai encore beaucoup à apprendre de vous. Vous assurez quand même pas mal, pour des cadavres ambulants !"
 
-_Les réprimandes sont masquées par les autres sorcières qui se relèvent avec mal pour venir la féliciter. Pepper ne s'était jamais sentie aussi appréciée. Elle espère que ce geste sera pris comme une excuse de Chaosah pour tout le mal qu'elle a causé.
-Même Basilic se dit impressionnée par ses pouvoirs ! Malgré la vague de destruction qui vient d’avoir lieu, Pepper a le sentiment d'avoir atteint un équilibre dans sa vie._
+_Les réprimandes sont masquées par les autres sorcières qui se relèvent avec mal pour venir la féliciter. Pepper ne s'était jamais sentie aussi appréciée. Elle espère que ce geste sera pris comme une excuse de Chaosah pour tout le mal qu'elle a causé.  
+Même Basilic se dit impressionnée par ses pouvoirs ! Malgré la vague de destruction qui vient d’avoir lieu, Pepper a le sentiment d'avoir atteint un équilibre dans sa vie._  
 
 _L'euphorie est interrompue par Shichimi. Elle est essoufflée._
 
@@ -3731,12 +3737,12 @@ _Pepper lui lance un regard inquiet. Peut-être a-t-elle été brisée par l'Arb
 
 ## Épilogue : L’Éternité servi froid
 
-_Les sous-sols d'un château. Un escalier bien familier. Une salle secrète, des sphères alignées…
-Elle pose un objet en forme de triangle sur un réceptacle. Un triangle relativement impossible. L'objet scintille de mille feux, sous son regard avide. Qui se reporte sur un autre réceptacle, vide._
+_Les sous-sols d'un château. Un escalier bien familier. Une salle secrète, des sphères alignées…  
+Elle pose un objet en forme de triangle sur un réceptacle. Un triangle relativement impossible. L'objet scintille de mille feux, sous son regard avide. Qui se reporte sur un autre réceptacle, vide._  
 
-_Son œil se teinte d'un éclat rivalisant avec la lumière du triangle. Elle regarde à travers la fenêtre. Les trois lunes sont magnifiques. Elles annoncent des changements radicaux dans l'air._
+_Son œil se teinte d'un éclat rivalisant avec la lumière du triangle. Elle regarde à travers la fenêtre. Les trois lunes sont magnifiques. Elles annoncent des changements radicaux dans l'air._  
 
-_Bientôt._
+_Bientôt._  
 
 _**Wasabi :**_ "L’heure est proche, maintenant…"
 
