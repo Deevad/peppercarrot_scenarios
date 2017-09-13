@@ -113,7 +113,7 @@ _**Pepper :**_ "MAIS NON, JE ME CALME PAS ! On a failli être réduites en bouil
 
 _Aussi vite qu'un boulet de canon, Thym se rue sur Pepper, comme si elle n'avait jamais été dans un état second, et commence à gronder._
 
-_**Thym :**_ "MAIS VAS-TU TE TAIRE, UNE FOIS POUR TOUTE ?! Ce n'est pourtant par sorcier de constater que nous ne savons pas ce qui vient d'arriver ! Ah, aucun sens de l'observation, ni de la déduction ! C'est affligeant ! Alors laisse-nous réfléchir deux minutes, nom d'un chaudron !"
+_**Thym :**_ "MAIS VAS-TU TE TAIRE, UNE FOIS POUR TOUTE ?! Ce n'est pourtant pas sorcier de constater que nous ne savons pas ce qui vient d'arriver ! Ah, aucun sens de l'observation, ni de la déduction ! C'est affligeant ! Alors laisse-nous réfléchir deux minutes, nom d'un chaudron !"
 
 _Pepper, surprise par ce déluge d'énergie venant d'une vieille sorcière convalescente, préfère se taire. Les trois marraines se réunissent autour du lieu de l'incident, les sourcils froncés._
 
