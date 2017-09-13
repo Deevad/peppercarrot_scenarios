@@ -92,7 +92,7 @@ _Elle se jette sur Pepper pour la repousser. Une immense colonne d'énergie noir
 _Les secousses semblent durer des heures. Pepper est trop effrayée pour tenter quoi que ce soit. Elle sent Carrot grelotter contre elle. Le pauvre doit être bien plus apeuré qu'elle. Elle doit le rassurer à tout prix._
 
 
-_**Pepper** (murmurant à l'oreille de son chat) **:**_ "Ne t'inquiètes pas… je te protège, il ne peut rien t'arriver."
+_**Pepper** (murmurant à l'oreille de son chat) **:**_ "Ne t'inquiète pas… je te protège, il ne peut rien t'arriver."
 
 _En ouvrant les yeux pour calmer son chat, Pepper constate qu'elle se trouve à l'intérieur d'une barrière magique. Celle-ci est générée par Cayenne, debout en face de Pepper, occupée à maintenir le mur de défense magique. Elle n'avait jamais vu Cayenne aussi déterminée…_
 
